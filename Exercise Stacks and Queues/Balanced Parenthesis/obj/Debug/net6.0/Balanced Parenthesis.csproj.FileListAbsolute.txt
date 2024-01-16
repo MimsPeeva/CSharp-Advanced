@@ -1,0 +1,15 @@
+D:\CSharp-Advanced\Exercise Stacks and Queues\Balanced Parenthesis\bin\Debug\net6.0\Balanced Parenthesis.exe
+D:\CSharp-Advanced\Exercise Stacks and Queues\Balanced Parenthesis\bin\Debug\net6.0\Balanced Parenthesis.deps.json
+D:\CSharp-Advanced\Exercise Stacks and Queues\Balanced Parenthesis\bin\Debug\net6.0\Balanced Parenthesis.runtimeconfig.json
+D:\CSharp-Advanced\Exercise Stacks and Queues\Balanced Parenthesis\bin\Debug\net6.0\Balanced Parenthesis.dll
+D:\CSharp-Advanced\Exercise Stacks and Queues\Balanced Parenthesis\bin\Debug\net6.0\Balanced Parenthesis.pdb
+D:\CSharp-Advanced\Exercise Stacks and Queues\Balanced Parenthesis\obj\Debug\net6.0\Balanced Parenthesis.csproj.AssemblyReference.cache
+D:\CSharp-Advanced\Exercise Stacks and Queues\Balanced Parenthesis\obj\Debug\net6.0\Balanced Parenthesis.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp-Advanced\Exercise Stacks and Queues\Balanced Parenthesis\obj\Debug\net6.0\Balanced Parenthesis.AssemblyInfoInputs.cache
+D:\CSharp-Advanced\Exercise Stacks and Queues\Balanced Parenthesis\obj\Debug\net6.0\Balanced Parenthesis.AssemblyInfo.cs
+D:\CSharp-Advanced\Exercise Stacks and Queues\Balanced Parenthesis\obj\Debug\net6.0\Balanced Parenthesis.csproj.CoreCompileInputs.cache
+D:\CSharp-Advanced\Exercise Stacks and Queues\Balanced Parenthesis\obj\Debug\net6.0\Balanced Parenthesis.dll
+D:\CSharp-Advanced\Exercise Stacks and Queues\Balanced Parenthesis\obj\Debug\net6.0\refint\Balanced Parenthesis.dll
+D:\CSharp-Advanced\Exercise Stacks and Queues\Balanced Parenthesis\obj\Debug\net6.0\Balanced Parenthesis.pdb
+D:\CSharp-Advanced\Exercise Stacks and Queues\Balanced Parenthesis\obj\Debug\net6.0\Balanced Parenthesis.genruntimeconfig.cache
+D:\CSharp-Advanced\Exercise Stacks and Queues\Balanced Parenthesis\obj\Debug\net6.0\ref\Balanced Parenthesis.dll

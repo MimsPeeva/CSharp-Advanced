@@ -1,0 +1,15 @@
+D:\CSharp-Advanced\Exercise Stacks and Queues\Fast Food\bin\Debug\net6.0\Fast Food.exe
+D:\CSharp-Advanced\Exercise Stacks and Queues\Fast Food\bin\Debug\net6.0\Fast Food.deps.json
+D:\CSharp-Advanced\Exercise Stacks and Queues\Fast Food\bin\Debug\net6.0\Fast Food.runtimeconfig.json
+D:\CSharp-Advanced\Exercise Stacks and Queues\Fast Food\bin\Debug\net6.0\Fast Food.dll
+D:\CSharp-Advanced\Exercise Stacks and Queues\Fast Food\bin\Debug\net6.0\Fast Food.pdb
+D:\CSharp-Advanced\Exercise Stacks and Queues\Fast Food\obj\Debug\net6.0\Fast Food.csproj.AssemblyReference.cache
+D:\CSharp-Advanced\Exercise Stacks and Queues\Fast Food\obj\Debug\net6.0\Fast Food.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp-Advanced\Exercise Stacks and Queues\Fast Food\obj\Debug\net6.0\Fast Food.AssemblyInfoInputs.cache
+D:\CSharp-Advanced\Exercise Stacks and Queues\Fast Food\obj\Debug\net6.0\Fast Food.AssemblyInfo.cs
+D:\CSharp-Advanced\Exercise Stacks and Queues\Fast Food\obj\Debug\net6.0\Fast Food.csproj.CoreCompileInputs.cache
+D:\CSharp-Advanced\Exercise Stacks and Queues\Fast Food\obj\Debug\net6.0\Fast Food.dll
+D:\CSharp-Advanced\Exercise Stacks and Queues\Fast Food\obj\Debug\net6.0\refint\Fast Food.dll
+D:\CSharp-Advanced\Exercise Stacks and Queues\Fast Food\obj\Debug\net6.0\Fast Food.pdb
+D:\CSharp-Advanced\Exercise Stacks and Queues\Fast Food\obj\Debug\net6.0\Fast Food.genruntimeconfig.cache
+D:\CSharp-Advanced\Exercise Stacks and Queues\Fast Food\obj\Debug\net6.0\ref\Fast Food.dll

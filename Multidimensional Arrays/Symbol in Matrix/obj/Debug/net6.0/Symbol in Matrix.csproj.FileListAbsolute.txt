@@ -1,0 +1,15 @@
+D:\CSharp-Advanced\Multidimensional Arrays\Symbol in Matrix\bin\Debug\net6.0\Symbol in Matrix.exe
+D:\CSharp-Advanced\Multidimensional Arrays\Symbol in Matrix\bin\Debug\net6.0\Symbol in Matrix.deps.json
+D:\CSharp-Advanced\Multidimensional Arrays\Symbol in Matrix\bin\Debug\net6.0\Symbol in Matrix.runtimeconfig.json
+D:\CSharp-Advanced\Multidimensional Arrays\Symbol in Matrix\bin\Debug\net6.0\Symbol in Matrix.dll
+D:\CSharp-Advanced\Multidimensional Arrays\Symbol in Matrix\bin\Debug\net6.0\Symbol in Matrix.pdb
+D:\CSharp-Advanced\Multidimensional Arrays\Symbol in Matrix\obj\Debug\net6.0\Symbol in Matrix.csproj.AssemblyReference.cache
+D:\CSharp-Advanced\Multidimensional Arrays\Symbol in Matrix\obj\Debug\net6.0\Symbol in Matrix.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp-Advanced\Multidimensional Arrays\Symbol in Matrix\obj\Debug\net6.0\Symbol in Matrix.AssemblyInfoInputs.cache
+D:\CSharp-Advanced\Multidimensional Arrays\Symbol in Matrix\obj\Debug\net6.0\Symbol in Matrix.AssemblyInfo.cs
+D:\CSharp-Advanced\Multidimensional Arrays\Symbol in Matrix\obj\Debug\net6.0\Symbol in Matrix.csproj.CoreCompileInputs.cache
+D:\CSharp-Advanced\Multidimensional Arrays\Symbol in Matrix\obj\Debug\net6.0\Symbol in Matrix.dll
+D:\CSharp-Advanced\Multidimensional Arrays\Symbol in Matrix\obj\Debug\net6.0\refint\Symbol in Matrix.dll
+D:\CSharp-Advanced\Multidimensional Arrays\Symbol in Matrix\obj\Debug\net6.0\Symbol in Matrix.pdb
+D:\CSharp-Advanced\Multidimensional Arrays\Symbol in Matrix\obj\Debug\net6.0\Symbol in Matrix.genruntimeconfig.cache
+D:\CSharp-Advanced\Multidimensional Arrays\Symbol in Matrix\obj\Debug\net6.0\ref\Symbol in Matrix.dll

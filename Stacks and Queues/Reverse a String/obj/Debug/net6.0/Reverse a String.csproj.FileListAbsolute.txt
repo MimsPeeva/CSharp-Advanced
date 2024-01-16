@@ -1,0 +1,15 @@
+D:\CSharp-Advanced\Stacks and Queues\Reverse a String\bin\Debug\net6.0\Reverse a String.exe
+D:\CSharp-Advanced\Stacks and Queues\Reverse a String\bin\Debug\net6.0\Reverse a String.deps.json
+D:\CSharp-Advanced\Stacks and Queues\Reverse a String\bin\Debug\net6.0\Reverse a String.runtimeconfig.json
+D:\CSharp-Advanced\Stacks and Queues\Reverse a String\bin\Debug\net6.0\Reverse a String.dll
+D:\CSharp-Advanced\Stacks and Queues\Reverse a String\bin\Debug\net6.0\Reverse a String.pdb
+D:\CSharp-Advanced\Stacks and Queues\Reverse a String\obj\Debug\net6.0\Reverse a String.csproj.AssemblyReference.cache
+D:\CSharp-Advanced\Stacks and Queues\Reverse a String\obj\Debug\net6.0\Reverse a String.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp-Advanced\Stacks and Queues\Reverse a String\obj\Debug\net6.0\Reverse a String.AssemblyInfoInputs.cache
+D:\CSharp-Advanced\Stacks and Queues\Reverse a String\obj\Debug\net6.0\Reverse a String.AssemblyInfo.cs
+D:\CSharp-Advanced\Stacks and Queues\Reverse a String\obj\Debug\net6.0\Reverse a String.csproj.CoreCompileInputs.cache
+D:\CSharp-Advanced\Stacks and Queues\Reverse a String\obj\Debug\net6.0\Reverse a String.dll
+D:\CSharp-Advanced\Stacks and Queues\Reverse a String\obj\Debug\net6.0\refint\Reverse a String.dll
+D:\CSharp-Advanced\Stacks and Queues\Reverse a String\obj\Debug\net6.0\Reverse a String.pdb
+D:\CSharp-Advanced\Stacks and Queues\Reverse a String\obj\Debug\net6.0\Reverse a String.genruntimeconfig.cache
+D:\CSharp-Advanced\Stacks and Queues\Reverse a String\obj\Debug\net6.0\ref\Reverse a String.dll

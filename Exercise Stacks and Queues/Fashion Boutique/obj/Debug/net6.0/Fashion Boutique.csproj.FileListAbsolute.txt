@@ -1,0 +1,15 @@
+D:\CSharp-Advanced\Exercise Stacks and Queues\Fashion Boutique\bin\Debug\net6.0\Fashion Boutique.exe
+D:\CSharp-Advanced\Exercise Stacks and Queues\Fashion Boutique\bin\Debug\net6.0\Fashion Boutique.deps.json
+D:\CSharp-Advanced\Exercise Stacks and Queues\Fashion Boutique\bin\Debug\net6.0\Fashion Boutique.runtimeconfig.json
+D:\CSharp-Advanced\Exercise Stacks and Queues\Fashion Boutique\bin\Debug\net6.0\Fashion Boutique.dll
+D:\CSharp-Advanced\Exercise Stacks and Queues\Fashion Boutique\bin\Debug\net6.0\Fashion Boutique.pdb
+D:\CSharp-Advanced\Exercise Stacks and Queues\Fashion Boutique\obj\Debug\net6.0\Fashion Boutique.csproj.AssemblyReference.cache
+D:\CSharp-Advanced\Exercise Stacks and Queues\Fashion Boutique\obj\Debug\net6.0\Fashion Boutique.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp-Advanced\Exercise Stacks and Queues\Fashion Boutique\obj\Debug\net6.0\Fashion Boutique.AssemblyInfoInputs.cache
+D:\CSharp-Advanced\Exercise Stacks and Queues\Fashion Boutique\obj\Debug\net6.0\Fashion Boutique.AssemblyInfo.cs
+D:\CSharp-Advanced\Exercise Stacks and Queues\Fashion Boutique\obj\Debug\net6.0\Fashion Boutique.csproj.CoreCompileInputs.cache
+D:\CSharp-Advanced\Exercise Stacks and Queues\Fashion Boutique\obj\Debug\net6.0\Fashion Boutique.dll
+D:\CSharp-Advanced\Exercise Stacks and Queues\Fashion Boutique\obj\Debug\net6.0\refint\Fashion Boutique.dll
+D:\CSharp-Advanced\Exercise Stacks and Queues\Fashion Boutique\obj\Debug\net6.0\Fashion Boutique.pdb
+D:\CSharp-Advanced\Exercise Stacks and Queues\Fashion Boutique\obj\Debug\net6.0\Fashion Boutique.genruntimeconfig.cache
+D:\CSharp-Advanced\Exercise Stacks and Queues\Fashion Boutique\obj\Debug\net6.0\ref\Fashion Boutique.dll

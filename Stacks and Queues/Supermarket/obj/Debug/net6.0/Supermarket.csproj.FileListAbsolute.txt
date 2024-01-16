@@ -1,0 +1,15 @@
+D:\CSharp-Advanced\Stacks and Queues\Supermarket\bin\Debug\net6.0\Supermarket.exe
+D:\CSharp-Advanced\Stacks and Queues\Supermarket\bin\Debug\net6.0\Supermarket.deps.json
+D:\CSharp-Advanced\Stacks and Queues\Supermarket\bin\Debug\net6.0\Supermarket.runtimeconfig.json
+D:\CSharp-Advanced\Stacks and Queues\Supermarket\bin\Debug\net6.0\Supermarket.dll
+D:\CSharp-Advanced\Stacks and Queues\Supermarket\bin\Debug\net6.0\Supermarket.pdb
+D:\CSharp-Advanced\Stacks and Queues\Supermarket\obj\Debug\net6.0\Supermarket.csproj.AssemblyReference.cache
+D:\CSharp-Advanced\Stacks and Queues\Supermarket\obj\Debug\net6.0\Supermarket.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp-Advanced\Stacks and Queues\Supermarket\obj\Debug\net6.0\Supermarket.AssemblyInfoInputs.cache
+D:\CSharp-Advanced\Stacks and Queues\Supermarket\obj\Debug\net6.0\Supermarket.AssemblyInfo.cs
+D:\CSharp-Advanced\Stacks and Queues\Supermarket\obj\Debug\net6.0\Supermarket.csproj.CoreCompileInputs.cache
+D:\CSharp-Advanced\Stacks and Queues\Supermarket\obj\Debug\net6.0\Supermarket.dll
+D:\CSharp-Advanced\Stacks and Queues\Supermarket\obj\Debug\net6.0\refint\Supermarket.dll
+D:\CSharp-Advanced\Stacks and Queues\Supermarket\obj\Debug\net6.0\Supermarket.pdb
+D:\CSharp-Advanced\Stacks and Queues\Supermarket\obj\Debug\net6.0\Supermarket.genruntimeconfig.cache
+D:\CSharp-Advanced\Stacks and Queues\Supermarket\obj\Debug\net6.0\ref\Supermarket.dll

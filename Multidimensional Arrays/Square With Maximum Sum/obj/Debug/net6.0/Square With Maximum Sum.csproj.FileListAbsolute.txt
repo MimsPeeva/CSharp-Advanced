@@ -1,0 +1,15 @@
+D:\CSharp-Advanced\Multidimensional Arrays\Square With Maximum Sum\bin\Debug\net6.0\Square With Maximum Sum.exe
+D:\CSharp-Advanced\Multidimensional Arrays\Square With Maximum Sum\bin\Debug\net6.0\Square With Maximum Sum.deps.json
+D:\CSharp-Advanced\Multidimensional Arrays\Square With Maximum Sum\bin\Debug\net6.0\Square With Maximum Sum.runtimeconfig.json
+D:\CSharp-Advanced\Multidimensional Arrays\Square With Maximum Sum\bin\Debug\net6.0\Square With Maximum Sum.dll
+D:\CSharp-Advanced\Multidimensional Arrays\Square With Maximum Sum\bin\Debug\net6.0\Square With Maximum Sum.pdb
+D:\CSharp-Advanced\Multidimensional Arrays\Square With Maximum Sum\obj\Debug\net6.0\Square With Maximum Sum.csproj.AssemblyReference.cache
+D:\CSharp-Advanced\Multidimensional Arrays\Square With Maximum Sum\obj\Debug\net6.0\Square With Maximum Sum.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp-Advanced\Multidimensional Arrays\Square With Maximum Sum\obj\Debug\net6.0\Square With Maximum Sum.AssemblyInfoInputs.cache
+D:\CSharp-Advanced\Multidimensional Arrays\Square With Maximum Sum\obj\Debug\net6.0\Square With Maximum Sum.AssemblyInfo.cs
+D:\CSharp-Advanced\Multidimensional Arrays\Square With Maximum Sum\obj\Debug\net6.0\Square With Maximum Sum.csproj.CoreCompileInputs.cache
+D:\CSharp-Advanced\Multidimensional Arrays\Square With Maximum Sum\obj\Debug\net6.0\Square With Maximum Sum.dll
+D:\CSharp-Advanced\Multidimensional Arrays\Square With Maximum Sum\obj\Debug\net6.0\refint\Square With Maximum Sum.dll
+D:\CSharp-Advanced\Multidimensional Arrays\Square With Maximum Sum\obj\Debug\net6.0\Square With Maximum Sum.pdb
+D:\CSharp-Advanced\Multidimensional Arrays\Square With Maximum Sum\obj\Debug\net6.0\Square With Maximum Sum.genruntimeconfig.cache
+D:\CSharp-Advanced\Multidimensional Arrays\Square With Maximum Sum\obj\Debug\net6.0\ref\Square With Maximum Sum.dll

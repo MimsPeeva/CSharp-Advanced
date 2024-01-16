@@ -1,0 +1,15 @@
+D:\CSharp-Advanced\Exercise Multidimensional Arrays\Diagonal Difference\bin\Debug\net6.0\Diagonal Difference.exe
+D:\CSharp-Advanced\Exercise Multidimensional Arrays\Diagonal Difference\bin\Debug\net6.0\Diagonal Difference.deps.json
+D:\CSharp-Advanced\Exercise Multidimensional Arrays\Diagonal Difference\bin\Debug\net6.0\Diagonal Difference.runtimeconfig.json
+D:\CSharp-Advanced\Exercise Multidimensional Arrays\Diagonal Difference\bin\Debug\net6.0\Diagonal Difference.dll
+D:\CSharp-Advanced\Exercise Multidimensional Arrays\Diagonal Difference\bin\Debug\net6.0\Diagonal Difference.pdb
+D:\CSharp-Advanced\Exercise Multidimensional Arrays\Diagonal Difference\obj\Debug\net6.0\Diagonal Difference.csproj.AssemblyReference.cache
+D:\CSharp-Advanced\Exercise Multidimensional Arrays\Diagonal Difference\obj\Debug\net6.0\Diagonal Difference.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp-Advanced\Exercise Multidimensional Arrays\Diagonal Difference\obj\Debug\net6.0\Diagonal Difference.AssemblyInfoInputs.cache
+D:\CSharp-Advanced\Exercise Multidimensional Arrays\Diagonal Difference\obj\Debug\net6.0\Diagonal Difference.AssemblyInfo.cs
+D:\CSharp-Advanced\Exercise Multidimensional Arrays\Diagonal Difference\obj\Debug\net6.0\Diagonal Difference.csproj.CoreCompileInputs.cache
+D:\CSharp-Advanced\Exercise Multidimensional Arrays\Diagonal Difference\obj\Debug\net6.0\Diagonal Difference.dll
+D:\CSharp-Advanced\Exercise Multidimensional Arrays\Diagonal Difference\obj\Debug\net6.0\refint\Diagonal Difference.dll
+D:\CSharp-Advanced\Exercise Multidimensional Arrays\Diagonal Difference\obj\Debug\net6.0\Diagonal Difference.pdb
+D:\CSharp-Advanced\Exercise Multidimensional Arrays\Diagonal Difference\obj\Debug\net6.0\Diagonal Difference.genruntimeconfig.cache
+D:\CSharp-Advanced\Exercise Multidimensional Arrays\Diagonal Difference\obj\Debug\net6.0\ref\Diagonal Difference.dll

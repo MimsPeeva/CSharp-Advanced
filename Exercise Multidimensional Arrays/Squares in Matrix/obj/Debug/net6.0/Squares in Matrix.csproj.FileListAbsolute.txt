@@ -1,0 +1,15 @@
+D:\CSharp-Advanced\Exercise Multidimensional Arrays\Squares in Matrix\bin\Debug\net6.0\Squares in Matrix.exe
+D:\CSharp-Advanced\Exercise Multidimensional Arrays\Squares in Matrix\bin\Debug\net6.0\Squares in Matrix.deps.json
+D:\CSharp-Advanced\Exercise Multidimensional Arrays\Squares in Matrix\bin\Debug\net6.0\Squares in Matrix.runtimeconfig.json
+D:\CSharp-Advanced\Exercise Multidimensional Arrays\Squares in Matrix\bin\Debug\net6.0\Squares in Matrix.dll
+D:\CSharp-Advanced\Exercise Multidimensional Arrays\Squares in Matrix\bin\Debug\net6.0\Squares in Matrix.pdb
+D:\CSharp-Advanced\Exercise Multidimensional Arrays\Squares in Matrix\obj\Debug\net6.0\Squares in Matrix.csproj.AssemblyReference.cache
+D:\CSharp-Advanced\Exercise Multidimensional Arrays\Squares in Matrix\obj\Debug\net6.0\Squares in Matrix.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp-Advanced\Exercise Multidimensional Arrays\Squares in Matrix\obj\Debug\net6.0\Squares in Matrix.AssemblyInfoInputs.cache
+D:\CSharp-Advanced\Exercise Multidimensional Arrays\Squares in Matrix\obj\Debug\net6.0\Squares in Matrix.AssemblyInfo.cs
+D:\CSharp-Advanced\Exercise Multidimensional Arrays\Squares in Matrix\obj\Debug\net6.0\Squares in Matrix.csproj.CoreCompileInputs.cache
+D:\CSharp-Advanced\Exercise Multidimensional Arrays\Squares in Matrix\obj\Debug\net6.0\Squares in Matrix.dll
+D:\CSharp-Advanced\Exercise Multidimensional Arrays\Squares in Matrix\obj\Debug\net6.0\refint\Squares in Matrix.dll
+D:\CSharp-Advanced\Exercise Multidimensional Arrays\Squares in Matrix\obj\Debug\net6.0\Squares in Matrix.pdb
+D:\CSharp-Advanced\Exercise Multidimensional Arrays\Squares in Matrix\obj\Debug\net6.0\Squares in Matrix.genruntimeconfig.cache
+D:\CSharp-Advanced\Exercise Multidimensional Arrays\Squares in Matrix\obj\Debug\net6.0\ref\Squares in Matrix.dll

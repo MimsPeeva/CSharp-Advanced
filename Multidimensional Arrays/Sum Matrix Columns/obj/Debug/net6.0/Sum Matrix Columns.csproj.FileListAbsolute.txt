@@ -1,0 +1,15 @@
+D:\CSharp-Advanced\Multidimensional Arrays\Sum Matrix Columns\bin\Debug\net6.0\Sum Matrix Columns.exe
+D:\CSharp-Advanced\Multidimensional Arrays\Sum Matrix Columns\bin\Debug\net6.0\Sum Matrix Columns.deps.json
+D:\CSharp-Advanced\Multidimensional Arrays\Sum Matrix Columns\bin\Debug\net6.0\Sum Matrix Columns.runtimeconfig.json
+D:\CSharp-Advanced\Multidimensional Arrays\Sum Matrix Columns\bin\Debug\net6.0\Sum Matrix Columns.dll
+D:\CSharp-Advanced\Multidimensional Arrays\Sum Matrix Columns\bin\Debug\net6.0\Sum Matrix Columns.pdb
+D:\CSharp-Advanced\Multidimensional Arrays\Sum Matrix Columns\obj\Debug\net6.0\Sum Matrix Columns.csproj.AssemblyReference.cache
+D:\CSharp-Advanced\Multidimensional Arrays\Sum Matrix Columns\obj\Debug\net6.0\Sum Matrix Columns.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp-Advanced\Multidimensional Arrays\Sum Matrix Columns\obj\Debug\net6.0\Sum Matrix Columns.AssemblyInfoInputs.cache
+D:\CSharp-Advanced\Multidimensional Arrays\Sum Matrix Columns\obj\Debug\net6.0\Sum Matrix Columns.AssemblyInfo.cs
+D:\CSharp-Advanced\Multidimensional Arrays\Sum Matrix Columns\obj\Debug\net6.0\Sum Matrix Columns.csproj.CoreCompileInputs.cache
+D:\CSharp-Advanced\Multidimensional Arrays\Sum Matrix Columns\obj\Debug\net6.0\Sum Matrix Columns.dll
+D:\CSharp-Advanced\Multidimensional Arrays\Sum Matrix Columns\obj\Debug\net6.0\refint\Sum Matrix Columns.dll
+D:\CSharp-Advanced\Multidimensional Arrays\Sum Matrix Columns\obj\Debug\net6.0\Sum Matrix Columns.pdb
+D:\CSharp-Advanced\Multidimensional Arrays\Sum Matrix Columns\obj\Debug\net6.0\Sum Matrix Columns.genruntimeconfig.cache
+D:\CSharp-Advanced\Multidimensional Arrays\Sum Matrix Columns\obj\Debug\net6.0\ref\Sum Matrix Columns.dll

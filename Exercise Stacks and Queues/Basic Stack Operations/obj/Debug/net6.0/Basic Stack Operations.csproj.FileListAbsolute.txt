@@ -1,0 +1,15 @@
+D:\CSharp-Advanced\Exercise Stacks and Queues\Basic Stack Operations\bin\Debug\net6.0\Basic Stack Operations.exe
+D:\CSharp-Advanced\Exercise Stacks and Queues\Basic Stack Operations\bin\Debug\net6.0\Basic Stack Operations.deps.json
+D:\CSharp-Advanced\Exercise Stacks and Queues\Basic Stack Operations\bin\Debug\net6.0\Basic Stack Operations.runtimeconfig.json
+D:\CSharp-Advanced\Exercise Stacks and Queues\Basic Stack Operations\bin\Debug\net6.0\Basic Stack Operations.dll
+D:\CSharp-Advanced\Exercise Stacks and Queues\Basic Stack Operations\bin\Debug\net6.0\Basic Stack Operations.pdb
+D:\CSharp-Advanced\Exercise Stacks and Queues\Basic Stack Operations\obj\Debug\net6.0\Basic Stack Operations.csproj.AssemblyReference.cache
+D:\CSharp-Advanced\Exercise Stacks and Queues\Basic Stack Operations\obj\Debug\net6.0\Basic Stack Operations.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp-Advanced\Exercise Stacks and Queues\Basic Stack Operations\obj\Debug\net6.0\Basic Stack Operations.AssemblyInfoInputs.cache
+D:\CSharp-Advanced\Exercise Stacks and Queues\Basic Stack Operations\obj\Debug\net6.0\Basic Stack Operations.AssemblyInfo.cs
+D:\CSharp-Advanced\Exercise Stacks and Queues\Basic Stack Operations\obj\Debug\net6.0\Basic Stack Operations.csproj.CoreCompileInputs.cache
+D:\CSharp-Advanced\Exercise Stacks and Queues\Basic Stack Operations\obj\Debug\net6.0\Basic Stack Operations.dll
+D:\CSharp-Advanced\Exercise Stacks and Queues\Basic Stack Operations\obj\Debug\net6.0\refint\Basic Stack Operations.dll
+D:\CSharp-Advanced\Exercise Stacks and Queues\Basic Stack Operations\obj\Debug\net6.0\Basic Stack Operations.pdb
+D:\CSharp-Advanced\Exercise Stacks and Queues\Basic Stack Operations\obj\Debug\net6.0\Basic Stack Operations.genruntimeconfig.cache
+D:\CSharp-Advanced\Exercise Stacks and Queues\Basic Stack Operations\obj\Debug\net6.0\ref\Basic Stack Operations.dll
