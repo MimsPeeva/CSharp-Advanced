@@ -1,0 +1,15 @@
+D:\CSharp-Advanced\Sets and Dictionaries Advanced\Record Unique Names\bin\Debug\net6.0\Record Unique Names.exe
+D:\CSharp-Advanced\Sets and Dictionaries Advanced\Record Unique Names\bin\Debug\net6.0\Record Unique Names.deps.json
+D:\CSharp-Advanced\Sets and Dictionaries Advanced\Record Unique Names\bin\Debug\net6.0\Record Unique Names.runtimeconfig.json
+D:\CSharp-Advanced\Sets and Dictionaries Advanced\Record Unique Names\bin\Debug\net6.0\Record Unique Names.dll
+D:\CSharp-Advanced\Sets and Dictionaries Advanced\Record Unique Names\bin\Debug\net6.0\Record Unique Names.pdb
+D:\CSharp-Advanced\Sets and Dictionaries Advanced\Record Unique Names\obj\Debug\net6.0\Record Unique Names.csproj.AssemblyReference.cache
+D:\CSharp-Advanced\Sets and Dictionaries Advanced\Record Unique Names\obj\Debug\net6.0\Record Unique Names.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp-Advanced\Sets and Dictionaries Advanced\Record Unique Names\obj\Debug\net6.0\Record Unique Names.AssemblyInfoInputs.cache
+D:\CSharp-Advanced\Sets and Dictionaries Advanced\Record Unique Names\obj\Debug\net6.0\Record Unique Names.AssemblyInfo.cs
+D:\CSharp-Advanced\Sets and Dictionaries Advanced\Record Unique Names\obj\Debug\net6.0\Record Unique Names.csproj.CoreCompileInputs.cache
+D:\CSharp-Advanced\Sets and Dictionaries Advanced\Record Unique Names\obj\Debug\net6.0\Record Unique Names.dll
+D:\CSharp-Advanced\Sets and Dictionaries Advanced\Record Unique Names\obj\Debug\net6.0\refint\Record Unique Names.dll
+D:\CSharp-Advanced\Sets and Dictionaries Advanced\Record Unique Names\obj\Debug\net6.0\Record Unique Names.pdb
+D:\CSharp-Advanced\Sets and Dictionaries Advanced\Record Unique Names\obj\Debug\net6.0\Record Unique Names.genruntimeconfig.cache
+D:\CSharp-Advanced\Sets and Dictionaries Advanced\Record Unique Names\obj\Debug\net6.0\ref\Record Unique Names.dll

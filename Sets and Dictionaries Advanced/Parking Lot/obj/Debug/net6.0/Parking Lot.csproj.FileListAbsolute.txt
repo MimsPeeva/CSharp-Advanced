@@ -1,0 +1,15 @@
+D:\CSharp-Advanced\Sets and Dictionaries Advanced\Parking Lot\bin\Debug\net6.0\Parking Lot.exe
+D:\CSharp-Advanced\Sets and Dictionaries Advanced\Parking Lot\bin\Debug\net6.0\Parking Lot.deps.json
+D:\CSharp-Advanced\Sets and Dictionaries Advanced\Parking Lot\bin\Debug\net6.0\Parking Lot.runtimeconfig.json
+D:\CSharp-Advanced\Sets and Dictionaries Advanced\Parking Lot\bin\Debug\net6.0\Parking Lot.dll
+D:\CSharp-Advanced\Sets and Dictionaries Advanced\Parking Lot\bin\Debug\net6.0\Parking Lot.pdb
+D:\CSharp-Advanced\Sets and Dictionaries Advanced\Parking Lot\obj\Debug\net6.0\Parking Lot.csproj.AssemblyReference.cache
+D:\CSharp-Advanced\Sets and Dictionaries Advanced\Parking Lot\obj\Debug\net6.0\Parking Lot.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp-Advanced\Sets and Dictionaries Advanced\Parking Lot\obj\Debug\net6.0\Parking Lot.AssemblyInfoInputs.cache
+D:\CSharp-Advanced\Sets and Dictionaries Advanced\Parking Lot\obj\Debug\net6.0\Parking Lot.AssemblyInfo.cs
+D:\CSharp-Advanced\Sets and Dictionaries Advanced\Parking Lot\obj\Debug\net6.0\Parking Lot.csproj.CoreCompileInputs.cache
+D:\CSharp-Advanced\Sets and Dictionaries Advanced\Parking Lot\obj\Debug\net6.0\Parking Lot.dll
+D:\CSharp-Advanced\Sets and Dictionaries Advanced\Parking Lot\obj\Debug\net6.0\refint\Parking Lot.dll
+D:\CSharp-Advanced\Sets and Dictionaries Advanced\Parking Lot\obj\Debug\net6.0\Parking Lot.pdb
+D:\CSharp-Advanced\Sets and Dictionaries Advanced\Parking Lot\obj\Debug\net6.0\Parking Lot.genruntimeconfig.cache
+D:\CSharp-Advanced\Sets and Dictionaries Advanced\Parking Lot\obj\Debug\net6.0\ref\Parking Lot.dll
