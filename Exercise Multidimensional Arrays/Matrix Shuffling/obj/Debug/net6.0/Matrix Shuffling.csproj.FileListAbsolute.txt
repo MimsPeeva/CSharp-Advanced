@@ -1,0 +1,15 @@
+D:\CSharp-Advanced\Exercise Multidimensional Arrays\Matrix Shuffling\bin\Debug\net6.0\Matrix Shuffling.exe
+D:\CSharp-Advanced\Exercise Multidimensional Arrays\Matrix Shuffling\bin\Debug\net6.0\Matrix Shuffling.deps.json
+D:\CSharp-Advanced\Exercise Multidimensional Arrays\Matrix Shuffling\bin\Debug\net6.0\Matrix Shuffling.runtimeconfig.json
+D:\CSharp-Advanced\Exercise Multidimensional Arrays\Matrix Shuffling\bin\Debug\net6.0\Matrix Shuffling.dll
+D:\CSharp-Advanced\Exercise Multidimensional Arrays\Matrix Shuffling\bin\Debug\net6.0\Matrix Shuffling.pdb
+D:\CSharp-Advanced\Exercise Multidimensional Arrays\Matrix Shuffling\obj\Debug\net6.0\Matrix Shuffling.csproj.AssemblyReference.cache
+D:\CSharp-Advanced\Exercise Multidimensional Arrays\Matrix Shuffling\obj\Debug\net6.0\Matrix Shuffling.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp-Advanced\Exercise Multidimensional Arrays\Matrix Shuffling\obj\Debug\net6.0\Matrix Shuffling.AssemblyInfoInputs.cache
+D:\CSharp-Advanced\Exercise Multidimensional Arrays\Matrix Shuffling\obj\Debug\net6.0\Matrix Shuffling.AssemblyInfo.cs
+D:\CSharp-Advanced\Exercise Multidimensional Arrays\Matrix Shuffling\obj\Debug\net6.0\Matrix Shuffling.csproj.CoreCompileInputs.cache
+D:\CSharp-Advanced\Exercise Multidimensional Arrays\Matrix Shuffling\obj\Debug\net6.0\Matrix Shuffling.dll
+D:\CSharp-Advanced\Exercise Multidimensional Arrays\Matrix Shuffling\obj\Debug\net6.0\refint\Matrix Shuffling.dll
+D:\CSharp-Advanced\Exercise Multidimensional Arrays\Matrix Shuffling\obj\Debug\net6.0\Matrix Shuffling.pdb
+D:\CSharp-Advanced\Exercise Multidimensional Arrays\Matrix Shuffling\obj\Debug\net6.0\Matrix Shuffling.genruntimeconfig.cache
+D:\CSharp-Advanced\Exercise Multidimensional Arrays\Matrix Shuffling\obj\Debug\net6.0\ref\Matrix Shuffling.dll

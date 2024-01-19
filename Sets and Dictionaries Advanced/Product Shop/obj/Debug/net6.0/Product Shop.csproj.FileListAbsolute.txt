@@ -1,0 +1,15 @@
+D:\CSharp-Advanced\Sets and Dictionaries Advanced\Product Shop\bin\Debug\net6.0\Product Shop.exe
+D:\CSharp-Advanced\Sets and Dictionaries Advanced\Product Shop\bin\Debug\net6.0\Product Shop.deps.json
+D:\CSharp-Advanced\Sets and Dictionaries Advanced\Product Shop\bin\Debug\net6.0\Product Shop.runtimeconfig.json
+D:\CSharp-Advanced\Sets and Dictionaries Advanced\Product Shop\bin\Debug\net6.0\Product Shop.dll
+D:\CSharp-Advanced\Sets and Dictionaries Advanced\Product Shop\bin\Debug\net6.0\Product Shop.pdb
+D:\CSharp-Advanced\Sets and Dictionaries Advanced\Product Shop\obj\Debug\net6.0\Product Shop.csproj.AssemblyReference.cache
+D:\CSharp-Advanced\Sets and Dictionaries Advanced\Product Shop\obj\Debug\net6.0\Product Shop.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp-Advanced\Sets and Dictionaries Advanced\Product Shop\obj\Debug\net6.0\Product Shop.AssemblyInfoInputs.cache
+D:\CSharp-Advanced\Sets and Dictionaries Advanced\Product Shop\obj\Debug\net6.0\Product Shop.AssemblyInfo.cs
+D:\CSharp-Advanced\Sets and Dictionaries Advanced\Product Shop\obj\Debug\net6.0\Product Shop.csproj.CoreCompileInputs.cache
+D:\CSharp-Advanced\Sets and Dictionaries Advanced\Product Shop\obj\Debug\net6.0\Product Shop.dll
+D:\CSharp-Advanced\Sets and Dictionaries Advanced\Product Shop\obj\Debug\net6.0\refint\Product Shop.dll
+D:\CSharp-Advanced\Sets and Dictionaries Advanced\Product Shop\obj\Debug\net6.0\Product Shop.pdb
+D:\CSharp-Advanced\Sets and Dictionaries Advanced\Product Shop\obj\Debug\net6.0\Product Shop.genruntimeconfig.cache
+D:\CSharp-Advanced\Sets and Dictionaries Advanced\Product Shop\obj\Debug\net6.0\ref\Product Shop.dll

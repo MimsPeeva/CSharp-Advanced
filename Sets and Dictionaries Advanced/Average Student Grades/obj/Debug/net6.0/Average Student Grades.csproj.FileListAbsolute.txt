@@ -1,0 +1,15 @@
+D:\CSharp-Advanced\Sets and Dictionaries Advanced\Average Student Grades\bin\Debug\net6.0\Average Student Grades.exe
+D:\CSharp-Advanced\Sets and Dictionaries Advanced\Average Student Grades\bin\Debug\net6.0\Average Student Grades.deps.json
+D:\CSharp-Advanced\Sets and Dictionaries Advanced\Average Student Grades\bin\Debug\net6.0\Average Student Grades.runtimeconfig.json
+D:\CSharp-Advanced\Sets and Dictionaries Advanced\Average Student Grades\bin\Debug\net6.0\Average Student Grades.dll
+D:\CSharp-Advanced\Sets and Dictionaries Advanced\Average Student Grades\bin\Debug\net6.0\Average Student Grades.pdb
+D:\CSharp-Advanced\Sets and Dictionaries Advanced\Average Student Grades\obj\Debug\net6.0\Average Student Grades.csproj.AssemblyReference.cache
+D:\CSharp-Advanced\Sets and Dictionaries Advanced\Average Student Grades\obj\Debug\net6.0\Average Student Grades.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp-Advanced\Sets and Dictionaries Advanced\Average Student Grades\obj\Debug\net6.0\Average Student Grades.AssemblyInfoInputs.cache
+D:\CSharp-Advanced\Sets and Dictionaries Advanced\Average Student Grades\obj\Debug\net6.0\Average Student Grades.AssemblyInfo.cs
+D:\CSharp-Advanced\Sets and Dictionaries Advanced\Average Student Grades\obj\Debug\net6.0\Average Student Grades.csproj.CoreCompileInputs.cache
+D:\CSharp-Advanced\Sets and Dictionaries Advanced\Average Student Grades\obj\Debug\net6.0\Average Student Grades.dll
+D:\CSharp-Advanced\Sets and Dictionaries Advanced\Average Student Grades\obj\Debug\net6.0\refint\Average Student Grades.dll
+D:\CSharp-Advanced\Sets and Dictionaries Advanced\Average Student Grades\obj\Debug\net6.0\Average Student Grades.pdb
+D:\CSharp-Advanced\Sets and Dictionaries Advanced\Average Student Grades\obj\Debug\net6.0\Average Student Grades.genruntimeconfig.cache
+D:\CSharp-Advanced\Sets and Dictionaries Advanced\Average Student Grades\obj\Debug\net6.0\ref\Average Student Grades.dll

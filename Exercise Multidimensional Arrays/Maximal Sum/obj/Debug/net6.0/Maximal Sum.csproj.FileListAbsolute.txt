@@ -1,0 +1,15 @@
+D:\CSharp-Advanced\Exercise Multidimensional Arrays\Maximal Sum\bin\Debug\net6.0\Maximal Sum.exe
+D:\CSharp-Advanced\Exercise Multidimensional Arrays\Maximal Sum\bin\Debug\net6.0\Maximal Sum.deps.json
+D:\CSharp-Advanced\Exercise Multidimensional Arrays\Maximal Sum\bin\Debug\net6.0\Maximal Sum.runtimeconfig.json
+D:\CSharp-Advanced\Exercise Multidimensional Arrays\Maximal Sum\bin\Debug\net6.0\Maximal Sum.dll
+D:\CSharp-Advanced\Exercise Multidimensional Arrays\Maximal Sum\bin\Debug\net6.0\Maximal Sum.pdb
+D:\CSharp-Advanced\Exercise Multidimensional Arrays\Maximal Sum\obj\Debug\net6.0\Maximal Sum.csproj.AssemblyReference.cache
+D:\CSharp-Advanced\Exercise Multidimensional Arrays\Maximal Sum\obj\Debug\net6.0\Maximal Sum.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp-Advanced\Exercise Multidimensional Arrays\Maximal Sum\obj\Debug\net6.0\Maximal Sum.AssemblyInfoInputs.cache
+D:\CSharp-Advanced\Exercise Multidimensional Arrays\Maximal Sum\obj\Debug\net6.0\Maximal Sum.AssemblyInfo.cs
+D:\CSharp-Advanced\Exercise Multidimensional Arrays\Maximal Sum\obj\Debug\net6.0\Maximal Sum.csproj.CoreCompileInputs.cache
+D:\CSharp-Advanced\Exercise Multidimensional Arrays\Maximal Sum\obj\Debug\net6.0\Maximal Sum.dll
+D:\CSharp-Advanced\Exercise Multidimensional Arrays\Maximal Sum\obj\Debug\net6.0\refint\Maximal Sum.dll
+D:\CSharp-Advanced\Exercise Multidimensional Arrays\Maximal Sum\obj\Debug\net6.0\Maximal Sum.pdb
+D:\CSharp-Advanced\Exercise Multidimensional Arrays\Maximal Sum\obj\Debug\net6.0\Maximal Sum.genruntimeconfig.cache
+D:\CSharp-Advanced\Exercise Multidimensional Arrays\Maximal Sum\obj\Debug\net6.0\ref\Maximal Sum.dll

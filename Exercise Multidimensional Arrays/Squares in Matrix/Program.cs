@@ -8,7 +8,7 @@ char[,] matrix = new char[rows, cols];
 for (int row = 0; row < rows; row++)
 {
     char[] input = Console.ReadLine()
-     .Split()
+     .Split(" ", StringSplitOptions.RemoveEmptyEntries)
     .Select(char.Parse)
     .ToArray();
     for (int col = 0; col < cols; col++)
@@ -19,8 +19,7 @@ for (int row = 0; row < rows; row++)
 int counter = 0;
 for (int row = 0; row < rows-1; row++)
 {
-    if (row > 0)
-    {
+
         for (int col = 0; col < cols - 1; col++)
         {
             char symbol1 = matrix[row, col];
@@ -31,7 +30,7 @@ for (int row = 0; row < rows-1; row++)
             if (symbol1 == symbol2 && symbol1 == symbol3 && symbol1 == symbol4)
             { counter++; }
         }
-    }
+    
 }
 Console.WriteLine(counter);
 /*

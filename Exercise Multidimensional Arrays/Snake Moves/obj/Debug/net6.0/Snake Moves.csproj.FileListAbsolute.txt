@@ -1,0 +1,15 @@
+D:\CSharp-Advanced\Exercise Multidimensional Arrays\Snake Moves\bin\Debug\net6.0\Snake Moves.exe
+D:\CSharp-Advanced\Exercise Multidimensional Arrays\Snake Moves\bin\Debug\net6.0\Snake Moves.deps.json
+D:\CSharp-Advanced\Exercise Multidimensional Arrays\Snake Moves\bin\Debug\net6.0\Snake Moves.runtimeconfig.json
+D:\CSharp-Advanced\Exercise Multidimensional Arrays\Snake Moves\bin\Debug\net6.0\Snake Moves.dll
+D:\CSharp-Advanced\Exercise Multidimensional Arrays\Snake Moves\bin\Debug\net6.0\Snake Moves.pdb
+D:\CSharp-Advanced\Exercise Multidimensional Arrays\Snake Moves\obj\Debug\net6.0\Snake Moves.csproj.AssemblyReference.cache
+D:\CSharp-Advanced\Exercise Multidimensional Arrays\Snake Moves\obj\Debug\net6.0\Snake Moves.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp-Advanced\Exercise Multidimensional Arrays\Snake Moves\obj\Debug\net6.0\Snake Moves.AssemblyInfoInputs.cache
+D:\CSharp-Advanced\Exercise Multidimensional Arrays\Snake Moves\obj\Debug\net6.0\Snake Moves.AssemblyInfo.cs
+D:\CSharp-Advanced\Exercise Multidimensional Arrays\Snake Moves\obj\Debug\net6.0\Snake Moves.csproj.CoreCompileInputs.cache
+D:\CSharp-Advanced\Exercise Multidimensional Arrays\Snake Moves\obj\Debug\net6.0\Snake Moves.dll
+D:\CSharp-Advanced\Exercise Multidimensional Arrays\Snake Moves\obj\Debug\net6.0\refint\Snake Moves.dll
+D:\CSharp-Advanced\Exercise Multidimensional Arrays\Snake Moves\obj\Debug\net6.0\Snake Moves.pdb
+D:\CSharp-Advanced\Exercise Multidimensional Arrays\Snake Moves\obj\Debug\net6.0\Snake Moves.genruntimeconfig.cache
+D:\CSharp-Advanced\Exercise Multidimensional Arrays\Snake Moves\obj\Debug\net6.0\ref\Snake Moves.dll
