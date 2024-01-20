@@ -1,0 +1,15 @@
+D:\CSharp-Advanced\Exercise Multidimensional Arrays\Jagged Array Manipulator\bin\Debug\net6.0\Jagged Array Manipulator.exe
+D:\CSharp-Advanced\Exercise Multidimensional Arrays\Jagged Array Manipulator\bin\Debug\net6.0\Jagged Array Manipulator.deps.json
+D:\CSharp-Advanced\Exercise Multidimensional Arrays\Jagged Array Manipulator\bin\Debug\net6.0\Jagged Array Manipulator.runtimeconfig.json
+D:\CSharp-Advanced\Exercise Multidimensional Arrays\Jagged Array Manipulator\bin\Debug\net6.0\Jagged Array Manipulator.dll
+D:\CSharp-Advanced\Exercise Multidimensional Arrays\Jagged Array Manipulator\bin\Debug\net6.0\Jagged Array Manipulator.pdb
+D:\CSharp-Advanced\Exercise Multidimensional Arrays\Jagged Array Manipulator\obj\Debug\net6.0\Jagged Array Manipulator.csproj.AssemblyReference.cache
+D:\CSharp-Advanced\Exercise Multidimensional Arrays\Jagged Array Manipulator\obj\Debug\net6.0\Jagged Array Manipulator.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp-Advanced\Exercise Multidimensional Arrays\Jagged Array Manipulator\obj\Debug\net6.0\Jagged Array Manipulator.AssemblyInfoInputs.cache
+D:\CSharp-Advanced\Exercise Multidimensional Arrays\Jagged Array Manipulator\obj\Debug\net6.0\Jagged Array Manipulator.AssemblyInfo.cs
+D:\CSharp-Advanced\Exercise Multidimensional Arrays\Jagged Array Manipulator\obj\Debug\net6.0\Jagged Array Manipulator.csproj.CoreCompileInputs.cache
+D:\CSharp-Advanced\Exercise Multidimensional Arrays\Jagged Array Manipulator\obj\Debug\net6.0\Jagged Array Manipulator.dll
+D:\CSharp-Advanced\Exercise Multidimensional Arrays\Jagged Array Manipulator\obj\Debug\net6.0\refint\Jagged Array Manipulator.dll
+D:\CSharp-Advanced\Exercise Multidimensional Arrays\Jagged Array Manipulator\obj\Debug\net6.0\Jagged Array Manipulator.pdb
+D:\CSharp-Advanced\Exercise Multidimensional Arrays\Jagged Array Manipulator\obj\Debug\net6.0\Jagged Array Manipulator.genruntimeconfig.cache
+D:\CSharp-Advanced\Exercise Multidimensional Arrays\Jagged Array Manipulator\obj\Debug\net6.0\ref\Jagged Array Manipulator.dll

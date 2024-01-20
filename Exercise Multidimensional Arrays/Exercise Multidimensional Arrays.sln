@@ -3,15 +3,17 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.3.32901.215
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Diagonal Difference", "Diagonal Difference\Diagonal Difference.csproj", "{C66FFF31-DCA5-4690-84FD-7446C58AD59A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Diagonal Difference", "Diagonal Difference\Diagonal Difference.csproj", "{C66FFF31-DCA5-4690-84FD-7446C58AD59A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Squares in Matrix", "Squares in Matrix\Squares in Matrix.csproj", "{6DE7B71A-B0F9-4BE7-BE56-45F7785C80B6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Squares in Matrix", "Squares in Matrix\Squares in Matrix.csproj", "{6DE7B71A-B0F9-4BE7-BE56-45F7785C80B6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Maximal Sum", "Maximal Sum\Maximal Sum.csproj", "{965A2C1D-41B9-47B0-940F-915951E5F45B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Maximal Sum", "Maximal Sum\Maximal Sum.csproj", "{965A2C1D-41B9-47B0-940F-915951E5F45B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Matrix Shuffling", "Matrix Shuffling\Matrix Shuffling.csproj", "{BCF17603-E293-4450-B3ED-D465418ABF22}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Matrix Shuffling", "Matrix Shuffling\Matrix Shuffling.csproj", "{BCF17603-E293-4450-B3ED-D465418ABF22}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Snake Moves", "Snake Moves\Snake Moves.csproj", "{55402A8B-FE4E-4C44-A912-26627AC39B6D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Snake Moves", "Snake Moves\Snake Moves.csproj", "{55402A8B-FE4E-4C44-A912-26627AC39B6D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jagged Array Manipulator", "Jagged Array Manipulator\Jagged Array Manipulator.csproj", "{2AD5A224-ADB8-4826-8366-71E81AB9577A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{55402A8B-FE4E-4C44-A912-26627AC39B6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{55402A8B-FE4E-4C44-A912-26627AC39B6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{55402A8B-FE4E-4C44-A912-26627AC39B6D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2AD5A224-ADB8-4826-8366-71E81AB9577A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2AD5A224-ADB8-4826-8366-71E81AB9577A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2AD5A224-ADB8-4826-8366-71E81AB9577A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2AD5A224-ADB8-4826-8366-71E81AB9577A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
