@@ -1,0 +1,15 @@
+D:\CSharp-Advanced\Exercise Sets and Dictionaries Advanced\Count Symbols\bin\Debug\net6.0\Count Symbols.exe
+D:\CSharp-Advanced\Exercise Sets and Dictionaries Advanced\Count Symbols\bin\Debug\net6.0\Count Symbols.deps.json
+D:\CSharp-Advanced\Exercise Sets and Dictionaries Advanced\Count Symbols\bin\Debug\net6.0\Count Symbols.runtimeconfig.json
+D:\CSharp-Advanced\Exercise Sets and Dictionaries Advanced\Count Symbols\bin\Debug\net6.0\Count Symbols.dll
+D:\CSharp-Advanced\Exercise Sets and Dictionaries Advanced\Count Symbols\bin\Debug\net6.0\Count Symbols.pdb
+D:\CSharp-Advanced\Exercise Sets and Dictionaries Advanced\Count Symbols\obj\Debug\net6.0\Count Symbols.csproj.AssemblyReference.cache
+D:\CSharp-Advanced\Exercise Sets and Dictionaries Advanced\Count Symbols\obj\Debug\net6.0\Count Symbols.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp-Advanced\Exercise Sets and Dictionaries Advanced\Count Symbols\obj\Debug\net6.0\Count Symbols.AssemblyInfoInputs.cache
+D:\CSharp-Advanced\Exercise Sets and Dictionaries Advanced\Count Symbols\obj\Debug\net6.0\Count Symbols.AssemblyInfo.cs
+D:\CSharp-Advanced\Exercise Sets and Dictionaries Advanced\Count Symbols\obj\Debug\net6.0\Count Symbols.csproj.CoreCompileInputs.cache
+D:\CSharp-Advanced\Exercise Sets and Dictionaries Advanced\Count Symbols\obj\Debug\net6.0\Count Symbols.dll
+D:\CSharp-Advanced\Exercise Sets and Dictionaries Advanced\Count Symbols\obj\Debug\net6.0\refint\Count Symbols.dll
+D:\CSharp-Advanced\Exercise Sets and Dictionaries Advanced\Count Symbols\obj\Debug\net6.0\Count Symbols.pdb
+D:\CSharp-Advanced\Exercise Sets and Dictionaries Advanced\Count Symbols\obj\Debug\net6.0\Count Symbols.genruntimeconfig.cache
+D:\CSharp-Advanced\Exercise Sets and Dictionaries Advanced\Count Symbols\obj\Debug\net6.0\ref\Count Symbols.dll

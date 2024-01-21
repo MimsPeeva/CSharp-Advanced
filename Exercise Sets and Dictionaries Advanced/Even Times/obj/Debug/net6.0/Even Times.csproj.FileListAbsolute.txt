@@ -1,0 +1,15 @@
+D:\CSharp-Advanced\Exercise Sets and Dictionaries Advanced\Even Times\bin\Debug\net6.0\Even Times.exe
+D:\CSharp-Advanced\Exercise Sets and Dictionaries Advanced\Even Times\bin\Debug\net6.0\Even Times.deps.json
+D:\CSharp-Advanced\Exercise Sets and Dictionaries Advanced\Even Times\bin\Debug\net6.0\Even Times.runtimeconfig.json
+D:\CSharp-Advanced\Exercise Sets and Dictionaries Advanced\Even Times\bin\Debug\net6.0\Even Times.dll
+D:\CSharp-Advanced\Exercise Sets and Dictionaries Advanced\Even Times\bin\Debug\net6.0\Even Times.pdb
+D:\CSharp-Advanced\Exercise Sets and Dictionaries Advanced\Even Times\obj\Debug\net6.0\Even Times.csproj.AssemblyReference.cache
+D:\CSharp-Advanced\Exercise Sets and Dictionaries Advanced\Even Times\obj\Debug\net6.0\Even Times.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp-Advanced\Exercise Sets and Dictionaries Advanced\Even Times\obj\Debug\net6.0\Even Times.AssemblyInfoInputs.cache
+D:\CSharp-Advanced\Exercise Sets and Dictionaries Advanced\Even Times\obj\Debug\net6.0\Even Times.AssemblyInfo.cs
+D:\CSharp-Advanced\Exercise Sets and Dictionaries Advanced\Even Times\obj\Debug\net6.0\Even Times.csproj.CoreCompileInputs.cache
+D:\CSharp-Advanced\Exercise Sets and Dictionaries Advanced\Even Times\obj\Debug\net6.0\Even Times.dll
+D:\CSharp-Advanced\Exercise Sets and Dictionaries Advanced\Even Times\obj\Debug\net6.0\refint\Even Times.dll
+D:\CSharp-Advanced\Exercise Sets and Dictionaries Advanced\Even Times\obj\Debug\net6.0\Even Times.pdb
+D:\CSharp-Advanced\Exercise Sets and Dictionaries Advanced\Even Times\obj\Debug\net6.0\Even Times.genruntimeconfig.cache
+D:\CSharp-Advanced\Exercise Sets and Dictionaries Advanced\Even Times\obj\Debug\net6.0\ref\Even Times.dll
