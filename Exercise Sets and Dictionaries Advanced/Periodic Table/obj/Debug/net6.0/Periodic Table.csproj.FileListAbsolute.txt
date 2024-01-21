@@ -1,0 +1,15 @@
+D:\CSharp-Advanced\Exercise Sets and Dictionaries Advanced\Periodic Table\bin\Debug\net6.0\Periodic Table.exe
+D:\CSharp-Advanced\Exercise Sets and Dictionaries Advanced\Periodic Table\bin\Debug\net6.0\Periodic Table.deps.json
+D:\CSharp-Advanced\Exercise Sets and Dictionaries Advanced\Periodic Table\bin\Debug\net6.0\Periodic Table.runtimeconfig.json
+D:\CSharp-Advanced\Exercise Sets and Dictionaries Advanced\Periodic Table\bin\Debug\net6.0\Periodic Table.dll
+D:\CSharp-Advanced\Exercise Sets and Dictionaries Advanced\Periodic Table\bin\Debug\net6.0\Periodic Table.pdb
+D:\CSharp-Advanced\Exercise Sets and Dictionaries Advanced\Periodic Table\obj\Debug\net6.0\Periodic Table.csproj.AssemblyReference.cache
+D:\CSharp-Advanced\Exercise Sets and Dictionaries Advanced\Periodic Table\obj\Debug\net6.0\Periodic Table.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp-Advanced\Exercise Sets and Dictionaries Advanced\Periodic Table\obj\Debug\net6.0\Periodic Table.AssemblyInfoInputs.cache
+D:\CSharp-Advanced\Exercise Sets and Dictionaries Advanced\Periodic Table\obj\Debug\net6.0\Periodic Table.AssemblyInfo.cs
+D:\CSharp-Advanced\Exercise Sets and Dictionaries Advanced\Periodic Table\obj\Debug\net6.0\Periodic Table.csproj.CoreCompileInputs.cache
+D:\CSharp-Advanced\Exercise Sets and Dictionaries Advanced\Periodic Table\obj\Debug\net6.0\Periodic Table.dll
+D:\CSharp-Advanced\Exercise Sets and Dictionaries Advanced\Periodic Table\obj\Debug\net6.0\refint\Periodic Table.dll
+D:\CSharp-Advanced\Exercise Sets and Dictionaries Advanced\Periodic Table\obj\Debug\net6.0\Periodic Table.pdb
+D:\CSharp-Advanced\Exercise Sets and Dictionaries Advanced\Periodic Table\obj\Debug\net6.0\Periodic Table.genruntimeconfig.cache
+D:\CSharp-Advanced\Exercise Sets and Dictionaries Advanced\Periodic Table\obj\Debug\net6.0\ref\Periodic Table.dll
