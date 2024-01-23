@@ -1,0 +1,15 @@
+D:\CSharp-Advanced\Exercise Sets and Dictionaries Advanced\Wardrobe\bin\Debug\net6.0\Wardrobe.exe
+D:\CSharp-Advanced\Exercise Sets and Dictionaries Advanced\Wardrobe\bin\Debug\net6.0\Wardrobe.deps.json
+D:\CSharp-Advanced\Exercise Sets and Dictionaries Advanced\Wardrobe\bin\Debug\net6.0\Wardrobe.runtimeconfig.json
+D:\CSharp-Advanced\Exercise Sets and Dictionaries Advanced\Wardrobe\bin\Debug\net6.0\Wardrobe.dll
+D:\CSharp-Advanced\Exercise Sets and Dictionaries Advanced\Wardrobe\bin\Debug\net6.0\Wardrobe.pdb
+D:\CSharp-Advanced\Exercise Sets and Dictionaries Advanced\Wardrobe\obj\Debug\net6.0\Wardrobe.csproj.AssemblyReference.cache
+D:\CSharp-Advanced\Exercise Sets and Dictionaries Advanced\Wardrobe\obj\Debug\net6.0\Wardrobe.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp-Advanced\Exercise Sets and Dictionaries Advanced\Wardrobe\obj\Debug\net6.0\Wardrobe.AssemblyInfoInputs.cache
+D:\CSharp-Advanced\Exercise Sets and Dictionaries Advanced\Wardrobe\obj\Debug\net6.0\Wardrobe.AssemblyInfo.cs
+D:\CSharp-Advanced\Exercise Sets and Dictionaries Advanced\Wardrobe\obj\Debug\net6.0\Wardrobe.csproj.CoreCompileInputs.cache
+D:\CSharp-Advanced\Exercise Sets and Dictionaries Advanced\Wardrobe\obj\Debug\net6.0\Wardrobe.dll
+D:\CSharp-Advanced\Exercise Sets and Dictionaries Advanced\Wardrobe\obj\Debug\net6.0\refint\Wardrobe.dll
+D:\CSharp-Advanced\Exercise Sets and Dictionaries Advanced\Wardrobe\obj\Debug\net6.0\Wardrobe.pdb
+D:\CSharp-Advanced\Exercise Sets and Dictionaries Advanced\Wardrobe\obj\Debug\net6.0\Wardrobe.genruntimeconfig.cache
+D:\CSharp-Advanced\Exercise Sets and Dictionaries Advanced\Wardrobe\obj\Debug\net6.0\ref\Wardrobe.dll

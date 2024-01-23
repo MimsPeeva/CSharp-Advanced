@@ -1,0 +1,15 @@
+D:\CSharp-Advanced\Streams, Files and Directories\Word Count\bin\Debug\net6.0\Word Count.exe
+D:\CSharp-Advanced\Streams, Files and Directories\Word Count\bin\Debug\net6.0\Word Count.deps.json
+D:\CSharp-Advanced\Streams, Files and Directories\Word Count\bin\Debug\net6.0\Word Count.runtimeconfig.json
+D:\CSharp-Advanced\Streams, Files and Directories\Word Count\bin\Debug\net6.0\Word Count.dll
+D:\CSharp-Advanced\Streams, Files and Directories\Word Count\bin\Debug\net6.0\Word Count.pdb
+D:\CSharp-Advanced\Streams, Files and Directories\Word Count\obj\Debug\net6.0\Word Count.csproj.AssemblyReference.cache
+D:\CSharp-Advanced\Streams, Files and Directories\Word Count\obj\Debug\net6.0\Word Count.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp-Advanced\Streams, Files and Directories\Word Count\obj\Debug\net6.0\Word Count.AssemblyInfoInputs.cache
+D:\CSharp-Advanced\Streams, Files and Directories\Word Count\obj\Debug\net6.0\Word Count.AssemblyInfo.cs
+D:\CSharp-Advanced\Streams, Files and Directories\Word Count\obj\Debug\net6.0\Word Count.csproj.CoreCompileInputs.cache
+D:\CSharp-Advanced\Streams, Files and Directories\Word Count\obj\Debug\net6.0\Word Count.dll
+D:\CSharp-Advanced\Streams, Files and Directories\Word Count\obj\Debug\net6.0\refint\Word Count.dll
+D:\CSharp-Advanced\Streams, Files and Directories\Word Count\obj\Debug\net6.0\Word Count.pdb
+D:\CSharp-Advanced\Streams, Files and Directories\Word Count\obj\Debug\net6.0\Word Count.genruntimeconfig.cache
+D:\CSharp-Advanced\Streams, Files and Directories\Word Count\obj\Debug\net6.0\ref\Word Count.dll
