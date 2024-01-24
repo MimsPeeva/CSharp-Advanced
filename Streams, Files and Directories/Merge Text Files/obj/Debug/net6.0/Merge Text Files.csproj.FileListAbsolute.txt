@@ -1,0 +1,15 @@
+D:\CSharp-Advanced\Streams, Files and Directories\Merge Text Files\bin\Debug\net6.0\Merge Text Files.exe
+D:\CSharp-Advanced\Streams, Files and Directories\Merge Text Files\bin\Debug\net6.0\Merge Text Files.deps.json
+D:\CSharp-Advanced\Streams, Files and Directories\Merge Text Files\bin\Debug\net6.0\Merge Text Files.runtimeconfig.json
+D:\CSharp-Advanced\Streams, Files and Directories\Merge Text Files\bin\Debug\net6.0\Merge Text Files.dll
+D:\CSharp-Advanced\Streams, Files and Directories\Merge Text Files\bin\Debug\net6.0\Merge Text Files.pdb
+D:\CSharp-Advanced\Streams, Files and Directories\Merge Text Files\obj\Debug\net6.0\Merge Text Files.csproj.AssemblyReference.cache
+D:\CSharp-Advanced\Streams, Files and Directories\Merge Text Files\obj\Debug\net6.0\Merge Text Files.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp-Advanced\Streams, Files and Directories\Merge Text Files\obj\Debug\net6.0\Merge Text Files.AssemblyInfoInputs.cache
+D:\CSharp-Advanced\Streams, Files and Directories\Merge Text Files\obj\Debug\net6.0\Merge Text Files.AssemblyInfo.cs
+D:\CSharp-Advanced\Streams, Files and Directories\Merge Text Files\obj\Debug\net6.0\Merge Text Files.csproj.CoreCompileInputs.cache
+D:\CSharp-Advanced\Streams, Files and Directories\Merge Text Files\obj\Debug\net6.0\Merge Text Files.dll
+D:\CSharp-Advanced\Streams, Files and Directories\Merge Text Files\obj\Debug\net6.0\refint\Merge Text Files.dll
+D:\CSharp-Advanced\Streams, Files and Directories\Merge Text Files\obj\Debug\net6.0\Merge Text Files.pdb
+D:\CSharp-Advanced\Streams, Files and Directories\Merge Text Files\obj\Debug\net6.0\Merge Text Files.genruntimeconfig.cache
+D:\CSharp-Advanced\Streams, Files and Directories\Merge Text Files\obj\Debug\net6.0\ref\Merge Text Files.dll

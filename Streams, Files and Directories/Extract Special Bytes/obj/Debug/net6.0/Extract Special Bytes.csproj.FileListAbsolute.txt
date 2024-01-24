@@ -1,0 +1,15 @@
+D:\CSharp-Advanced\Streams, Files and Directories\Extract Special Bytes\bin\Debug\net6.0\Extract Special Bytes.exe
+D:\CSharp-Advanced\Streams, Files and Directories\Extract Special Bytes\bin\Debug\net6.0\Extract Special Bytes.deps.json
+D:\CSharp-Advanced\Streams, Files and Directories\Extract Special Bytes\bin\Debug\net6.0\Extract Special Bytes.runtimeconfig.json
+D:\CSharp-Advanced\Streams, Files and Directories\Extract Special Bytes\bin\Debug\net6.0\Extract Special Bytes.dll
+D:\CSharp-Advanced\Streams, Files and Directories\Extract Special Bytes\bin\Debug\net6.0\Extract Special Bytes.pdb
+D:\CSharp-Advanced\Streams, Files and Directories\Extract Special Bytes\obj\Debug\net6.0\Extract Special Bytes.csproj.AssemblyReference.cache
+D:\CSharp-Advanced\Streams, Files and Directories\Extract Special Bytes\obj\Debug\net6.0\Extract Special Bytes.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp-Advanced\Streams, Files and Directories\Extract Special Bytes\obj\Debug\net6.0\Extract Special Bytes.AssemblyInfoInputs.cache
+D:\CSharp-Advanced\Streams, Files and Directories\Extract Special Bytes\obj\Debug\net6.0\Extract Special Bytes.AssemblyInfo.cs
+D:\CSharp-Advanced\Streams, Files and Directories\Extract Special Bytes\obj\Debug\net6.0\Extract Special Bytes.csproj.CoreCompileInputs.cache
+D:\CSharp-Advanced\Streams, Files and Directories\Extract Special Bytes\obj\Debug\net6.0\Extract Special Bytes.dll
+D:\CSharp-Advanced\Streams, Files and Directories\Extract Special Bytes\obj\Debug\net6.0\refint\Extract Special Bytes.dll
+D:\CSharp-Advanced\Streams, Files and Directories\Extract Special Bytes\obj\Debug\net6.0\Extract Special Bytes.pdb
+D:\CSharp-Advanced\Streams, Files and Directories\Extract Special Bytes\obj\Debug\net6.0\Extract Special Bytes.genruntimeconfig.cache
+D:\CSharp-Advanced\Streams, Files and Directories\Extract Special Bytes\obj\Debug\net6.0\ref\Extract Special Bytes.dll

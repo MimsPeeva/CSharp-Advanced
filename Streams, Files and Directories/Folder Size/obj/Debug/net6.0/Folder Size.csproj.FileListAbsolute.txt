@@ -1,0 +1,15 @@
+D:\CSharp-Advanced\Streams, Files and Directories\Folder Size\bin\Debug\net6.0\Folder Size.exe
+D:\CSharp-Advanced\Streams, Files and Directories\Folder Size\bin\Debug\net6.0\Folder Size.deps.json
+D:\CSharp-Advanced\Streams, Files and Directories\Folder Size\bin\Debug\net6.0\Folder Size.runtimeconfig.json
+D:\CSharp-Advanced\Streams, Files and Directories\Folder Size\bin\Debug\net6.0\Folder Size.dll
+D:\CSharp-Advanced\Streams, Files and Directories\Folder Size\bin\Debug\net6.0\Folder Size.pdb
+D:\CSharp-Advanced\Streams, Files and Directories\Folder Size\obj\Debug\net6.0\Folder Size.csproj.AssemblyReference.cache
+D:\CSharp-Advanced\Streams, Files and Directories\Folder Size\obj\Debug\net6.0\Folder Size.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp-Advanced\Streams, Files and Directories\Folder Size\obj\Debug\net6.0\Folder Size.AssemblyInfoInputs.cache
+D:\CSharp-Advanced\Streams, Files and Directories\Folder Size\obj\Debug\net6.0\Folder Size.AssemblyInfo.cs
+D:\CSharp-Advanced\Streams, Files and Directories\Folder Size\obj\Debug\net6.0\Folder Size.csproj.CoreCompileInputs.cache
+D:\CSharp-Advanced\Streams, Files and Directories\Folder Size\obj\Debug\net6.0\Folder Size.dll
+D:\CSharp-Advanced\Streams, Files and Directories\Folder Size\obj\Debug\net6.0\refint\Folder Size.dll
+D:\CSharp-Advanced\Streams, Files and Directories\Folder Size\obj\Debug\net6.0\Folder Size.pdb
+D:\CSharp-Advanced\Streams, Files and Directories\Folder Size\obj\Debug\net6.0\Folder Size.genruntimeconfig.cache
+D:\CSharp-Advanced\Streams, Files and Directories\Folder Size\obj\Debug\net6.0\ref\Folder Size.dll

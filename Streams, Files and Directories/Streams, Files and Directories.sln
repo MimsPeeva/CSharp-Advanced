@@ -11,6 +11,12 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Word Count", "Word Count\Wo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Merge Text Files", "Merge Text Files\Merge Text Files.csproj", "{25E82E56-2159-474D-8B87-0705DE80AEA4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Extract Special Bytes", "Extract Special Bytes\Extract Special Bytes.csproj", "{BB73A50A-340F-4526-94FB-335ECCF9A215}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Split, Merge Binary Files", "Split, Merge Binary Files\Split, Merge Binary Files.csproj", "{BBE85EFE-0FFC-4A98-A568-90140351425A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Folder Size", "Folder Size\Folder Size.csproj", "{0C798C6C-D7C9-4873-A09E-D32E957ECD9E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +39,18 @@ Global
 		{25E82E56-2159-474D-8B87-0705DE80AEA4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{25E82E56-2159-474D-8B87-0705DE80AEA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{25E82E56-2159-474D-8B87-0705DE80AEA4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB73A50A-340F-4526-94FB-335ECCF9A215}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB73A50A-340F-4526-94FB-335ECCF9A215}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB73A50A-340F-4526-94FB-335ECCF9A215}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB73A50A-340F-4526-94FB-335ECCF9A215}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BBE85EFE-0FFC-4A98-A568-90140351425A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBE85EFE-0FFC-4A98-A568-90140351425A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBE85EFE-0FFC-4A98-A568-90140351425A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBE85EFE-0FFC-4A98-A568-90140351425A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0C798C6C-D7C9-4873-A09E-D32E957ECD9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C798C6C-D7C9-4873-A09E-D32E957ECD9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C798C6C-D7C9-4873-A09E-D32E957ECD9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C798C6C-D7C9-4873-A09E-D32E957ECD9E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
