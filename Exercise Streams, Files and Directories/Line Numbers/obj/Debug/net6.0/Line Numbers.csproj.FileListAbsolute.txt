@@ -1,0 +1,15 @@
+D:\CSharp-Advanced\Exercise Streams, Files and Directories\Line Numbers\obj\Debug\net6.0\Line Numbers.csproj.AssemblyReference.cache
+D:\CSharp-Advanced\Exercise Streams, Files and Directories\Line Numbers\obj\Debug\net6.0\Line Numbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp-Advanced\Exercise Streams, Files and Directories\Line Numbers\obj\Debug\net6.0\Line Numbers.AssemblyInfoInputs.cache
+D:\CSharp-Advanced\Exercise Streams, Files and Directories\Line Numbers\obj\Debug\net6.0\Line Numbers.AssemblyInfo.cs
+D:\CSharp-Advanced\Exercise Streams, Files and Directories\Line Numbers\obj\Debug\net6.0\Line Numbers.csproj.CoreCompileInputs.cache
+D:\CSharp-Advanced\Exercise Streams, Files and Directories\Line Numbers\bin\Debug\net6.0\Line Numbers.exe
+D:\CSharp-Advanced\Exercise Streams, Files and Directories\Line Numbers\bin\Debug\net6.0\Line Numbers.deps.json
+D:\CSharp-Advanced\Exercise Streams, Files and Directories\Line Numbers\bin\Debug\net6.0\Line Numbers.runtimeconfig.json
+D:\CSharp-Advanced\Exercise Streams, Files and Directories\Line Numbers\bin\Debug\net6.0\Line Numbers.dll
+D:\CSharp-Advanced\Exercise Streams, Files and Directories\Line Numbers\bin\Debug\net6.0\Line Numbers.pdb
+D:\CSharp-Advanced\Exercise Streams, Files and Directories\Line Numbers\obj\Debug\net6.0\Line Numbers.dll
+D:\CSharp-Advanced\Exercise Streams, Files and Directories\Line Numbers\obj\Debug\net6.0\refint\Line Numbers.dll
+D:\CSharp-Advanced\Exercise Streams, Files and Directories\Line Numbers\obj\Debug\net6.0\Line Numbers.pdb
+D:\CSharp-Advanced\Exercise Streams, Files and Directories\Line Numbers\obj\Debug\net6.0\Line Numbers.genruntimeconfig.cache
+D:\CSharp-Advanced\Exercise Streams, Files and Directories\Line Numbers\obj\Debug\net6.0\ref\Line Numbers.dll

@@ -1,0 +1,15 @@
+D:\CSharp-Advanced\Exercise Streams, Files and Directories\Copy Binary File\bin\Debug\net6.0\Copy Binary File.exe
+D:\CSharp-Advanced\Exercise Streams, Files and Directories\Copy Binary File\bin\Debug\net6.0\Copy Binary File.deps.json
+D:\CSharp-Advanced\Exercise Streams, Files and Directories\Copy Binary File\bin\Debug\net6.0\Copy Binary File.runtimeconfig.json
+D:\CSharp-Advanced\Exercise Streams, Files and Directories\Copy Binary File\bin\Debug\net6.0\Copy Binary File.dll
+D:\CSharp-Advanced\Exercise Streams, Files and Directories\Copy Binary File\bin\Debug\net6.0\Copy Binary File.pdb
+D:\CSharp-Advanced\Exercise Streams, Files and Directories\Copy Binary File\obj\Debug\net6.0\Copy Binary File.csproj.AssemblyReference.cache
+D:\CSharp-Advanced\Exercise Streams, Files and Directories\Copy Binary File\obj\Debug\net6.0\Copy Binary File.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp-Advanced\Exercise Streams, Files and Directories\Copy Binary File\obj\Debug\net6.0\Copy Binary File.AssemblyInfoInputs.cache
+D:\CSharp-Advanced\Exercise Streams, Files and Directories\Copy Binary File\obj\Debug\net6.0\Copy Binary File.AssemblyInfo.cs
+D:\CSharp-Advanced\Exercise Streams, Files and Directories\Copy Binary File\obj\Debug\net6.0\Copy Binary File.csproj.CoreCompileInputs.cache
+D:\CSharp-Advanced\Exercise Streams, Files and Directories\Copy Binary File\obj\Debug\net6.0\Copy Binary File.dll
+D:\CSharp-Advanced\Exercise Streams, Files and Directories\Copy Binary File\obj\Debug\net6.0\refint\Copy Binary File.dll
+D:\CSharp-Advanced\Exercise Streams, Files and Directories\Copy Binary File\obj\Debug\net6.0\Copy Binary File.pdb
+D:\CSharp-Advanced\Exercise Streams, Files and Directories\Copy Binary File\obj\Debug\net6.0\Copy Binary File.genruntimeconfig.cache
+D:\CSharp-Advanced\Exercise Streams, Files and Directories\Copy Binary File\obj\Debug\net6.0\ref\Copy Binary File.dll

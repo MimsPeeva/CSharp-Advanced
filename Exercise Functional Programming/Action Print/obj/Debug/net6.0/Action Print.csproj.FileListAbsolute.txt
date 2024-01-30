@@ -1,0 +1,15 @@
+D:\CSharp-Advanced\Exercise Functional Programming\Action Print\bin\Debug\net6.0\Action Print.exe
+D:\CSharp-Advanced\Exercise Functional Programming\Action Print\bin\Debug\net6.0\Action Print.deps.json
+D:\CSharp-Advanced\Exercise Functional Programming\Action Print\bin\Debug\net6.0\Action Print.runtimeconfig.json
+D:\CSharp-Advanced\Exercise Functional Programming\Action Print\bin\Debug\net6.0\Action Print.dll
+D:\CSharp-Advanced\Exercise Functional Programming\Action Print\bin\Debug\net6.0\Action Print.pdb
+D:\CSharp-Advanced\Exercise Functional Programming\Action Print\obj\Debug\net6.0\Action Print.csproj.AssemblyReference.cache
+D:\CSharp-Advanced\Exercise Functional Programming\Action Print\obj\Debug\net6.0\Action Print.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp-Advanced\Exercise Functional Programming\Action Print\obj\Debug\net6.0\Action Print.AssemblyInfoInputs.cache
+D:\CSharp-Advanced\Exercise Functional Programming\Action Print\obj\Debug\net6.0\Action Print.AssemblyInfo.cs
+D:\CSharp-Advanced\Exercise Functional Programming\Action Print\obj\Debug\net6.0\Action Print.csproj.CoreCompileInputs.cache
+D:\CSharp-Advanced\Exercise Functional Programming\Action Print\obj\Debug\net6.0\Action Print.dll
+D:\CSharp-Advanced\Exercise Functional Programming\Action Print\obj\Debug\net6.0\refint\Action Print.dll
+D:\CSharp-Advanced\Exercise Functional Programming\Action Print\obj\Debug\net6.0\Action Print.pdb
+D:\CSharp-Advanced\Exercise Functional Programming\Action Print\obj\Debug\net6.0\Action Print.genruntimeconfig.cache
+D:\CSharp-Advanced\Exercise Functional Programming\Action Print\obj\Debug\net6.0\ref\Action Print.dll

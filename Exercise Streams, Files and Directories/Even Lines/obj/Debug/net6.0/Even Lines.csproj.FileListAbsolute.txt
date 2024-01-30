@@ -1,0 +1,15 @@
+D:\CSharp-Advanced\Exercise Streams, Files and Directories\Even Lines\bin\Debug\net6.0\Even Lines.exe
+D:\CSharp-Advanced\Exercise Streams, Files and Directories\Even Lines\bin\Debug\net6.0\Even Lines.deps.json
+D:\CSharp-Advanced\Exercise Streams, Files and Directories\Even Lines\bin\Debug\net6.0\Even Lines.runtimeconfig.json
+D:\CSharp-Advanced\Exercise Streams, Files and Directories\Even Lines\bin\Debug\net6.0\Even Lines.dll
+D:\CSharp-Advanced\Exercise Streams, Files and Directories\Even Lines\bin\Debug\net6.0\Even Lines.pdb
+D:\CSharp-Advanced\Exercise Streams, Files and Directories\Even Lines\obj\Debug\net6.0\Even Lines.csproj.AssemblyReference.cache
+D:\CSharp-Advanced\Exercise Streams, Files and Directories\Even Lines\obj\Debug\net6.0\Even Lines.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp-Advanced\Exercise Streams, Files and Directories\Even Lines\obj\Debug\net6.0\Even Lines.AssemblyInfoInputs.cache
+D:\CSharp-Advanced\Exercise Streams, Files and Directories\Even Lines\obj\Debug\net6.0\Even Lines.AssemblyInfo.cs
+D:\CSharp-Advanced\Exercise Streams, Files and Directories\Even Lines\obj\Debug\net6.0\Even Lines.csproj.CoreCompileInputs.cache
+D:\CSharp-Advanced\Exercise Streams, Files and Directories\Even Lines\obj\Debug\net6.0\Even Lines.dll
+D:\CSharp-Advanced\Exercise Streams, Files and Directories\Even Lines\obj\Debug\net6.0\refint\Even Lines.dll
+D:\CSharp-Advanced\Exercise Streams, Files and Directories\Even Lines\obj\Debug\net6.0\Even Lines.pdb
+D:\CSharp-Advanced\Exercise Streams, Files and Directories\Even Lines\obj\Debug\net6.0\Even Lines.genruntimeconfig.cache
+D:\CSharp-Advanced\Exercise Streams, Files and Directories\Even Lines\obj\Debug\net6.0\ref\Even Lines.dll

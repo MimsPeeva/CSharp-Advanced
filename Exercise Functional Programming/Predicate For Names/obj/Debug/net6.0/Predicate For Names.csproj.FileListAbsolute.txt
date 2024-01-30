@@ -1,0 +1,15 @@
+D:\CSharp-Advanced\Exercise Functional Programming\Predicate For Names\bin\Debug\net6.0\Predicate For Names.exe
+D:\CSharp-Advanced\Exercise Functional Programming\Predicate For Names\bin\Debug\net6.0\Predicate For Names.deps.json
+D:\CSharp-Advanced\Exercise Functional Programming\Predicate For Names\bin\Debug\net6.0\Predicate For Names.runtimeconfig.json
+D:\CSharp-Advanced\Exercise Functional Programming\Predicate For Names\bin\Debug\net6.0\Predicate For Names.dll
+D:\CSharp-Advanced\Exercise Functional Programming\Predicate For Names\bin\Debug\net6.0\Predicate For Names.pdb
+D:\CSharp-Advanced\Exercise Functional Programming\Predicate For Names\obj\Debug\net6.0\Predicate For Names.csproj.AssemblyReference.cache
+D:\CSharp-Advanced\Exercise Functional Programming\Predicate For Names\obj\Debug\net6.0\Predicate For Names.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp-Advanced\Exercise Functional Programming\Predicate For Names\obj\Debug\net6.0\Predicate For Names.AssemblyInfoInputs.cache
+D:\CSharp-Advanced\Exercise Functional Programming\Predicate For Names\obj\Debug\net6.0\Predicate For Names.AssemblyInfo.cs
+D:\CSharp-Advanced\Exercise Functional Programming\Predicate For Names\obj\Debug\net6.0\Predicate For Names.csproj.CoreCompileInputs.cache
+D:\CSharp-Advanced\Exercise Functional Programming\Predicate For Names\obj\Debug\net6.0\Predicate For Names.dll
+D:\CSharp-Advanced\Exercise Functional Programming\Predicate For Names\obj\Debug\net6.0\refint\Predicate For Names.dll
+D:\CSharp-Advanced\Exercise Functional Programming\Predicate For Names\obj\Debug\net6.0\Predicate For Names.pdb
+D:\CSharp-Advanced\Exercise Functional Programming\Predicate For Names\obj\Debug\net6.0\Predicate For Names.genruntimeconfig.cache
+D:\CSharp-Advanced\Exercise Functional Programming\Predicate For Names\obj\Debug\net6.0\ref\Predicate For Names.dll

@@ -1,0 +1,15 @@
+D:\CSharp-Advanced\Functional Programming\Filter By Age\bin\Debug\net6.0\Filter By Age.exe
+D:\CSharp-Advanced\Functional Programming\Filter By Age\bin\Debug\net6.0\Filter By Age.deps.json
+D:\CSharp-Advanced\Functional Programming\Filter By Age\bin\Debug\net6.0\Filter By Age.runtimeconfig.json
+D:\CSharp-Advanced\Functional Programming\Filter By Age\bin\Debug\net6.0\Filter By Age.dll
+D:\CSharp-Advanced\Functional Programming\Filter By Age\bin\Debug\net6.0\Filter By Age.pdb
+D:\CSharp-Advanced\Functional Programming\Filter By Age\obj\Debug\net6.0\Filter By Age.csproj.AssemblyReference.cache
+D:\CSharp-Advanced\Functional Programming\Filter By Age\obj\Debug\net6.0\Filter By Age.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp-Advanced\Functional Programming\Filter By Age\obj\Debug\net6.0\Filter By Age.AssemblyInfoInputs.cache
+D:\CSharp-Advanced\Functional Programming\Filter By Age\obj\Debug\net6.0\Filter By Age.AssemblyInfo.cs
+D:\CSharp-Advanced\Functional Programming\Filter By Age\obj\Debug\net6.0\Filter By Age.csproj.CoreCompileInputs.cache
+D:\CSharp-Advanced\Functional Programming\Filter By Age\obj\Debug\net6.0\Filter By Age.dll
+D:\CSharp-Advanced\Functional Programming\Filter By Age\obj\Debug\net6.0\refint\Filter By Age.dll
+D:\CSharp-Advanced\Functional Programming\Filter By Age\obj\Debug\net6.0\Filter By Age.pdb
+D:\CSharp-Advanced\Functional Programming\Filter By Age\obj\Debug\net6.0\Filter By Age.genruntimeconfig.cache
+D:\CSharp-Advanced\Functional Programming\Filter By Age\obj\Debug\net6.0\ref\Filter By Age.dll
