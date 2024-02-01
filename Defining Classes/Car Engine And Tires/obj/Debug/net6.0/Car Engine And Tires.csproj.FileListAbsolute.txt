@@ -1,0 +1,15 @@
+D:\CSharp-Advanced\Defining Classes\Car Engine And Tires\bin\Debug\net6.0\Car Engine And Tires.exe
+D:\CSharp-Advanced\Defining Classes\Car Engine And Tires\bin\Debug\net6.0\Car Engine And Tires.deps.json
+D:\CSharp-Advanced\Defining Classes\Car Engine And Tires\bin\Debug\net6.0\Car Engine And Tires.runtimeconfig.json
+D:\CSharp-Advanced\Defining Classes\Car Engine And Tires\bin\Debug\net6.0\Car Engine And Tires.dll
+D:\CSharp-Advanced\Defining Classes\Car Engine And Tires\bin\Debug\net6.0\Car Engine And Tires.pdb
+D:\CSharp-Advanced\Defining Classes\Car Engine And Tires\obj\Debug\net6.0\Car Engine And Tires.csproj.AssemblyReference.cache
+D:\CSharp-Advanced\Defining Classes\Car Engine And Tires\obj\Debug\net6.0\Car Engine And Tires.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp-Advanced\Defining Classes\Car Engine And Tires\obj\Debug\net6.0\Car Engine And Tires.AssemblyInfoInputs.cache
+D:\CSharp-Advanced\Defining Classes\Car Engine And Tires\obj\Debug\net6.0\Car Engine And Tires.AssemblyInfo.cs
+D:\CSharp-Advanced\Defining Classes\Car Engine And Tires\obj\Debug\net6.0\Car Engine And Tires.csproj.CoreCompileInputs.cache
+D:\CSharp-Advanced\Defining Classes\Car Engine And Tires\obj\Debug\net6.0\Car Engine And Tires.dll
+D:\CSharp-Advanced\Defining Classes\Car Engine And Tires\obj\Debug\net6.0\refint\Car Engine And Tires.dll
+D:\CSharp-Advanced\Defining Classes\Car Engine And Tires\obj\Debug\net6.0\Car Engine And Tires.pdb
+D:\CSharp-Advanced\Defining Classes\Car Engine And Tires\obj\Debug\net6.0\Car Engine And Tires.genruntimeconfig.cache
+D:\CSharp-Advanced\Defining Classes\Car Engine And Tires\obj\Debug\net6.0\ref\Car Engine And Tires.dll
