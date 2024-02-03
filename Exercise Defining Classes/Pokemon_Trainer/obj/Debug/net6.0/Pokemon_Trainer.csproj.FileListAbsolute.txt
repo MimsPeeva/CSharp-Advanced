@@ -1,0 +1,15 @@
+D:\CSharp-Advanced\Exercise Defining Classes\Pokemon_Trainer\bin\Debug\net6.0\Pokemon_Trainer.exe
+D:\CSharp-Advanced\Exercise Defining Classes\Pokemon_Trainer\bin\Debug\net6.0\Pokemon_Trainer.deps.json
+D:\CSharp-Advanced\Exercise Defining Classes\Pokemon_Trainer\bin\Debug\net6.0\Pokemon_Trainer.runtimeconfig.json
+D:\CSharp-Advanced\Exercise Defining Classes\Pokemon_Trainer\bin\Debug\net6.0\Pokemon_Trainer.dll
+D:\CSharp-Advanced\Exercise Defining Classes\Pokemon_Trainer\bin\Debug\net6.0\Pokemon_Trainer.pdb
+D:\CSharp-Advanced\Exercise Defining Classes\Pokemon_Trainer\obj\Debug\net6.0\Pokemon_Trainer.csproj.AssemblyReference.cache
+D:\CSharp-Advanced\Exercise Defining Classes\Pokemon_Trainer\obj\Debug\net6.0\Pokemon_Trainer.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp-Advanced\Exercise Defining Classes\Pokemon_Trainer\obj\Debug\net6.0\Pokemon_Trainer.AssemblyInfoInputs.cache
+D:\CSharp-Advanced\Exercise Defining Classes\Pokemon_Trainer\obj\Debug\net6.0\Pokemon_Trainer.AssemblyInfo.cs
+D:\CSharp-Advanced\Exercise Defining Classes\Pokemon_Trainer\obj\Debug\net6.0\Pokemon_Trainer.csproj.CoreCompileInputs.cache
+D:\CSharp-Advanced\Exercise Defining Classes\Pokemon_Trainer\obj\Debug\net6.0\Pokemon_Trainer.dll
+D:\CSharp-Advanced\Exercise Defining Classes\Pokemon_Trainer\obj\Debug\net6.0\refint\Pokemon_Trainer.dll
+D:\CSharp-Advanced\Exercise Defining Classes\Pokemon_Trainer\obj\Debug\net6.0\Pokemon_Trainer.pdb
+D:\CSharp-Advanced\Exercise Defining Classes\Pokemon_Trainer\obj\Debug\net6.0\Pokemon_Trainer.genruntimeconfig.cache
+D:\CSharp-Advanced\Exercise Defining Classes\Pokemon_Trainer\obj\Debug\net6.0\ref\Pokemon_Trainer.dll

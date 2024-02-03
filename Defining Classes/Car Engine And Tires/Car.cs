@@ -15,7 +15,7 @@ namespace CarManufacturer
         private double fuelQuantity;
         private double fuelConsumption;
         private Engine engine;
-        private Tire[] tires;
+        private Tire[] tire;
         public Car()
         {
             this.Make = "VW";
@@ -74,8 +74,8 @@ namespace CarManufacturer
         }
         public Tire[] Tire
         {
-            get { return this.tires; }
-            set { this.tires = value; }
+            get { return this.tire; }
+            set { this.tire = value; }
         }
         public void Drive(double distance)
         {
@@ -91,7 +91,7 @@ namespace CarManufacturer
             str.AppendLine($"Make: {this.Make}");
             str.AppendLine($"Model: {this.Model}");
             str.AppendLine($"Year: {this.Year}");
-            str.AppendLine($"Fuel: {this.FuelQuantity}");
+            str.AppendLine($"Fuel: {this.FuelQuantity:f2}");
             return str.ToString().TrimEnd();
         }
     }

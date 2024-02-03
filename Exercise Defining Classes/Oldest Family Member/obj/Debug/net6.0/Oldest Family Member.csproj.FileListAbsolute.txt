@@ -1,0 +1,15 @@
+D:\CSharp-Advanced\Exercise Defining Classes\Oldest Family Member\bin\Debug\net6.0\Oldest Family Member.exe
+D:\CSharp-Advanced\Exercise Defining Classes\Oldest Family Member\bin\Debug\net6.0\Oldest Family Member.deps.json
+D:\CSharp-Advanced\Exercise Defining Classes\Oldest Family Member\bin\Debug\net6.0\Oldest Family Member.runtimeconfig.json
+D:\CSharp-Advanced\Exercise Defining Classes\Oldest Family Member\bin\Debug\net6.0\Oldest Family Member.dll
+D:\CSharp-Advanced\Exercise Defining Classes\Oldest Family Member\bin\Debug\net6.0\Oldest Family Member.pdb
+D:\CSharp-Advanced\Exercise Defining Classes\Oldest Family Member\obj\Debug\net6.0\Oldest Family Member.csproj.AssemblyReference.cache
+D:\CSharp-Advanced\Exercise Defining Classes\Oldest Family Member\obj\Debug\net6.0\Oldest Family Member.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp-Advanced\Exercise Defining Classes\Oldest Family Member\obj\Debug\net6.0\Oldest Family Member.AssemblyInfoInputs.cache
+D:\CSharp-Advanced\Exercise Defining Classes\Oldest Family Member\obj\Debug\net6.0\Oldest Family Member.AssemblyInfo.cs
+D:\CSharp-Advanced\Exercise Defining Classes\Oldest Family Member\obj\Debug\net6.0\Oldest Family Member.csproj.CoreCompileInputs.cache
+D:\CSharp-Advanced\Exercise Defining Classes\Oldest Family Member\obj\Debug\net6.0\Oldest Family Member.dll
+D:\CSharp-Advanced\Exercise Defining Classes\Oldest Family Member\obj\Debug\net6.0\refint\Oldest Family Member.dll
+D:\CSharp-Advanced\Exercise Defining Classes\Oldest Family Member\obj\Debug\net6.0\Oldest Family Member.pdb
+D:\CSharp-Advanced\Exercise Defining Classes\Oldest Family Member\obj\Debug\net6.0\Oldest Family Member.genruntimeconfig.cache
+D:\CSharp-Advanced\Exercise Defining Classes\Oldest Family Member\obj\Debug\net6.0\ref\Oldest Family Member.dll

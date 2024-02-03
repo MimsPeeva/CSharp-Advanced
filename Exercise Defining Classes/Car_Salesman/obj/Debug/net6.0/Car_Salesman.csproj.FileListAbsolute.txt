@@ -1,0 +1,15 @@
+D:\CSharp-Advanced\Exercise Defining Classes\Car_Salesman\bin\Debug\net6.0\Car_Salesman.exe
+D:\CSharp-Advanced\Exercise Defining Classes\Car_Salesman\bin\Debug\net6.0\Car_Salesman.deps.json
+D:\CSharp-Advanced\Exercise Defining Classes\Car_Salesman\bin\Debug\net6.0\Car_Salesman.runtimeconfig.json
+D:\CSharp-Advanced\Exercise Defining Classes\Car_Salesman\bin\Debug\net6.0\Car_Salesman.dll
+D:\CSharp-Advanced\Exercise Defining Classes\Car_Salesman\bin\Debug\net6.0\Car_Salesman.pdb
+D:\CSharp-Advanced\Exercise Defining Classes\Car_Salesman\obj\Debug\net6.0\Car_Salesman.csproj.AssemblyReference.cache
+D:\CSharp-Advanced\Exercise Defining Classes\Car_Salesman\obj\Debug\net6.0\Car_Salesman.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp-Advanced\Exercise Defining Classes\Car_Salesman\obj\Debug\net6.0\Car_Salesman.AssemblyInfoInputs.cache
+D:\CSharp-Advanced\Exercise Defining Classes\Car_Salesman\obj\Debug\net6.0\Car_Salesman.AssemblyInfo.cs
+D:\CSharp-Advanced\Exercise Defining Classes\Car_Salesman\obj\Debug\net6.0\Car_Salesman.csproj.CoreCompileInputs.cache
+D:\CSharp-Advanced\Exercise Defining Classes\Car_Salesman\obj\Debug\net6.0\Car_Salesman.dll
+D:\CSharp-Advanced\Exercise Defining Classes\Car_Salesman\obj\Debug\net6.0\refint\Car_Salesman.dll
+D:\CSharp-Advanced\Exercise Defining Classes\Car_Salesman\obj\Debug\net6.0\Car_Salesman.pdb
+D:\CSharp-Advanced\Exercise Defining Classes\Car_Salesman\obj\Debug\net6.0\Car_Salesman.genruntimeconfig.cache
+D:\CSharp-Advanced\Exercise Defining Classes\Car_Salesman\obj\Debug\net6.0\ref\Car_Salesman.dll

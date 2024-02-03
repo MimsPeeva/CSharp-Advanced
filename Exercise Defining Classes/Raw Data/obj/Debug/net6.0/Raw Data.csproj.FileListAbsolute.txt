@@ -1,0 +1,15 @@
+D:\CSharp-Advanced\Exercise Defining Classes\Raw Data\bin\Debug\net6.0\Raw Data.exe
+D:\CSharp-Advanced\Exercise Defining Classes\Raw Data\bin\Debug\net6.0\Raw Data.deps.json
+D:\CSharp-Advanced\Exercise Defining Classes\Raw Data\bin\Debug\net6.0\Raw Data.runtimeconfig.json
+D:\CSharp-Advanced\Exercise Defining Classes\Raw Data\bin\Debug\net6.0\Raw Data.dll
+D:\CSharp-Advanced\Exercise Defining Classes\Raw Data\bin\Debug\net6.0\Raw Data.pdb
+D:\CSharp-Advanced\Exercise Defining Classes\Raw Data\obj\Debug\net6.0\Raw Data.csproj.AssemblyReference.cache
+D:\CSharp-Advanced\Exercise Defining Classes\Raw Data\obj\Debug\net6.0\Raw Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp-Advanced\Exercise Defining Classes\Raw Data\obj\Debug\net6.0\Raw Data.AssemblyInfoInputs.cache
+D:\CSharp-Advanced\Exercise Defining Classes\Raw Data\obj\Debug\net6.0\Raw Data.AssemblyInfo.cs
+D:\CSharp-Advanced\Exercise Defining Classes\Raw Data\obj\Debug\net6.0\Raw Data.csproj.CoreCompileInputs.cache
+D:\CSharp-Advanced\Exercise Defining Classes\Raw Data\obj\Debug\net6.0\Raw Data.dll
+D:\CSharp-Advanced\Exercise Defining Classes\Raw Data\obj\Debug\net6.0\refint\Raw Data.dll
+D:\CSharp-Advanced\Exercise Defining Classes\Raw Data\obj\Debug\net6.0\Raw Data.pdb
+D:\CSharp-Advanced\Exercise Defining Classes\Raw Data\obj\Debug\net6.0\Raw Data.genruntimeconfig.cache
+D:\CSharp-Advanced\Exercise Defining Classes\Raw Data\obj\Debug\net6.0\ref\Raw Data.dll

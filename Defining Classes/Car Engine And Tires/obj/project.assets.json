@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\CSharp-Advanced\\Defining Classes\\Car Engine And Tires\\Car Engine And Tires.csproj",
-      "projectName": "Car Engine And Tires",
-      "projectPath": "D:\\CSharp-Advanced\\Defining Classes\\Car Engine And Tires\\Car Engine And Tires.csproj",
+      "projectUniqueName": "D:\\CSharp-Advanced\\Defining Classes\\Car Engine And Tires\\CarEngineAndTires.csproj",
+      "projectName": "CarEngineAndTires",
+      "projectPath": "D:\\CSharp-Advanced\\Defining Classes\\Car Engine And Tires\\CarEngineAndTires.csproj",
       "packagesPath": "C:\\Users\\Acer\\.nuget\\packages\\",
       "outputPath": "D:\\CSharp-Advanced\\Defining Classes\\Car Engine And Tires\\obj\\",
       "projectStyle": "PackageReference",

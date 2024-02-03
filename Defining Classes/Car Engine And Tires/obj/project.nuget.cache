@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "VGPIFCByvf92xxoi9gxPfm/SdN/7tADp0slMe6zdSa0ZHNgv+P8a+naFGkZbY7h/leXVokAs6wEWC+ToOEW53g==",
+  "dgSpecHash": "tpBOkrcn9PuF4mukflCYphj50Lrzn8D8HicAVBBc7fd7b0q4TrknDK1f1hxc4xYohJy5nwqv52tNX9qpB7ohdg==",
   "success": true,
-  "projectFilePath": "D:\\CSharp-Advanced\\Defining Classes\\Car Engine And Tires\\Car Engine And Tires.csproj",
+  "projectFilePath": "D:\\CSharp-Advanced\\Defining Classes\\Car Engine And Tires\\CarEngineAndTires.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
