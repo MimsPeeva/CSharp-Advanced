@@ -1,0 +1,15 @@
+D:\CSharp-Advanced\Exercise Generics\GenericCountMethodDouble\bin\Debug\net6.0\GenericCountMethodDouble.exe
+D:\CSharp-Advanced\Exercise Generics\GenericCountMethodDouble\bin\Debug\net6.0\GenericCountMethodDouble.deps.json
+D:\CSharp-Advanced\Exercise Generics\GenericCountMethodDouble\bin\Debug\net6.0\GenericCountMethodDouble.runtimeconfig.json
+D:\CSharp-Advanced\Exercise Generics\GenericCountMethodDouble\bin\Debug\net6.0\GenericCountMethodDouble.dll
+D:\CSharp-Advanced\Exercise Generics\GenericCountMethodDouble\bin\Debug\net6.0\GenericCountMethodDouble.pdb
+D:\CSharp-Advanced\Exercise Generics\GenericCountMethodDouble\obj\Debug\net6.0\GenericCountMethodDouble.csproj.AssemblyReference.cache
+D:\CSharp-Advanced\Exercise Generics\GenericCountMethodDouble\obj\Debug\net6.0\GenericCountMethodDouble.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp-Advanced\Exercise Generics\GenericCountMethodDouble\obj\Debug\net6.0\GenericCountMethodDouble.AssemblyInfoInputs.cache
+D:\CSharp-Advanced\Exercise Generics\GenericCountMethodDouble\obj\Debug\net6.0\GenericCountMethodDouble.AssemblyInfo.cs
+D:\CSharp-Advanced\Exercise Generics\GenericCountMethodDouble\obj\Debug\net6.0\GenericCountMethodDouble.csproj.CoreCompileInputs.cache
+D:\CSharp-Advanced\Exercise Generics\GenericCountMethodDouble\obj\Debug\net6.0\GenericCountMethodDouble.dll
+D:\CSharp-Advanced\Exercise Generics\GenericCountMethodDouble\obj\Debug\net6.0\refint\GenericCountMethodDouble.dll
+D:\CSharp-Advanced\Exercise Generics\GenericCountMethodDouble\obj\Debug\net6.0\GenericCountMethodDouble.pdb
+D:\CSharp-Advanced\Exercise Generics\GenericCountMethodDouble\obj\Debug\net6.0\GenericCountMethodDouble.genruntimeconfig.cache
+D:\CSharp-Advanced\Exercise Generics\GenericCountMethodDouble\obj\Debug\net6.0\ref\GenericCountMethodDouble.dll

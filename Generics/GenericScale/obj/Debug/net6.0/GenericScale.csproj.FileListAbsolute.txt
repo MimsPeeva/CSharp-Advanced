@@ -1,0 +1,15 @@
+D:\CSharp-Advanced\Generics\GenericScale\bin\Debug\net6.0\GenericScale.exe
+D:\CSharp-Advanced\Generics\GenericScale\bin\Debug\net6.0\GenericScale.deps.json
+D:\CSharp-Advanced\Generics\GenericScale\bin\Debug\net6.0\GenericScale.runtimeconfig.json
+D:\CSharp-Advanced\Generics\GenericScale\bin\Debug\net6.0\GenericScale.dll
+D:\CSharp-Advanced\Generics\GenericScale\bin\Debug\net6.0\GenericScale.pdb
+D:\CSharp-Advanced\Generics\GenericScale\obj\Debug\net6.0\GenericScale.csproj.AssemblyReference.cache
+D:\CSharp-Advanced\Generics\GenericScale\obj\Debug\net6.0\GenericScale.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp-Advanced\Generics\GenericScale\obj\Debug\net6.0\GenericScale.AssemblyInfoInputs.cache
+D:\CSharp-Advanced\Generics\GenericScale\obj\Debug\net6.0\GenericScale.AssemblyInfo.cs
+D:\CSharp-Advanced\Generics\GenericScale\obj\Debug\net6.0\GenericScale.csproj.CoreCompileInputs.cache
+D:\CSharp-Advanced\Generics\GenericScale\obj\Debug\net6.0\GenericScale.dll
+D:\CSharp-Advanced\Generics\GenericScale\obj\Debug\net6.0\refint\GenericScale.dll
+D:\CSharp-Advanced\Generics\GenericScale\obj\Debug\net6.0\GenericScale.pdb
+D:\CSharp-Advanced\Generics\GenericScale\obj\Debug\net6.0\GenericScale.genruntimeconfig.cache
+D:\CSharp-Advanced\Generics\GenericScale\obj\Debug\net6.0\ref\GenericScale.dll

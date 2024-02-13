@@ -1,0 +1,15 @@
+D:\CSharp-Advanced\Generics\BoxOfT\bin\Debug\net6.0\BoxOfT.exe
+D:\CSharp-Advanced\Generics\BoxOfT\bin\Debug\net6.0\BoxOfT.deps.json
+D:\CSharp-Advanced\Generics\BoxOfT\bin\Debug\net6.0\BoxOfT.runtimeconfig.json
+D:\CSharp-Advanced\Generics\BoxOfT\bin\Debug\net6.0\BoxOfT.dll
+D:\CSharp-Advanced\Generics\BoxOfT\bin\Debug\net6.0\BoxOfT.pdb
+D:\CSharp-Advanced\Generics\BoxOfT\obj\Debug\net6.0\BoxOfT.csproj.AssemblyReference.cache
+D:\CSharp-Advanced\Generics\BoxOfT\obj\Debug\net6.0\BoxOfT.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp-Advanced\Generics\BoxOfT\obj\Debug\net6.0\BoxOfT.AssemblyInfoInputs.cache
+D:\CSharp-Advanced\Generics\BoxOfT\obj\Debug\net6.0\BoxOfT.AssemblyInfo.cs
+D:\CSharp-Advanced\Generics\BoxOfT\obj\Debug\net6.0\BoxOfT.csproj.CoreCompileInputs.cache
+D:\CSharp-Advanced\Generics\BoxOfT\obj\Debug\net6.0\BoxOfT.dll
+D:\CSharp-Advanced\Generics\BoxOfT\obj\Debug\net6.0\refint\BoxOfT.dll
+D:\CSharp-Advanced\Generics\BoxOfT\obj\Debug\net6.0\BoxOfT.pdb
+D:\CSharp-Advanced\Generics\BoxOfT\obj\Debug\net6.0\BoxOfT.genruntimeconfig.cache
+D:\CSharp-Advanced\Generics\BoxOfT\obj\Debug\net6.0\ref\BoxOfT.dll

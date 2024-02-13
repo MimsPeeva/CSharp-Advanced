@@ -1,0 +1,15 @@
+D:\CSharp-Advanced\Exercise Generics\GenericSwapMethodInteger\bin\Debug\net6.0\GenericSwapMethodInteger.exe
+D:\CSharp-Advanced\Exercise Generics\GenericSwapMethodInteger\bin\Debug\net6.0\GenericSwapMethodInteger.deps.json
+D:\CSharp-Advanced\Exercise Generics\GenericSwapMethodInteger\bin\Debug\net6.0\GenericSwapMethodInteger.runtimeconfig.json
+D:\CSharp-Advanced\Exercise Generics\GenericSwapMethodInteger\bin\Debug\net6.0\GenericSwapMethodInteger.dll
+D:\CSharp-Advanced\Exercise Generics\GenericSwapMethodInteger\bin\Debug\net6.0\GenericSwapMethodInteger.pdb
+D:\CSharp-Advanced\Exercise Generics\GenericSwapMethodInteger\obj\Debug\net6.0\GenericSwapMethodInteger.csproj.AssemblyReference.cache
+D:\CSharp-Advanced\Exercise Generics\GenericSwapMethodInteger\obj\Debug\net6.0\GenericSwapMethodInteger.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp-Advanced\Exercise Generics\GenericSwapMethodInteger\obj\Debug\net6.0\GenericSwapMethodInteger.AssemblyInfoInputs.cache
+D:\CSharp-Advanced\Exercise Generics\GenericSwapMethodInteger\obj\Debug\net6.0\GenericSwapMethodInteger.AssemblyInfo.cs
+D:\CSharp-Advanced\Exercise Generics\GenericSwapMethodInteger\obj\Debug\net6.0\GenericSwapMethodInteger.csproj.CoreCompileInputs.cache
+D:\CSharp-Advanced\Exercise Generics\GenericSwapMethodInteger\obj\Debug\net6.0\GenericSwapMethodInteger.dll
+D:\CSharp-Advanced\Exercise Generics\GenericSwapMethodInteger\obj\Debug\net6.0\refint\GenericSwapMethodInteger.dll
+D:\CSharp-Advanced\Exercise Generics\GenericSwapMethodInteger\obj\Debug\net6.0\GenericSwapMethodInteger.pdb
+D:\CSharp-Advanced\Exercise Generics\GenericSwapMethodInteger\obj\Debug\net6.0\GenericSwapMethodInteger.genruntimeconfig.cache
+D:\CSharp-Advanced\Exercise Generics\GenericSwapMethodInteger\obj\Debug\net6.0\ref\GenericSwapMethodInteger.dll

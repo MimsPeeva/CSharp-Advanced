@@ -1,0 +1,15 @@
+D:\CSharp-Advanced\Exercise Generics\Tuple\bin\Debug\net6.0\Tuple.exe
+D:\CSharp-Advanced\Exercise Generics\Tuple\bin\Debug\net6.0\Tuple.deps.json
+D:\CSharp-Advanced\Exercise Generics\Tuple\bin\Debug\net6.0\Tuple.runtimeconfig.json
+D:\CSharp-Advanced\Exercise Generics\Tuple\bin\Debug\net6.0\Tuple.dll
+D:\CSharp-Advanced\Exercise Generics\Tuple\bin\Debug\net6.0\Tuple.pdb
+D:\CSharp-Advanced\Exercise Generics\Tuple\obj\Debug\net6.0\Tuple.csproj.AssemblyReference.cache
+D:\CSharp-Advanced\Exercise Generics\Tuple\obj\Debug\net6.0\Tuple.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp-Advanced\Exercise Generics\Tuple\obj\Debug\net6.0\Tuple.AssemblyInfoInputs.cache
+D:\CSharp-Advanced\Exercise Generics\Tuple\obj\Debug\net6.0\Tuple.AssemblyInfo.cs
+D:\CSharp-Advanced\Exercise Generics\Tuple\obj\Debug\net6.0\Tuple.csproj.CoreCompileInputs.cache
+D:\CSharp-Advanced\Exercise Generics\Tuple\obj\Debug\net6.0\Tuple.dll
+D:\CSharp-Advanced\Exercise Generics\Tuple\obj\Debug\net6.0\refint\Tuple.dll
+D:\CSharp-Advanced\Exercise Generics\Tuple\obj\Debug\net6.0\Tuple.pdb
+D:\CSharp-Advanced\Exercise Generics\Tuple\obj\Debug\net6.0\Tuple.genruntimeconfig.cache
+D:\CSharp-Advanced\Exercise Generics\Tuple\obj\Debug\net6.0\ref\Tuple.dll

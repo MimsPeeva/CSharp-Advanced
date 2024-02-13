@@ -1,0 +1,15 @@
+D:\CSharp-Advanced\Iterators and Comparators\ComparableBook\bin\Debug\net6.0\ComparableBook.exe
+D:\CSharp-Advanced\Iterators and Comparators\ComparableBook\bin\Debug\net6.0\ComparableBook.deps.json
+D:\CSharp-Advanced\Iterators and Comparators\ComparableBook\bin\Debug\net6.0\ComparableBook.runtimeconfig.json
+D:\CSharp-Advanced\Iterators and Comparators\ComparableBook\bin\Debug\net6.0\ComparableBook.dll
+D:\CSharp-Advanced\Iterators and Comparators\ComparableBook\bin\Debug\net6.0\ComparableBook.pdb
+D:\CSharp-Advanced\Iterators and Comparators\ComparableBook\obj\Debug\net6.0\ComparableBook.csproj.AssemblyReference.cache
+D:\CSharp-Advanced\Iterators and Comparators\ComparableBook\obj\Debug\net6.0\ComparableBook.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp-Advanced\Iterators and Comparators\ComparableBook\obj\Debug\net6.0\ComparableBook.AssemblyInfoInputs.cache
+D:\CSharp-Advanced\Iterators and Comparators\ComparableBook\obj\Debug\net6.0\ComparableBook.AssemblyInfo.cs
+D:\CSharp-Advanced\Iterators and Comparators\ComparableBook\obj\Debug\net6.0\ComparableBook.csproj.CoreCompileInputs.cache
+D:\CSharp-Advanced\Iterators and Comparators\ComparableBook\obj\Debug\net6.0\ComparableBook.dll
+D:\CSharp-Advanced\Iterators and Comparators\ComparableBook\obj\Debug\net6.0\refint\ComparableBook.dll
+D:\CSharp-Advanced\Iterators and Comparators\ComparableBook\obj\Debug\net6.0\ComparableBook.pdb
+D:\CSharp-Advanced\Iterators and Comparators\ComparableBook\obj\Debug\net6.0\ComparableBook.genruntimeconfig.cache
+D:\CSharp-Advanced\Iterators and Comparators\ComparableBook\obj\Debug\net6.0\ref\ComparableBook.dll

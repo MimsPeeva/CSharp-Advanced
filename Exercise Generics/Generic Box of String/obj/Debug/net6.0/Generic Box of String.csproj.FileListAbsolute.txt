@@ -1,0 +1,15 @@
+D:\CSharp-Advanced\Exercise Generics\Generic Box of String\bin\Debug\net6.0\Generic Box of String.exe
+D:\CSharp-Advanced\Exercise Generics\Generic Box of String\bin\Debug\net6.0\Generic Box of String.deps.json
+D:\CSharp-Advanced\Exercise Generics\Generic Box of String\bin\Debug\net6.0\Generic Box of String.runtimeconfig.json
+D:\CSharp-Advanced\Exercise Generics\Generic Box of String\bin\Debug\net6.0\Generic Box of String.dll
+D:\CSharp-Advanced\Exercise Generics\Generic Box of String\bin\Debug\net6.0\Generic Box of String.pdb
+D:\CSharp-Advanced\Exercise Generics\Generic Box of String\obj\Debug\net6.0\Generic Box of String.csproj.AssemblyReference.cache
+D:\CSharp-Advanced\Exercise Generics\Generic Box of String\obj\Debug\net6.0\Generic Box of String.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp-Advanced\Exercise Generics\Generic Box of String\obj\Debug\net6.0\Generic Box of String.AssemblyInfoInputs.cache
+D:\CSharp-Advanced\Exercise Generics\Generic Box of String\obj\Debug\net6.0\Generic Box of String.AssemblyInfo.cs
+D:\CSharp-Advanced\Exercise Generics\Generic Box of String\obj\Debug\net6.0\Generic Box of String.csproj.CoreCompileInputs.cache
+D:\CSharp-Advanced\Exercise Generics\Generic Box of String\obj\Debug\net6.0\Generic Box of String.dll
+D:\CSharp-Advanced\Exercise Generics\Generic Box of String\obj\Debug\net6.0\refint\Generic Box of String.dll
+D:\CSharp-Advanced\Exercise Generics\Generic Box of String\obj\Debug\net6.0\Generic Box of String.pdb
+D:\CSharp-Advanced\Exercise Generics\Generic Box of String\obj\Debug\net6.0\Generic Box of String.genruntimeconfig.cache
+D:\CSharp-Advanced\Exercise Generics\Generic Box of String\obj\Debug\net6.0\ref\Generic Box of String.dll

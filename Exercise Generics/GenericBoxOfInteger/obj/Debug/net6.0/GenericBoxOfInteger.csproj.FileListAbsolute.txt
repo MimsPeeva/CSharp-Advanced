@@ -1,0 +1,15 @@
+D:\CSharp-Advanced\Exercise Generics\GenericBoxOfInteger\bin\Debug\net6.0\GenericBoxOfInteger.exe
+D:\CSharp-Advanced\Exercise Generics\GenericBoxOfInteger\bin\Debug\net6.0\GenericBoxOfInteger.deps.json
+D:\CSharp-Advanced\Exercise Generics\GenericBoxOfInteger\bin\Debug\net6.0\GenericBoxOfInteger.runtimeconfig.json
+D:\CSharp-Advanced\Exercise Generics\GenericBoxOfInteger\bin\Debug\net6.0\GenericBoxOfInteger.dll
+D:\CSharp-Advanced\Exercise Generics\GenericBoxOfInteger\bin\Debug\net6.0\GenericBoxOfInteger.pdb
+D:\CSharp-Advanced\Exercise Generics\GenericBoxOfInteger\obj\Debug\net6.0\GenericBoxOfInteger.csproj.AssemblyReference.cache
+D:\CSharp-Advanced\Exercise Generics\GenericBoxOfInteger\obj\Debug\net6.0\GenericBoxOfInteger.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp-Advanced\Exercise Generics\GenericBoxOfInteger\obj\Debug\net6.0\GenericBoxOfInteger.AssemblyInfoInputs.cache
+D:\CSharp-Advanced\Exercise Generics\GenericBoxOfInteger\obj\Debug\net6.0\GenericBoxOfInteger.AssemblyInfo.cs
+D:\CSharp-Advanced\Exercise Generics\GenericBoxOfInteger\obj\Debug\net6.0\GenericBoxOfInteger.csproj.CoreCompileInputs.cache
+D:\CSharp-Advanced\Exercise Generics\GenericBoxOfInteger\obj\Debug\net6.0\GenericBoxOfInteger.dll
+D:\CSharp-Advanced\Exercise Generics\GenericBoxOfInteger\obj\Debug\net6.0\refint\GenericBoxOfInteger.dll
+D:\CSharp-Advanced\Exercise Generics\GenericBoxOfInteger\obj\Debug\net6.0\GenericBoxOfInteger.pdb
+D:\CSharp-Advanced\Exercise Generics\GenericBoxOfInteger\obj\Debug\net6.0\GenericBoxOfInteger.genruntimeconfig.cache
+D:\CSharp-Advanced\Exercise Generics\GenericBoxOfInteger\obj\Debug\net6.0\ref\GenericBoxOfInteger.dll

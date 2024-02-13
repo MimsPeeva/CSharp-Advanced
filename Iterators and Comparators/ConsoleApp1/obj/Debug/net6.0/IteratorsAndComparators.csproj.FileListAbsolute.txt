@@ -1,0 +1,15 @@
+D:\CSharp-Advanced\Iterators and Comparators\ConsoleApp1\bin\Debug\net6.0\IteratorsAndComparators.exe
+D:\CSharp-Advanced\Iterators and Comparators\ConsoleApp1\bin\Debug\net6.0\IteratorsAndComparators.deps.json
+D:\CSharp-Advanced\Iterators and Comparators\ConsoleApp1\bin\Debug\net6.0\IteratorsAndComparators.runtimeconfig.json
+D:\CSharp-Advanced\Iterators and Comparators\ConsoleApp1\bin\Debug\net6.0\IteratorsAndComparators.dll
+D:\CSharp-Advanced\Iterators and Comparators\ConsoleApp1\bin\Debug\net6.0\IteratorsAndComparators.pdb
+D:\CSharp-Advanced\Iterators and Comparators\ConsoleApp1\obj\Debug\net6.0\IteratorsAndComparators.csproj.AssemblyReference.cache
+D:\CSharp-Advanced\Iterators and Comparators\ConsoleApp1\obj\Debug\net6.0\IteratorsAndComparators.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp-Advanced\Iterators and Comparators\ConsoleApp1\obj\Debug\net6.0\IteratorsAndComparators.AssemblyInfoInputs.cache
+D:\CSharp-Advanced\Iterators and Comparators\ConsoleApp1\obj\Debug\net6.0\IteratorsAndComparators.AssemblyInfo.cs
+D:\CSharp-Advanced\Iterators and Comparators\ConsoleApp1\obj\Debug\net6.0\IteratorsAndComparators.csproj.CoreCompileInputs.cache
+D:\CSharp-Advanced\Iterators and Comparators\ConsoleApp1\obj\Debug\net6.0\IteratorsAndComparators.dll
+D:\CSharp-Advanced\Iterators and Comparators\ConsoleApp1\obj\Debug\net6.0\refint\IteratorsAndComparators.dll
+D:\CSharp-Advanced\Iterators and Comparators\ConsoleApp1\obj\Debug\net6.0\IteratorsAndComparators.pdb
+D:\CSharp-Advanced\Iterators and Comparators\ConsoleApp1\obj\Debug\net6.0\IteratorsAndComparators.genruntimeconfig.cache
+D:\CSharp-Advanced\Iterators and Comparators\ConsoleApp1\obj\Debug\net6.0\ref\IteratorsAndComparators.dll

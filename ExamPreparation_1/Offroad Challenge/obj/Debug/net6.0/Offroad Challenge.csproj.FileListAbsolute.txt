@@ -1,0 +1,15 @@
+D:\CSharp-Advanced\ExamPreparation_1\Offroad Challenge\bin\Debug\net6.0\Offroad Challenge.exe
+D:\CSharp-Advanced\ExamPreparation_1\Offroad Challenge\bin\Debug\net6.0\Offroad Challenge.deps.json
+D:\CSharp-Advanced\ExamPreparation_1\Offroad Challenge\bin\Debug\net6.0\Offroad Challenge.runtimeconfig.json
+D:\CSharp-Advanced\ExamPreparation_1\Offroad Challenge\bin\Debug\net6.0\Offroad Challenge.dll
+D:\CSharp-Advanced\ExamPreparation_1\Offroad Challenge\bin\Debug\net6.0\Offroad Challenge.pdb
+D:\CSharp-Advanced\ExamPreparation_1\Offroad Challenge\obj\Debug\net6.0\Offroad Challenge.csproj.AssemblyReference.cache
+D:\CSharp-Advanced\ExamPreparation_1\Offroad Challenge\obj\Debug\net6.0\Offroad Challenge.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp-Advanced\ExamPreparation_1\Offroad Challenge\obj\Debug\net6.0\Offroad Challenge.AssemblyInfoInputs.cache
+D:\CSharp-Advanced\ExamPreparation_1\Offroad Challenge\obj\Debug\net6.0\Offroad Challenge.AssemblyInfo.cs
+D:\CSharp-Advanced\ExamPreparation_1\Offroad Challenge\obj\Debug\net6.0\Offroad Challenge.csproj.CoreCompileInputs.cache
+D:\CSharp-Advanced\ExamPreparation_1\Offroad Challenge\obj\Debug\net6.0\Offroad Challenge.dll
+D:\CSharp-Advanced\ExamPreparation_1\Offroad Challenge\obj\Debug\net6.0\refint\Offroad Challenge.dll
+D:\CSharp-Advanced\ExamPreparation_1\Offroad Challenge\obj\Debug\net6.0\Offroad Challenge.pdb
+D:\CSharp-Advanced\ExamPreparation_1\Offroad Challenge\obj\Debug\net6.0\Offroad Challenge.genruntimeconfig.cache
+D:\CSharp-Advanced\ExamPreparation_1\Offroad Challenge\obj\Debug\net6.0\ref\Offroad Challenge.dll

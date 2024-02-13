@@ -1,0 +1,15 @@
+D:\CSharp-Advanced\Exercise Generics\Threeuple\bin\Debug\net6.0\Threeuple.exe
+D:\CSharp-Advanced\Exercise Generics\Threeuple\bin\Debug\net6.0\Threeuple.deps.json
+D:\CSharp-Advanced\Exercise Generics\Threeuple\bin\Debug\net6.0\Threeuple.runtimeconfig.json
+D:\CSharp-Advanced\Exercise Generics\Threeuple\bin\Debug\net6.0\Threeuple.dll
+D:\CSharp-Advanced\Exercise Generics\Threeuple\bin\Debug\net6.0\Threeuple.pdb
+D:\CSharp-Advanced\Exercise Generics\Threeuple\obj\Debug\net6.0\Threeuple.csproj.AssemblyReference.cache
+D:\CSharp-Advanced\Exercise Generics\Threeuple\obj\Debug\net6.0\Threeuple.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp-Advanced\Exercise Generics\Threeuple\obj\Debug\net6.0\Threeuple.AssemblyInfoInputs.cache
+D:\CSharp-Advanced\Exercise Generics\Threeuple\obj\Debug\net6.0\Threeuple.AssemblyInfo.cs
+D:\CSharp-Advanced\Exercise Generics\Threeuple\obj\Debug\net6.0\Threeuple.csproj.CoreCompileInputs.cache
+D:\CSharp-Advanced\Exercise Generics\Threeuple\obj\Debug\net6.0\Threeuple.dll
+D:\CSharp-Advanced\Exercise Generics\Threeuple\obj\Debug\net6.0\refint\Threeuple.dll
+D:\CSharp-Advanced\Exercise Generics\Threeuple\obj\Debug\net6.0\Threeuple.pdb
+D:\CSharp-Advanced\Exercise Generics\Threeuple\obj\Debug\net6.0\Threeuple.genruntimeconfig.cache
+D:\CSharp-Advanced\Exercise Generics\Threeuple\obj\Debug\net6.0\ref\Threeuple.dll
