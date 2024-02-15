@@ -3,7 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.3.32901.215
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Temple of Doom", "Temple of Doom\Temple of Doom.csproj", "{B0554490-8D6B-4C63-84EE-BFD49561A063}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Temple of Doom", "Temple of Doom\Temple of Doom.csproj", "{B0554490-8D6B-4C63-84EE-BFD49561A063}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Mouse In The Kitchen", "Mouse In The Kitchen\Mouse In The Kitchen.csproj", "{E5D603F4-1E8B-4002-B728-94DD49C42AC0}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AutomotiveRepairShop", "C:\Users\Acer\Downloads\AutomotiveRepairShop\AutomotiveRepairShop\AutomotiveRepairShop.csproj", "{CA280298-291D-457D-899C-A33A09A8AAA3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +19,14 @@ Global
 		{B0554490-8D6B-4C63-84EE-BFD49561A063}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B0554490-8D6B-4C63-84EE-BFD49561A063}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B0554490-8D6B-4C63-84EE-BFD49561A063}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E5D603F4-1E8B-4002-B728-94DD49C42AC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5D603F4-1E8B-4002-B728-94DD49C42AC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5D603F4-1E8B-4002-B728-94DD49C42AC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5D603F4-1E8B-4002-B728-94DD49C42AC0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA280298-291D-457D-899C-A33A09A8AAA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA280298-291D-457D-899C-A33A09A8AAA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA280298-291D-457D-899C-A33A09A8AAA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA280298-291D-457D-899C-A33A09A8AAA3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
