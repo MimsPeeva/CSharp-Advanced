@@ -8,7 +8,7 @@ Stack<int> medicaments = new(Console.ReadLine()
 int medKit = 0;
 int bandage = 0;
 int patch = 0;
-while (textiles.Any()|| medicaments.Any())
+while (textiles.Any()&& medicaments.Any())
 {
     if (textiles.Count == 0)
     { break; }

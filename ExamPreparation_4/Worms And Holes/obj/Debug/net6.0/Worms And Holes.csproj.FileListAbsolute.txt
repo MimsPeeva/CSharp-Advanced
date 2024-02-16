@@ -1,0 +1,15 @@
+D:\CSharp-Advanced\ExamPreparation_4\Worms And Holes\bin\Debug\net6.0\Worms And Holes.exe
+D:\CSharp-Advanced\ExamPreparation_4\Worms And Holes\bin\Debug\net6.0\Worms And Holes.deps.json
+D:\CSharp-Advanced\ExamPreparation_4\Worms And Holes\bin\Debug\net6.0\Worms And Holes.runtimeconfig.json
+D:\CSharp-Advanced\ExamPreparation_4\Worms And Holes\bin\Debug\net6.0\Worms And Holes.dll
+D:\CSharp-Advanced\ExamPreparation_4\Worms And Holes\bin\Debug\net6.0\Worms And Holes.pdb
+D:\CSharp-Advanced\ExamPreparation_4\Worms And Holes\obj\Debug\net6.0\Worms And Holes.csproj.AssemblyReference.cache
+D:\CSharp-Advanced\ExamPreparation_4\Worms And Holes\obj\Debug\net6.0\Worms And Holes.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp-Advanced\ExamPreparation_4\Worms And Holes\obj\Debug\net6.0\Worms And Holes.AssemblyInfoInputs.cache
+D:\CSharp-Advanced\ExamPreparation_4\Worms And Holes\obj\Debug\net6.0\Worms And Holes.AssemblyInfo.cs
+D:\CSharp-Advanced\ExamPreparation_4\Worms And Holes\obj\Debug\net6.0\Worms And Holes.csproj.CoreCompileInputs.cache
+D:\CSharp-Advanced\ExamPreparation_4\Worms And Holes\obj\Debug\net6.0\Worms And Holes.dll
+D:\CSharp-Advanced\ExamPreparation_4\Worms And Holes\obj\Debug\net6.0\refint\Worms And Holes.dll
+D:\CSharp-Advanced\ExamPreparation_4\Worms And Holes\obj\Debug\net6.0\Worms And Holes.pdb
+D:\CSharp-Advanced\ExamPreparation_4\Worms And Holes\obj\Debug\net6.0\Worms And Holes.genruntimeconfig.cache
+D:\CSharp-Advanced\ExamPreparation_4\Worms And Holes\obj\Debug\net6.0\ref\Worms And Holes.dll

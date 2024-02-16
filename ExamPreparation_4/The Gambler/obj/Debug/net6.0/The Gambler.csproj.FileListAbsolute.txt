@@ -1,0 +1,15 @@
+D:\CSharp-Advanced\ExamPreparation_4\The Gambler\bin\Debug\net6.0\The Gambler.exe
+D:\CSharp-Advanced\ExamPreparation_4\The Gambler\bin\Debug\net6.0\The Gambler.deps.json
+D:\CSharp-Advanced\ExamPreparation_4\The Gambler\bin\Debug\net6.0\The Gambler.runtimeconfig.json
+D:\CSharp-Advanced\ExamPreparation_4\The Gambler\bin\Debug\net6.0\The Gambler.dll
+D:\CSharp-Advanced\ExamPreparation_4\The Gambler\bin\Debug\net6.0\The Gambler.pdb
+D:\CSharp-Advanced\ExamPreparation_4\The Gambler\obj\Debug\net6.0\The Gambler.csproj.AssemblyReference.cache
+D:\CSharp-Advanced\ExamPreparation_4\The Gambler\obj\Debug\net6.0\The Gambler.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp-Advanced\ExamPreparation_4\The Gambler\obj\Debug\net6.0\The Gambler.AssemblyInfoInputs.cache
+D:\CSharp-Advanced\ExamPreparation_4\The Gambler\obj\Debug\net6.0\The Gambler.AssemblyInfo.cs
+D:\CSharp-Advanced\ExamPreparation_4\The Gambler\obj\Debug\net6.0\The Gambler.csproj.CoreCompileInputs.cache
+D:\CSharp-Advanced\ExamPreparation_4\The Gambler\obj\Debug\net6.0\The Gambler.dll
+D:\CSharp-Advanced\ExamPreparation_4\The Gambler\obj\Debug\net6.0\refint\The Gambler.dll
+D:\CSharp-Advanced\ExamPreparation_4\The Gambler\obj\Debug\net6.0\The Gambler.pdb
+D:\CSharp-Advanced\ExamPreparation_4\The Gambler\obj\Debug\net6.0\The Gambler.genruntimeconfig.cache
+D:\CSharp-Advanced\ExamPreparation_4\The Gambler\obj\Debug\net6.0\ref\The Gambler.dll
