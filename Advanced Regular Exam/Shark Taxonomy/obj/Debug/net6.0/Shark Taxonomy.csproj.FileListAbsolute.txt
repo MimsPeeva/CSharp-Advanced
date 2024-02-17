@@ -1,0 +1,15 @@
+D:\CSharp-Advanced\Advanced Regular Exam\Shark Taxonomy\bin\Debug\net6.0\Shark Taxonomy.exe
+D:\CSharp-Advanced\Advanced Regular Exam\Shark Taxonomy\bin\Debug\net6.0\Shark Taxonomy.deps.json
+D:\CSharp-Advanced\Advanced Regular Exam\Shark Taxonomy\bin\Debug\net6.0\Shark Taxonomy.runtimeconfig.json
+D:\CSharp-Advanced\Advanced Regular Exam\Shark Taxonomy\bin\Debug\net6.0\Shark Taxonomy.dll
+D:\CSharp-Advanced\Advanced Regular Exam\Shark Taxonomy\bin\Debug\net6.0\Shark Taxonomy.pdb
+D:\CSharp-Advanced\Advanced Regular Exam\Shark Taxonomy\obj\Debug\net6.0\Shark Taxonomy.csproj.AssemblyReference.cache
+D:\CSharp-Advanced\Advanced Regular Exam\Shark Taxonomy\obj\Debug\net6.0\Shark Taxonomy.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp-Advanced\Advanced Regular Exam\Shark Taxonomy\obj\Debug\net6.0\Shark Taxonomy.AssemblyInfoInputs.cache
+D:\CSharp-Advanced\Advanced Regular Exam\Shark Taxonomy\obj\Debug\net6.0\Shark Taxonomy.AssemblyInfo.cs
+D:\CSharp-Advanced\Advanced Regular Exam\Shark Taxonomy\obj\Debug\net6.0\Shark Taxonomy.csproj.CoreCompileInputs.cache
+D:\CSharp-Advanced\Advanced Regular Exam\Shark Taxonomy\obj\Debug\net6.0\Shark Taxonomy.dll
+D:\CSharp-Advanced\Advanced Regular Exam\Shark Taxonomy\obj\Debug\net6.0\refint\Shark Taxonomy.dll
+D:\CSharp-Advanced\Advanced Regular Exam\Shark Taxonomy\obj\Debug\net6.0\Shark Taxonomy.pdb
+D:\CSharp-Advanced\Advanced Regular Exam\Shark Taxonomy\obj\Debug\net6.0\Shark Taxonomy.genruntimeconfig.cache
+D:\CSharp-Advanced\Advanced Regular Exam\Shark Taxonomy\obj\Debug\net6.0\ref\Shark Taxonomy.dll

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chicken Snack", "Chicken Snack\Chicken Snack.csproj", "{8459EDC7-2FF7-4FD4-AAA7-A8049D147837}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shark Taxonomy", "Shark Taxonomy\Shark Taxonomy.csproj", "{02FC52E6-E2E3-4DF7-9654-13AFB9845B93}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8459EDC7-2FF7-4FD4-AAA7-A8049D147837}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8459EDC7-2FF7-4FD4-AAA7-A8049D147837}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8459EDC7-2FF7-4FD4-AAA7-A8049D147837}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8459EDC7-2FF7-4FD4-AAA7-A8049D147837}.Release|Any CPU.Build.0 = Release|Any CPU
+		{02FC52E6-E2E3-4DF7-9654-13AFB9845B93}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02FC52E6-E2E3-4DF7-9654-13AFB9845B93}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02FC52E6-E2E3-4DF7-9654-13AFB9845B93}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02FC52E6-E2E3-4DF7-9654-13AFB9845B93}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8F5B753B-1AE9-4D01-9F4D-BDEA58D78F2D}
+	EndGlobalSection
+EndGlobal

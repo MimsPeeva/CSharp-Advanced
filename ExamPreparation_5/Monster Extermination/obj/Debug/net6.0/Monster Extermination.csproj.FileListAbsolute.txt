@@ -1,0 +1,15 @@
+D:\CSharp-Advanced\ExamPreparation_5\Monster Extermination\bin\Debug\net6.0\Monster Extermination.exe
+D:\CSharp-Advanced\ExamPreparation_5\Monster Extermination\bin\Debug\net6.0\Monster Extermination.deps.json
+D:\CSharp-Advanced\ExamPreparation_5\Monster Extermination\bin\Debug\net6.0\Monster Extermination.runtimeconfig.json
+D:\CSharp-Advanced\ExamPreparation_5\Monster Extermination\bin\Debug\net6.0\Monster Extermination.dll
+D:\CSharp-Advanced\ExamPreparation_5\Monster Extermination\bin\Debug\net6.0\Monster Extermination.pdb
+D:\CSharp-Advanced\ExamPreparation_5\Monster Extermination\obj\Debug\net6.0\Monster Extermination.csproj.AssemblyReference.cache
+D:\CSharp-Advanced\ExamPreparation_5\Monster Extermination\obj\Debug\net6.0\Monster Extermination.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp-Advanced\ExamPreparation_5\Monster Extermination\obj\Debug\net6.0\Monster Extermination.AssemblyInfoInputs.cache
+D:\CSharp-Advanced\ExamPreparation_5\Monster Extermination\obj\Debug\net6.0\Monster Extermination.AssemblyInfo.cs
+D:\CSharp-Advanced\ExamPreparation_5\Monster Extermination\obj\Debug\net6.0\Monster Extermination.csproj.CoreCompileInputs.cache
+D:\CSharp-Advanced\ExamPreparation_5\Monster Extermination\obj\Debug\net6.0\Monster Extermination.dll
+D:\CSharp-Advanced\ExamPreparation_5\Monster Extermination\obj\Debug\net6.0\refint\Monster Extermination.dll
+D:\CSharp-Advanced\ExamPreparation_5\Monster Extermination\obj\Debug\net6.0\Monster Extermination.pdb
+D:\CSharp-Advanced\ExamPreparation_5\Monster Extermination\obj\Debug\net6.0\Monster Extermination.genruntimeconfig.cache
+D:\CSharp-Advanced\ExamPreparation_5\Monster Extermination\obj\Debug\net6.0\ref\Monster Extermination.dll
