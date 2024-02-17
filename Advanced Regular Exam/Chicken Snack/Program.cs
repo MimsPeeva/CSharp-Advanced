@@ -18,14 +18,15 @@ while (money.Any()&&foodPrices.Any())
         money.Pop();
         foodPrices.Dequeue();
     }
-    if (currMoney > currPrice)
+   else if (currMoney > currPrice)
     {
         int diff = currMoney - currPrice;
         foodCount++;
-        money.Push(money.Pop()+diff);
+        if (money.Count > 0)
+        { money.Push(money.Pop() + diff); }
         foodPrices.Dequeue();
     }
-    if (currMoney < currPrice)
+   else if (currMoney < currPrice)
     {
         money.Pop();
         foodPrices.Dequeue();

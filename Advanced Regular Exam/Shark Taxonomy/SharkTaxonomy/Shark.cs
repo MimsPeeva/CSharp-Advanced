@@ -17,7 +17,7 @@
 
         public override string ToString()
         {
-            return $"{Kind} shark: {Length}m long. Could be spotted in the {Habitat}, typical menu: {Food}";
+            return $"{Kind} shark: {Length}m long. Could be spotted in the {Habitat}, typical menu: {Food}".TrimEnd();
             
 
         }

@@ -26,13 +26,24 @@ namespace SharkTaxonomy
 
         public bool RemoveShark(string kind)
         {
-            Shark shark = Species.FirstOrDefault(x=>x.Kind == kind);
-             return Species.Remove(shark);
+            var shark = Species.FirstOrDefault(x=>x.Kind == kind);
+            if (Species.Contains(shark))
+            {
+                Species.Remove(shark);
+                return true;
+            }
+             return false;
         }
 
         public string GetLargestShark()
         {
-            Shark shark = Species.OrderByDescending(x=>x.Length).First();
+            int largest = 0;
+            foreach (var sh in Species)
+            {
+                if (sh.Length > largest)
+                { largest = sh.Length; }
+            }
+            Shark shark = Species.FirstOrDefault(x=>x.Length==largest);
             return shark.ToString().TrimEnd();
         }
 

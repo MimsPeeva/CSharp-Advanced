@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chicken Snack", "Chicken Sn
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shark Taxonomy", "Shark Taxonomy\Shark Taxonomy.csproj", "{02FC52E6-E2E3-4DF7-9654-13AFB9845B93}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clear Skies", "Clear Skies\Clear Skies.csproj", "{806FB2BA-A536-47CF-A608-FD3925F38372}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{02FC52E6-E2E3-4DF7-9654-13AFB9845B93}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{02FC52E6-E2E3-4DF7-9654-13AFB9845B93}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{02FC52E6-E2E3-4DF7-9654-13AFB9845B93}.Release|Any CPU.Build.0 = Release|Any CPU
+		{806FB2BA-A536-47CF-A608-FD3925F38372}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{806FB2BA-A536-47CF-A608-FD3925F38372}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{806FB2BA-A536-47CF-A608-FD3925F38372}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{806FB2BA-A536-47CF-A608-FD3925F38372}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
