@@ -1,4 +1,6 @@
-﻿namespace SharkTaxonomy
+﻿using System.Text;
+
+namespace SharkTaxonomy
 {
     public class Shark
     {
@@ -17,7 +19,10 @@
 
         public override string ToString()
         {
-            return $"{Kind} shark: {Length}m long. Could be spotted in the {Habitat}, typical menu: {Food}".TrimEnd();
+            StringBuilder sb = new StringBuilder();
+            sb.AppendLine($"{Kind} shark: {Length}m long.");
+            sb.AppendLine($"Could be spotted in the {Habitat}, typical menu: {Food}");
+            return sb.ToString().TrimEnd(); ;
             
 
         }
