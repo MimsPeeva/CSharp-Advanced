@@ -7,30 +7,23 @@ Queue<int> foodPrices = new(Console.ReadLine()
     .Select(int.Parse));
 
 int foodCount = 0;
-
-while (money.Any()&&foodPrices.Any())
+int diff = 0;
+while (money.Any() && foodPrices.Any())
 {
-    int currMoney = money.Peek();
-    int currPrice = foodPrices.Peek();
+    int currMoney = money.Pop();
+    int currPrice = foodPrices.Dequeue();
+    currMoney += diff;
     if (currMoney == currPrice)
     {
         foodCount++;
-        money.Pop();
-        foodPrices.Dequeue();
     }
-   else if (currMoney > currPrice)
+    if (currMoney > currPrice)
     {
-        int diff = currMoney - currPrice;
+        diff = currMoney - currPrice;
         foodCount++;
-        if (money.Count > 0)
-        { money.Push(money.Pop() + diff); }
-        foodPrices.Dequeue();
     }
-   else if (currMoney < currPrice)
-    {
-        money.Pop();
-        foodPrices.Dequeue();
-    }
+    if (!money.Any()) { break; }
+    if (!foodPrices.Any()) { break; }
 }
 if (foodCount >= 4)
 {
@@ -41,3 +34,5 @@ else if (foodCount > 1)
 else if (foodCount == 1)
 { Console.WriteLine($"Henry ate: {foodCount} food."); }
 else Console.WriteLine($"Henry remained hungry. He will try next weekend again.");
+
+

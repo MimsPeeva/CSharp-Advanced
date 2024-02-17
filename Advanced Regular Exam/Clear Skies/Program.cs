@@ -15,7 +15,6 @@ for (int row = 0; row < matrixSize; row++)
         {
             currRow = row;
             currCol = col;
-            matrix[row, col] = '-';
         }
         if (matrix[row, col] == 'E')
         { enemyCount++; }
@@ -26,15 +25,15 @@ while (armorValue > 0&&enemyCount>0)
 {
     matrix[currRow, currCol] = '-';
     command = Console.ReadLine();
-    if (command == "left" && matrix[currRow, currCol - 1] == '-'
-       || command == "right" && matrix[currRow, currCol + 1] == '-'
-       || command == "up" && matrix[currRow - 1, currCol] == '-'
-       || command == "down" && matrix[currRow + 1, currCol] == '-')
-    {
-        continue;
-    }
-    else
-    {
+    //if (command == "left" && matrix[currRow, currCol - 1] == '-'
+    //   || command == "right" && matrix[currRow, currCol + 1] == '-'
+    //   || command == "up" && matrix[currRow - 1, currCol] == '-'
+    //   || command == "down" && matrix[currRow + 1, currCol] == '-')
+    //{
+    //    continue;
+    //}
+    //else
+    //{
         if (command == "up")
         {
             currRow--;
@@ -54,17 +53,22 @@ while (armorValue > 0&&enemyCount>0)
         if (matrix[currRow, currCol] == 'E')
         {
             hitTimes++;
+        enemyCount--;
             matrix[currRow, currCol] = '-';
             if (enemyCount == 0)
             {
                 Console.WriteLine("Mission accomplished, you neutralized the aerial threat!");
-                break;
+            matrix[currRow, currCol] = 'J';
+
+            break;
             }
             armorValue -= 100;
             if (armorValue == 0)
             {
                 Console.WriteLine($"Mission failed, your jetfighter was shot down! Last coordinates [{currRow}, {currCol}]!");
-                break;
+            matrix[currRow, currCol] = 'J';
+
+            break;
             }
             continue;
         }
@@ -73,7 +77,7 @@ while (armorValue > 0&&enemyCount>0)
             armorValue = 300;
             matrix[currRow, currCol] = '-';
         }
-    }
+   // }
 }
 
 //if (enemyCount==0)
