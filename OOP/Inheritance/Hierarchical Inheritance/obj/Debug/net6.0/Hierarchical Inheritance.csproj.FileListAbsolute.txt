@@ -1,0 +1,15 @@
+D:\CSharp-Advanced\OOP\Inheritance\Hierarchical Inheritance\bin\Debug\net6.0\Hierarchical Inheritance.exe
+D:\CSharp-Advanced\OOP\Inheritance\Hierarchical Inheritance\bin\Debug\net6.0\Hierarchical Inheritance.deps.json
+D:\CSharp-Advanced\OOP\Inheritance\Hierarchical Inheritance\bin\Debug\net6.0\Hierarchical Inheritance.runtimeconfig.json
+D:\CSharp-Advanced\OOP\Inheritance\Hierarchical Inheritance\bin\Debug\net6.0\Hierarchical Inheritance.dll
+D:\CSharp-Advanced\OOP\Inheritance\Hierarchical Inheritance\bin\Debug\net6.0\Hierarchical Inheritance.pdb
+D:\CSharp-Advanced\OOP\Inheritance\Hierarchical Inheritance\obj\Debug\net6.0\Hierarchical Inheritance.csproj.AssemblyReference.cache
+D:\CSharp-Advanced\OOP\Inheritance\Hierarchical Inheritance\obj\Debug\net6.0\Hierarchical Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp-Advanced\OOP\Inheritance\Hierarchical Inheritance\obj\Debug\net6.0\Hierarchical Inheritance.AssemblyInfoInputs.cache
+D:\CSharp-Advanced\OOP\Inheritance\Hierarchical Inheritance\obj\Debug\net6.0\Hierarchical Inheritance.AssemblyInfo.cs
+D:\CSharp-Advanced\OOP\Inheritance\Hierarchical Inheritance\obj\Debug\net6.0\Hierarchical Inheritance.csproj.CoreCompileInputs.cache
+D:\CSharp-Advanced\OOP\Inheritance\Hierarchical Inheritance\obj\Debug\net6.0\Hierarchical Inheritance.dll
+D:\CSharp-Advanced\OOP\Inheritance\Hierarchical Inheritance\obj\Debug\net6.0\refint\Hierarchical Inheritance.dll
+D:\CSharp-Advanced\OOP\Inheritance\Hierarchical Inheritance\obj\Debug\net6.0\Hierarchical Inheritance.pdb
+D:\CSharp-Advanced\OOP\Inheritance\Hierarchical Inheritance\obj\Debug\net6.0\Hierarchical Inheritance.genruntimeconfig.cache
+D:\CSharp-Advanced\OOP\Inheritance\Hierarchical Inheritance\obj\Debug\net6.0\ref\Hierarchical Inheritance.dll

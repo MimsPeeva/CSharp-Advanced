@@ -1,0 +1,15 @@
+D:\CSharp-Advanced\OOP\Inheritance\Single Inheritance\bin\Debug\net6.0\Single Inheritance.exe
+D:\CSharp-Advanced\OOP\Inheritance\Single Inheritance\bin\Debug\net6.0\Single Inheritance.deps.json
+D:\CSharp-Advanced\OOP\Inheritance\Single Inheritance\bin\Debug\net6.0\Single Inheritance.runtimeconfig.json
+D:\CSharp-Advanced\OOP\Inheritance\Single Inheritance\bin\Debug\net6.0\Single Inheritance.dll
+D:\CSharp-Advanced\OOP\Inheritance\Single Inheritance\bin\Debug\net6.0\Single Inheritance.pdb
+D:\CSharp-Advanced\OOP\Inheritance\Single Inheritance\obj\Debug\net6.0\Single Inheritance.csproj.AssemblyReference.cache
+D:\CSharp-Advanced\OOP\Inheritance\Single Inheritance\obj\Debug\net6.0\Single Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp-Advanced\OOP\Inheritance\Single Inheritance\obj\Debug\net6.0\Single Inheritance.AssemblyInfoInputs.cache
+D:\CSharp-Advanced\OOP\Inheritance\Single Inheritance\obj\Debug\net6.0\Single Inheritance.AssemblyInfo.cs
+D:\CSharp-Advanced\OOP\Inheritance\Single Inheritance\obj\Debug\net6.0\Single Inheritance.csproj.CoreCompileInputs.cache
+D:\CSharp-Advanced\OOP\Inheritance\Single Inheritance\obj\Debug\net6.0\Single Inheritance.dll
+D:\CSharp-Advanced\OOP\Inheritance\Single Inheritance\obj\Debug\net6.0\refint\Single Inheritance.dll
+D:\CSharp-Advanced\OOP\Inheritance\Single Inheritance\obj\Debug\net6.0\Single Inheritance.pdb
+D:\CSharp-Advanced\OOP\Inheritance\Single Inheritance\obj\Debug\net6.0\Single Inheritance.genruntimeconfig.cache
+D:\CSharp-Advanced\OOP\Inheritance\Single Inheritance\obj\Debug\net6.0\ref\Single Inheritance.dll
