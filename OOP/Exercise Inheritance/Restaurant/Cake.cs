@@ -6,13 +6,15 @@ using System.Threading.Tasks;
 
 namespace Restaurant
 {
+    
     public class Cake:Dessert
     {
-        public Cake(string name, decimal price, double grams, double calories) : base(name, price, grams, calories)
+        private const double grams = 250;
+       private const double calories = 1000;
+           private const decimal price = 5m;
+        public Cake(string name) : base(name, price, grams, calories)
         {
-            grams = 250;
-            calories = 1000;
-            price = 5;
+            
         }
     }
 }

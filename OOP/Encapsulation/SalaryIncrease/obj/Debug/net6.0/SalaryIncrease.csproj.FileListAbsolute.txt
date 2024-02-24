@@ -1,0 +1,15 @@
+D:\CSharp-Advanced\OOP\Encapsulation\SalaryIncrease\bin\Debug\net6.0\SalaryIncrease.exe
+D:\CSharp-Advanced\OOP\Encapsulation\SalaryIncrease\bin\Debug\net6.0\SalaryIncrease.deps.json
+D:\CSharp-Advanced\OOP\Encapsulation\SalaryIncrease\bin\Debug\net6.0\SalaryIncrease.runtimeconfig.json
+D:\CSharp-Advanced\OOP\Encapsulation\SalaryIncrease\bin\Debug\net6.0\SalaryIncrease.dll
+D:\CSharp-Advanced\OOP\Encapsulation\SalaryIncrease\bin\Debug\net6.0\SalaryIncrease.pdb
+D:\CSharp-Advanced\OOP\Encapsulation\SalaryIncrease\obj\Debug\net6.0\SalaryIncrease.csproj.AssemblyReference.cache
+D:\CSharp-Advanced\OOP\Encapsulation\SalaryIncrease\obj\Debug\net6.0\SalaryIncrease.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp-Advanced\OOP\Encapsulation\SalaryIncrease\obj\Debug\net6.0\SalaryIncrease.AssemblyInfoInputs.cache
+D:\CSharp-Advanced\OOP\Encapsulation\SalaryIncrease\obj\Debug\net6.0\SalaryIncrease.AssemblyInfo.cs
+D:\CSharp-Advanced\OOP\Encapsulation\SalaryIncrease\obj\Debug\net6.0\SalaryIncrease.csproj.CoreCompileInputs.cache
+D:\CSharp-Advanced\OOP\Encapsulation\SalaryIncrease\obj\Debug\net6.0\SalaryIncrease.dll
+D:\CSharp-Advanced\OOP\Encapsulation\SalaryIncrease\obj\Debug\net6.0\refint\SalaryIncrease.dll
+D:\CSharp-Advanced\OOP\Encapsulation\SalaryIncrease\obj\Debug\net6.0\SalaryIncrease.pdb
+D:\CSharp-Advanced\OOP\Encapsulation\SalaryIncrease\obj\Debug\net6.0\SalaryIncrease.genruntimeconfig.cache
+D:\CSharp-Advanced\OOP\Encapsulation\SalaryIncrease\obj\Debug\net6.0\ref\SalaryIncrease.dll

@@ -8,13 +8,15 @@ namespace NeedForSpeed
 {
     public class SportCar:Car
     {
-        private const double DefaultFuelConsumption = 10;
 
-        public SportCar(double fuel, int horsePower) : base(fuel, horsePower)
+        public SportCar( int horsePower, double fuel) : base(horsePower, fuel)
         {
-
+            DefaultFuelConsumption = 10;
         }
-        public override double FuelConsumption => DefaultFuelConsumption;
-
+        public new double DefaultFuelConsumption { get; set; }
+        public override void Drive(double kilometers)
+        {
+            Fuel -= kilometers * DefaultFuelConsumption;
+        }
     }
 }

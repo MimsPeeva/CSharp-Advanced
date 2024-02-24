@@ -1,0 +1,15 @@
+D:\CSharp-Advanced\OOP\Encapsulation\PersonsInfo\bin\Debug\net6.0\PersonsInfo.exe
+D:\CSharp-Advanced\OOP\Encapsulation\PersonsInfo\bin\Debug\net6.0\PersonsInfo.deps.json
+D:\CSharp-Advanced\OOP\Encapsulation\PersonsInfo\bin\Debug\net6.0\PersonsInfo.runtimeconfig.json
+D:\CSharp-Advanced\OOP\Encapsulation\PersonsInfo\bin\Debug\net6.0\PersonsInfo.dll
+D:\CSharp-Advanced\OOP\Encapsulation\PersonsInfo\bin\Debug\net6.0\PersonsInfo.pdb
+D:\CSharp-Advanced\OOP\Encapsulation\PersonsInfo\obj\Debug\net6.0\PersonsInfo.csproj.AssemblyReference.cache
+D:\CSharp-Advanced\OOP\Encapsulation\PersonsInfo\obj\Debug\net6.0\PersonsInfo.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp-Advanced\OOP\Encapsulation\PersonsInfo\obj\Debug\net6.0\PersonsInfo.AssemblyInfoInputs.cache
+D:\CSharp-Advanced\OOP\Encapsulation\PersonsInfo\obj\Debug\net6.0\PersonsInfo.AssemblyInfo.cs
+D:\CSharp-Advanced\OOP\Encapsulation\PersonsInfo\obj\Debug\net6.0\PersonsInfo.csproj.CoreCompileInputs.cache
+D:\CSharp-Advanced\OOP\Encapsulation\PersonsInfo\obj\Debug\net6.0\PersonsInfo.dll
+D:\CSharp-Advanced\OOP\Encapsulation\PersonsInfo\obj\Debug\net6.0\refint\PersonsInfo.dll
+D:\CSharp-Advanced\OOP\Encapsulation\PersonsInfo\obj\Debug\net6.0\PersonsInfo.pdb
+D:\CSharp-Advanced\OOP\Encapsulation\PersonsInfo\obj\Debug\net6.0\PersonsInfo.genruntimeconfig.cache
+D:\CSharp-Advanced\OOP\Encapsulation\PersonsInfo\obj\Debug\net6.0\ref\PersonsInfo.dll

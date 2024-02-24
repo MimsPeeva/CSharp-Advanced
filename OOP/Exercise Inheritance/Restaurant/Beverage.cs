@@ -6,13 +6,13 @@ using System.Threading.Tasks;
 
 namespace Restaurant
 {
-    public class Beverage:Food
+    public class Beverage:Product
     {
-        private double milliliters;
+   
 
         public Beverage(string name, decimal price, double milliliters) : base(name, price)
         {
-            this.milliliters = milliliters;
+            Milliliters = milliliters;
         }
 
         public double Milliliters { get; set; }
