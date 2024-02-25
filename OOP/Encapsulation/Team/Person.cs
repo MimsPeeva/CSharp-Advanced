@@ -44,7 +44,7 @@ namespace PersonsInfo
             get { return age; }
             private set
             { 
-                if(age<=0)
+                if(age<1)
                 { throw new ArgumentException("Age cannot be zero or a negative integer!"); }
                 age = value; 
             }
@@ -54,7 +54,7 @@ namespace PersonsInfo
             get { return salary; }
             private set
             {
-                if(salary<=460)
+                if(salary<650)
                 { throw new ArgumentException("Salary cannot be less than 650 leva!"); }
                 salary = value;
             }

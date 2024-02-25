@@ -1,0 +1,15 @@
+D:\CSharp-Advanced\OOP\Encapsulation\ValidationOfData\bin\Debug\net6.0\ValidationOfData.exe
+D:\CSharp-Advanced\OOP\Encapsulation\ValidationOfData\bin\Debug\net6.0\ValidationOfData.deps.json
+D:\CSharp-Advanced\OOP\Encapsulation\ValidationOfData\bin\Debug\net6.0\ValidationOfData.runtimeconfig.json
+D:\CSharp-Advanced\OOP\Encapsulation\ValidationOfData\bin\Debug\net6.0\ValidationOfData.dll
+D:\CSharp-Advanced\OOP\Encapsulation\ValidationOfData\bin\Debug\net6.0\ValidationOfData.pdb
+D:\CSharp-Advanced\OOP\Encapsulation\ValidationOfData\obj\Debug\net6.0\ValidationOfData.csproj.AssemblyReference.cache
+D:\CSharp-Advanced\OOP\Encapsulation\ValidationOfData\obj\Debug\net6.0\ValidationOfData.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp-Advanced\OOP\Encapsulation\ValidationOfData\obj\Debug\net6.0\ValidationOfData.AssemblyInfoInputs.cache
+D:\CSharp-Advanced\OOP\Encapsulation\ValidationOfData\obj\Debug\net6.0\ValidationOfData.AssemblyInfo.cs
+D:\CSharp-Advanced\OOP\Encapsulation\ValidationOfData\obj\Debug\net6.0\ValidationOfData.csproj.CoreCompileInputs.cache
+D:\CSharp-Advanced\OOP\Encapsulation\ValidationOfData\obj\Debug\net6.0\ValidationOfData.dll
+D:\CSharp-Advanced\OOP\Encapsulation\ValidationOfData\obj\Debug\net6.0\refint\ValidationOfData.dll
+D:\CSharp-Advanced\OOP\Encapsulation\ValidationOfData\obj\Debug\net6.0\ValidationOfData.pdb
+D:\CSharp-Advanced\OOP\Encapsulation\ValidationOfData\obj\Debug\net6.0\ValidationOfData.genruntimeconfig.cache
+D:\CSharp-Advanced\OOP\Encapsulation\ValidationOfData\obj\Debug\net6.0\ref\ValidationOfData.dll
