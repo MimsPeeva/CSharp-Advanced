@@ -1,0 +1,15 @@
+D:\CSharp-Advanced\OOP\Exercise Encapsulation\AnimalFarm\bin\Debug\net6.0\AnimalFarm.exe
+D:\CSharp-Advanced\OOP\Exercise Encapsulation\AnimalFarm\bin\Debug\net6.0\AnimalFarm.deps.json
+D:\CSharp-Advanced\OOP\Exercise Encapsulation\AnimalFarm\bin\Debug\net6.0\AnimalFarm.runtimeconfig.json
+D:\CSharp-Advanced\OOP\Exercise Encapsulation\AnimalFarm\bin\Debug\net6.0\AnimalFarm.dll
+D:\CSharp-Advanced\OOP\Exercise Encapsulation\AnimalFarm\bin\Debug\net6.0\AnimalFarm.pdb
+D:\CSharp-Advanced\OOP\Exercise Encapsulation\AnimalFarm\obj\Debug\net6.0\AnimalFarm.csproj.AssemblyReference.cache
+D:\CSharp-Advanced\OOP\Exercise Encapsulation\AnimalFarm\obj\Debug\net6.0\AnimalFarm.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp-Advanced\OOP\Exercise Encapsulation\AnimalFarm\obj\Debug\net6.0\AnimalFarm.AssemblyInfoInputs.cache
+D:\CSharp-Advanced\OOP\Exercise Encapsulation\AnimalFarm\obj\Debug\net6.0\AnimalFarm.AssemblyInfo.cs
+D:\CSharp-Advanced\OOP\Exercise Encapsulation\AnimalFarm\obj\Debug\net6.0\AnimalFarm.csproj.CoreCompileInputs.cache
+D:\CSharp-Advanced\OOP\Exercise Encapsulation\AnimalFarm\obj\Debug\net6.0\AnimalFarm.dll
+D:\CSharp-Advanced\OOP\Exercise Encapsulation\AnimalFarm\obj\Debug\net6.0\refint\AnimalFarm.dll
+D:\CSharp-Advanced\OOP\Exercise Encapsulation\AnimalFarm\obj\Debug\net6.0\AnimalFarm.pdb
+D:\CSharp-Advanced\OOP\Exercise Encapsulation\AnimalFarm\obj\Debug\net6.0\AnimalFarm.genruntimeconfig.cache
+D:\CSharp-Advanced\OOP\Exercise Encapsulation\AnimalFarm\obj\Debug\net6.0\ref\AnimalFarm.dll

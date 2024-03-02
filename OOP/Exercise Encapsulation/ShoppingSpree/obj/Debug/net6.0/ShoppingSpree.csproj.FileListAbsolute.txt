@@ -1,0 +1,15 @@
+D:\CSharp-Advanced\OOP\Exercise Encapsulation\ShoppingSpree\bin\Debug\net6.0\ShoppingSpree.exe
+D:\CSharp-Advanced\OOP\Exercise Encapsulation\ShoppingSpree\bin\Debug\net6.0\ShoppingSpree.deps.json
+D:\CSharp-Advanced\OOP\Exercise Encapsulation\ShoppingSpree\bin\Debug\net6.0\ShoppingSpree.runtimeconfig.json
+D:\CSharp-Advanced\OOP\Exercise Encapsulation\ShoppingSpree\bin\Debug\net6.0\ShoppingSpree.dll
+D:\CSharp-Advanced\OOP\Exercise Encapsulation\ShoppingSpree\bin\Debug\net6.0\ShoppingSpree.pdb
+D:\CSharp-Advanced\OOP\Exercise Encapsulation\ShoppingSpree\obj\Debug\net6.0\ShoppingSpree.csproj.AssemblyReference.cache
+D:\CSharp-Advanced\OOP\Exercise Encapsulation\ShoppingSpree\obj\Debug\net6.0\ShoppingSpree.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp-Advanced\OOP\Exercise Encapsulation\ShoppingSpree\obj\Debug\net6.0\ShoppingSpree.AssemblyInfoInputs.cache
+D:\CSharp-Advanced\OOP\Exercise Encapsulation\ShoppingSpree\obj\Debug\net6.0\ShoppingSpree.AssemblyInfo.cs
+D:\CSharp-Advanced\OOP\Exercise Encapsulation\ShoppingSpree\obj\Debug\net6.0\ShoppingSpree.csproj.CoreCompileInputs.cache
+D:\CSharp-Advanced\OOP\Exercise Encapsulation\ShoppingSpree\obj\Debug\net6.0\ShoppingSpree.dll
+D:\CSharp-Advanced\OOP\Exercise Encapsulation\ShoppingSpree\obj\Debug\net6.0\refint\ShoppingSpree.dll
+D:\CSharp-Advanced\OOP\Exercise Encapsulation\ShoppingSpree\obj\Debug\net6.0\ShoppingSpree.pdb
+D:\CSharp-Advanced\OOP\Exercise Encapsulation\ShoppingSpree\obj\Debug\net6.0\ShoppingSpree.genruntimeconfig.cache
+D:\CSharp-Advanced\OOP\Exercise Encapsulation\ShoppingSpree\obj\Debug\net6.0\ref\ShoppingSpree.dll

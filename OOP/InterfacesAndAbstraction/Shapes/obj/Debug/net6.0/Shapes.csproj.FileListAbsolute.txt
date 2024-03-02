@@ -1,0 +1,15 @@
+D:\CSharp-Advanced\OOP\InterfacesAndAbstraction\Shapes\bin\Debug\net6.0\Shapes.exe
+D:\CSharp-Advanced\OOP\InterfacesAndAbstraction\Shapes\bin\Debug\net6.0\Shapes.deps.json
+D:\CSharp-Advanced\OOP\InterfacesAndAbstraction\Shapes\bin\Debug\net6.0\Shapes.runtimeconfig.json
+D:\CSharp-Advanced\OOP\InterfacesAndAbstraction\Shapes\bin\Debug\net6.0\Shapes.dll
+D:\CSharp-Advanced\OOP\InterfacesAndAbstraction\Shapes\bin\Debug\net6.0\Shapes.pdb
+D:\CSharp-Advanced\OOP\InterfacesAndAbstraction\Shapes\obj\Debug\net6.0\Shapes.csproj.AssemblyReference.cache
+D:\CSharp-Advanced\OOP\InterfacesAndAbstraction\Shapes\obj\Debug\net6.0\Shapes.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp-Advanced\OOP\InterfacesAndAbstraction\Shapes\obj\Debug\net6.0\Shapes.AssemblyInfoInputs.cache
+D:\CSharp-Advanced\OOP\InterfacesAndAbstraction\Shapes\obj\Debug\net6.0\Shapes.AssemblyInfo.cs
+D:\CSharp-Advanced\OOP\InterfacesAndAbstraction\Shapes\obj\Debug\net6.0\Shapes.csproj.CoreCompileInputs.cache
+D:\CSharp-Advanced\OOP\InterfacesAndAbstraction\Shapes\obj\Debug\net6.0\Shapes.dll
+D:\CSharp-Advanced\OOP\InterfacesAndAbstraction\Shapes\obj\Debug\net6.0\refint\Shapes.dll
+D:\CSharp-Advanced\OOP\InterfacesAndAbstraction\Shapes\obj\Debug\net6.0\Shapes.pdb
+D:\CSharp-Advanced\OOP\InterfacesAndAbstraction\Shapes\obj\Debug\net6.0\Shapes.genruntimeconfig.cache
+D:\CSharp-Advanced\OOP\InterfacesAndAbstraction\Shapes\obj\Debug\net6.0\ref\Shapes.dll

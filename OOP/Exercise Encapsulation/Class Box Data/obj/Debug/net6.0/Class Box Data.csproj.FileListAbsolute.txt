@@ -1,0 +1,15 @@
+D:\CSharp-Advanced\OOP\Exercise Encapsulation\Class Box Data\bin\Debug\net6.0\Class Box Data.exe
+D:\CSharp-Advanced\OOP\Exercise Encapsulation\Class Box Data\bin\Debug\net6.0\Class Box Data.deps.json
+D:\CSharp-Advanced\OOP\Exercise Encapsulation\Class Box Data\bin\Debug\net6.0\Class Box Data.runtimeconfig.json
+D:\CSharp-Advanced\OOP\Exercise Encapsulation\Class Box Data\bin\Debug\net6.0\Class Box Data.dll
+D:\CSharp-Advanced\OOP\Exercise Encapsulation\Class Box Data\bin\Debug\net6.0\Class Box Data.pdb
+D:\CSharp-Advanced\OOP\Exercise Encapsulation\Class Box Data\obj\Debug\net6.0\Class Box Data.csproj.AssemblyReference.cache
+D:\CSharp-Advanced\OOP\Exercise Encapsulation\Class Box Data\obj\Debug\net6.0\Class Box Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp-Advanced\OOP\Exercise Encapsulation\Class Box Data\obj\Debug\net6.0\Class Box Data.AssemblyInfoInputs.cache
+D:\CSharp-Advanced\OOP\Exercise Encapsulation\Class Box Data\obj\Debug\net6.0\Class Box Data.AssemblyInfo.cs
+D:\CSharp-Advanced\OOP\Exercise Encapsulation\Class Box Data\obj\Debug\net6.0\Class Box Data.csproj.CoreCompileInputs.cache
+D:\CSharp-Advanced\OOP\Exercise Encapsulation\Class Box Data\obj\Debug\net6.0\Class Box Data.dll
+D:\CSharp-Advanced\OOP\Exercise Encapsulation\Class Box Data\obj\Debug\net6.0\refint\Class Box Data.dll
+D:\CSharp-Advanced\OOP\Exercise Encapsulation\Class Box Data\obj\Debug\net6.0\Class Box Data.pdb
+D:\CSharp-Advanced\OOP\Exercise Encapsulation\Class Box Data\obj\Debug\net6.0\Class Box Data.genruntimeconfig.cache
+D:\CSharp-Advanced\OOP\Exercise Encapsulation\Class Box Data\obj\Debug\net6.0\ref\Class Box Data.dll

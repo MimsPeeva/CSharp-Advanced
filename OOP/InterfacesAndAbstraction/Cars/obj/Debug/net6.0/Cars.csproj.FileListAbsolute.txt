@@ -1,0 +1,15 @@
+D:\CSharp-Advanced\OOP\InterfacesAndAbstraction\Cars\bin\Debug\net6.0\Cars.exe
+D:\CSharp-Advanced\OOP\InterfacesAndAbstraction\Cars\bin\Debug\net6.0\Cars.deps.json
+D:\CSharp-Advanced\OOP\InterfacesAndAbstraction\Cars\bin\Debug\net6.0\Cars.runtimeconfig.json
+D:\CSharp-Advanced\OOP\InterfacesAndAbstraction\Cars\bin\Debug\net6.0\Cars.dll
+D:\CSharp-Advanced\OOP\InterfacesAndAbstraction\Cars\bin\Debug\net6.0\Cars.pdb
+D:\CSharp-Advanced\OOP\InterfacesAndAbstraction\Cars\obj\Debug\net6.0\Cars.csproj.AssemblyReference.cache
+D:\CSharp-Advanced\OOP\InterfacesAndAbstraction\Cars\obj\Debug\net6.0\Cars.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp-Advanced\OOP\InterfacesAndAbstraction\Cars\obj\Debug\net6.0\Cars.AssemblyInfoInputs.cache
+D:\CSharp-Advanced\OOP\InterfacesAndAbstraction\Cars\obj\Debug\net6.0\Cars.AssemblyInfo.cs
+D:\CSharp-Advanced\OOP\InterfacesAndAbstraction\Cars\obj\Debug\net6.0\Cars.csproj.CoreCompileInputs.cache
+D:\CSharp-Advanced\OOP\InterfacesAndAbstraction\Cars\obj\Debug\net6.0\Cars.dll
+D:\CSharp-Advanced\OOP\InterfacesAndAbstraction\Cars\obj\Debug\net6.0\refint\Cars.dll
+D:\CSharp-Advanced\OOP\InterfacesAndAbstraction\Cars\obj\Debug\net6.0\Cars.pdb
+D:\CSharp-Advanced\OOP\InterfacesAndAbstraction\Cars\obj\Debug\net6.0\Cars.genruntimeconfig.cache
+D:\CSharp-Advanced\OOP\InterfacesAndAbstraction\Cars\obj\Debug\net6.0\ref\Cars.dll
