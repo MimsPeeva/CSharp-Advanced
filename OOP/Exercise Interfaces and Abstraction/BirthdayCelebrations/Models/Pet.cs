@@ -11,14 +11,14 @@ namespace BirthdayCelebrations.Models
     {
        
 
-        public Pet(string name, DateOnly birthDate)
+        public Pet(string name, string birthDate)
         {
             Name = name;
             BirthDate = birthDate;
         }
 
         public string Name { get; set; }
-        public DateOnly BirthDate { get; set; }
+        public string BirthDate { get; set; }
           
     }
 }

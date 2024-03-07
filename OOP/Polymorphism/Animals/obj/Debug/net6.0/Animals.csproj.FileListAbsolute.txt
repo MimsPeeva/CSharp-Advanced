@@ -1,0 +1,15 @@
+D:\CSharp-Advanced\OOP\Polymorphism\Animals\bin\Debug\net6.0\Animals.exe
+D:\CSharp-Advanced\OOP\Polymorphism\Animals\bin\Debug\net6.0\Animals.deps.json
+D:\CSharp-Advanced\OOP\Polymorphism\Animals\bin\Debug\net6.0\Animals.runtimeconfig.json
+D:\CSharp-Advanced\OOP\Polymorphism\Animals\bin\Debug\net6.0\Animals.dll
+D:\CSharp-Advanced\OOP\Polymorphism\Animals\bin\Debug\net6.0\Animals.pdb
+D:\CSharp-Advanced\OOP\Polymorphism\Animals\obj\Debug\net6.0\Animals.csproj.AssemblyReference.cache
+D:\CSharp-Advanced\OOP\Polymorphism\Animals\obj\Debug\net6.0\Animals.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp-Advanced\OOP\Polymorphism\Animals\obj\Debug\net6.0\Animals.AssemblyInfoInputs.cache
+D:\CSharp-Advanced\OOP\Polymorphism\Animals\obj\Debug\net6.0\Animals.AssemblyInfo.cs
+D:\CSharp-Advanced\OOP\Polymorphism\Animals\obj\Debug\net6.0\Animals.csproj.CoreCompileInputs.cache
+D:\CSharp-Advanced\OOP\Polymorphism\Animals\obj\Debug\net6.0\Animals.dll
+D:\CSharp-Advanced\OOP\Polymorphism\Animals\obj\Debug\net6.0\refint\Animals.dll
+D:\CSharp-Advanced\OOP\Polymorphism\Animals\obj\Debug\net6.0\Animals.pdb
+D:\CSharp-Advanced\OOP\Polymorphism\Animals\obj\Debug\net6.0\Animals.genruntimeconfig.cache
+D:\CSharp-Advanced\OOP\Polymorphism\Animals\obj\Debug\net6.0\ref\Animals.dll

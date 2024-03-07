@@ -8,7 +8,7 @@ namespace BirthdayCelebrations.Models.Interfaces
 {
     public interface IBirthdatable
     {
-        DateOnly BirthDate { get; }
+        string BirthDate { get; }
 
     }
 }

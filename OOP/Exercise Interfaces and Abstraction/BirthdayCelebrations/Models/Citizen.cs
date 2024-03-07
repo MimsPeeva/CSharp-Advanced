@@ -9,7 +9,7 @@ namespace BirthdayCelebrations.Models
 {
     public class Citizen:IIdentifiable,IBirthdatable
     {
-        public Citizen(string name, int age, string id, DateOnly birthDate)
+        public Citizen(string name, int age, string id, string birthDate)
         {
             Name = name;
             Age = age;
@@ -20,7 +20,7 @@ namespace BirthdayCelebrations.Models
         public string Name { get; set; }
         public int Age { get; set; }
         public string Id { get; set; }
-        public DateOnly BirthDate { get; set; }
+        public string BirthDate { get; set; }
     }
 
 }

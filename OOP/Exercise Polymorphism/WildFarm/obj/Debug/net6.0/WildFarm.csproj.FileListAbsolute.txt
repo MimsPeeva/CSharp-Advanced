@@ -1,0 +1,15 @@
+D:\CSharp-Advanced\OOP\Exercise Polymorphism\WildFarm\obj\Debug\net6.0\WildFarm.csproj.AssemblyReference.cache
+D:\CSharp-Advanced\OOP\Exercise Polymorphism\WildFarm\obj\Debug\net6.0\WildFarm.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp-Advanced\OOP\Exercise Polymorphism\WildFarm\obj\Debug\net6.0\WildFarm.AssemblyInfoInputs.cache
+D:\CSharp-Advanced\OOP\Exercise Polymorphism\WildFarm\obj\Debug\net6.0\WildFarm.AssemblyInfo.cs
+D:\CSharp-Advanced\OOP\Exercise Polymorphism\WildFarm\obj\Debug\net6.0\WildFarm.csproj.CoreCompileInputs.cache
+D:\CSharp-Advanced\OOP\Exercise Polymorphism\WildFarm\bin\Debug\net6.0\WildFarm.exe
+D:\CSharp-Advanced\OOP\Exercise Polymorphism\WildFarm\bin\Debug\net6.0\WildFarm.deps.json
+D:\CSharp-Advanced\OOP\Exercise Polymorphism\WildFarm\bin\Debug\net6.0\WildFarm.runtimeconfig.json
+D:\CSharp-Advanced\OOP\Exercise Polymorphism\WildFarm\bin\Debug\net6.0\WildFarm.dll
+D:\CSharp-Advanced\OOP\Exercise Polymorphism\WildFarm\bin\Debug\net6.0\WildFarm.pdb
+D:\CSharp-Advanced\OOP\Exercise Polymorphism\WildFarm\obj\Debug\net6.0\WildFarm.dll
+D:\CSharp-Advanced\OOP\Exercise Polymorphism\WildFarm\obj\Debug\net6.0\refint\WildFarm.dll
+D:\CSharp-Advanced\OOP\Exercise Polymorphism\WildFarm\obj\Debug\net6.0\WildFarm.pdb
+D:\CSharp-Advanced\OOP\Exercise Polymorphism\WildFarm\obj\Debug\net6.0\WildFarm.genruntimeconfig.cache
+D:\CSharp-Advanced\OOP\Exercise Polymorphism\WildFarm\obj\Debug\net6.0\ref\WildFarm.dll

@@ -1,0 +1,15 @@
+D:\CSharp-Advanced\OOP\Polymorphism\MathOperation\bin\Debug\net6.0\MathOperation.exe
+D:\CSharp-Advanced\OOP\Polymorphism\MathOperation\bin\Debug\net6.0\MathOperation.deps.json
+D:\CSharp-Advanced\OOP\Polymorphism\MathOperation\bin\Debug\net6.0\MathOperation.runtimeconfig.json
+D:\CSharp-Advanced\OOP\Polymorphism\MathOperation\bin\Debug\net6.0\MathOperation.dll
+D:\CSharp-Advanced\OOP\Polymorphism\MathOperation\bin\Debug\net6.0\MathOperation.pdb
+D:\CSharp-Advanced\OOP\Polymorphism\MathOperation\obj\Debug\net6.0\MathOperation.csproj.AssemblyReference.cache
+D:\CSharp-Advanced\OOP\Polymorphism\MathOperation\obj\Debug\net6.0\MathOperation.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp-Advanced\OOP\Polymorphism\MathOperation\obj\Debug\net6.0\MathOperation.AssemblyInfoInputs.cache
+D:\CSharp-Advanced\OOP\Polymorphism\MathOperation\obj\Debug\net6.0\MathOperation.AssemblyInfo.cs
+D:\CSharp-Advanced\OOP\Polymorphism\MathOperation\obj\Debug\net6.0\MathOperation.csproj.CoreCompileInputs.cache
+D:\CSharp-Advanced\OOP\Polymorphism\MathOperation\obj\Debug\net6.0\MathOperation.dll
+D:\CSharp-Advanced\OOP\Polymorphism\MathOperation\obj\Debug\net6.0\refint\MathOperation.dll
+D:\CSharp-Advanced\OOP\Polymorphism\MathOperation\obj\Debug\net6.0\MathOperation.pdb
+D:\CSharp-Advanced\OOP\Polymorphism\MathOperation\obj\Debug\net6.0\MathOperation.genruntimeconfig.cache
+D:\CSharp-Advanced\OOP\Polymorphism\MathOperation\obj\Debug\net6.0\ref\MathOperation.dll

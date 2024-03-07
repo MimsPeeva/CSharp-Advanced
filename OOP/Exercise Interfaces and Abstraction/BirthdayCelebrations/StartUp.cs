@@ -17,25 +17,25 @@ namespace BirthdayCelebrations
                 if (tokens[0]=="Pet")
 
                 {                    
-                        Models.Pet pet = new Pet(tokens[1], DateOnly.ParseExact(tokens[2], "dd/MM/yyyy"));
+                        Models.Pet pet = new Pet(tokens[1], tokens[2]);
                     list.Add(pet);
                 }
                 else if (tokens[0]=="Citizen")
                 {
-                    Models.Citizen citizen = new(tokens[1], int.Parse(tokens[2]), tokens[3], DateOnly.ParseExact(tokens[4], "dd/MM/yyyy"));
+                    Models.Citizen citizen = new(tokens[1], int.Parse(tokens[2]), tokens[3], tokens[4]);
                     list.Add(citizen);
                 }
             }
             
 
 
-            DateOnly year = DateOnly.ParseExact(Console.ReadLine(), "yyyy");
+            string year = Console.ReadLine();
 
                 foreach (var birthable in list)
                 {
-                    if (birthable.BirthDate.Year == year.Year)
+                    if (birthable.BirthDate.EndsWith(year))
                     {
-                        Console.WriteLine(birthable.BirthDate.ToString($"dd/MM/yyyy"));
+                        Console.WriteLine(birthable.BirthDate);
                     }
                 }
            
