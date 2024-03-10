@@ -11,7 +11,7 @@ namespace Vehicles
         private double fuelQuantity;
         private double fuelConsumptionInLPerKm;
         private double tankCapacity;
-        protected Vehicle(double fuelQuantity, double fuelConsumptionInLPerKm, double tankCapacity)
+        protected Vehicle(double tankCapacity, double fuelConsumptionInLPerKm, double fuelQuantity)
         {
             FuelQuantity = fuelQuantity;
             FuelConsumptionInLPerKm = fuelConsumptionInLPerKm;
@@ -25,6 +25,11 @@ namespace Vehicles
                 if (value <= 0)
                 { throw new ArgumentException("Tank capacity must be positive number"); }
                 tankCapacity = value;
+                if (value < TankCapacity)
+                {
+                    fuelQuantity = value;
+                }
+                else { fuelQuantity = 0; }
             }
         }
         public double FuelQuantity 
@@ -35,11 +40,11 @@ namespace Vehicles
             {
                 if (value < 0)
                 { throw new ArgumentException("Fuel must be possitive number!"); }
-                if (value <= TankCapacity)
+                if (value > TankCapacity)
                 {
-                    fuelQuantity = value;
+                    fuelQuantity = 0;
                 }
-                else { fuelQuantity = 0; }
+                else { fuelQuantity = value; }
             }
         } 
         public double FuelConsumptionInLPerKm
@@ -69,7 +74,7 @@ namespace Vehicles
         public virtual void Refuel(double fuelAmount)
         {
             if (fuelAmount <= 0)
-            { throw new ArgumentException("FuelAmount must be positive number!"); }
+            { throw new ArgumentException("Fuel must be a positive number"); }
             double totalFuelAfterRefueling = fuelAmount * fuelQuantity;
             if (totalFuelAfterRefueling > TankCapacity)
             {

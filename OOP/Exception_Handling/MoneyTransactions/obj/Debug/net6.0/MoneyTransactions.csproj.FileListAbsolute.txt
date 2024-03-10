@@ -1,0 +1,15 @@
+D:\CSharp-Advanced\OOP\Exception_Handling\MoneyTransactions\bin\Debug\net6.0\MoneyTransactions.exe
+D:\CSharp-Advanced\OOP\Exception_Handling\MoneyTransactions\bin\Debug\net6.0\MoneyTransactions.deps.json
+D:\CSharp-Advanced\OOP\Exception_Handling\MoneyTransactions\bin\Debug\net6.0\MoneyTransactions.runtimeconfig.json
+D:\CSharp-Advanced\OOP\Exception_Handling\MoneyTransactions\bin\Debug\net6.0\MoneyTransactions.dll
+D:\CSharp-Advanced\OOP\Exception_Handling\MoneyTransactions\bin\Debug\net6.0\MoneyTransactions.pdb
+D:\CSharp-Advanced\OOP\Exception_Handling\MoneyTransactions\obj\Debug\net6.0\MoneyTransactions.csproj.AssemblyReference.cache
+D:\CSharp-Advanced\OOP\Exception_Handling\MoneyTransactions\obj\Debug\net6.0\MoneyTransactions.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp-Advanced\OOP\Exception_Handling\MoneyTransactions\obj\Debug\net6.0\MoneyTransactions.AssemblyInfoInputs.cache
+D:\CSharp-Advanced\OOP\Exception_Handling\MoneyTransactions\obj\Debug\net6.0\MoneyTransactions.AssemblyInfo.cs
+D:\CSharp-Advanced\OOP\Exception_Handling\MoneyTransactions\obj\Debug\net6.0\MoneyTransactions.csproj.CoreCompileInputs.cache
+D:\CSharp-Advanced\OOP\Exception_Handling\MoneyTransactions\obj\Debug\net6.0\MoneyTransactions.dll
+D:\CSharp-Advanced\OOP\Exception_Handling\MoneyTransactions\obj\Debug\net6.0\refint\MoneyTransactions.dll
+D:\CSharp-Advanced\OOP\Exception_Handling\MoneyTransactions\obj\Debug\net6.0\MoneyTransactions.pdb
+D:\CSharp-Advanced\OOP\Exception_Handling\MoneyTransactions\obj\Debug\net6.0\MoneyTransactions.genruntimeconfig.cache
+D:\CSharp-Advanced\OOP\Exception_Handling\MoneyTransactions\obj\Debug\net6.0\ref\MoneyTransactions.dll

@@ -1,6 +1,6 @@
 ﻿namespace Vehicles
 {
-    internal class Program
+    public class Program
     {
         static void Main(string[] args)
         {
@@ -56,9 +56,9 @@
                     Console.WriteLine(ex.Message);
                 }
             }
-            Console.WriteLine($"Car {car.FuelQuantity:f2}");
-            Console.WriteLine($"Truck {truck.FuelQuantity:f2}");
-            Console.WriteLine($"Bus {bus.FuelQuantity:f2}");
+            Console.WriteLine($"Car: {car.FuelQuantity:f2}");
+            Console.WriteLine($"Truck: {truck.FuelQuantity:f2}");
+            Console.WriteLine($"Bus: {bus.FuelQuantity:f2}");
         }
     }
 }

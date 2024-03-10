@@ -1,0 +1,15 @@
+D:\CSharp-Advanced\OOP\Exception_Handling\SumOfIntegers\bin\Debug\net6.0\SumOfIntegers.exe
+D:\CSharp-Advanced\OOP\Exception_Handling\SumOfIntegers\bin\Debug\net6.0\SumOfIntegers.deps.json
+D:\CSharp-Advanced\OOP\Exception_Handling\SumOfIntegers\bin\Debug\net6.0\SumOfIntegers.runtimeconfig.json
+D:\CSharp-Advanced\OOP\Exception_Handling\SumOfIntegers\bin\Debug\net6.0\SumOfIntegers.dll
+D:\CSharp-Advanced\OOP\Exception_Handling\SumOfIntegers\bin\Debug\net6.0\SumOfIntegers.pdb
+D:\CSharp-Advanced\OOP\Exception_Handling\SumOfIntegers\obj\Debug\net6.0\SumOfIntegers.csproj.AssemblyReference.cache
+D:\CSharp-Advanced\OOP\Exception_Handling\SumOfIntegers\obj\Debug\net6.0\SumOfIntegers.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp-Advanced\OOP\Exception_Handling\SumOfIntegers\obj\Debug\net6.0\SumOfIntegers.AssemblyInfoInputs.cache
+D:\CSharp-Advanced\OOP\Exception_Handling\SumOfIntegers\obj\Debug\net6.0\SumOfIntegers.AssemblyInfo.cs
+D:\CSharp-Advanced\OOP\Exception_Handling\SumOfIntegers\obj\Debug\net6.0\SumOfIntegers.csproj.CoreCompileInputs.cache
+D:\CSharp-Advanced\OOP\Exception_Handling\SumOfIntegers\obj\Debug\net6.0\SumOfIntegers.dll
+D:\CSharp-Advanced\OOP\Exception_Handling\SumOfIntegers\obj\Debug\net6.0\refint\SumOfIntegers.dll
+D:\CSharp-Advanced\OOP\Exception_Handling\SumOfIntegers\obj\Debug\net6.0\SumOfIntegers.pdb
+D:\CSharp-Advanced\OOP\Exception_Handling\SumOfIntegers\obj\Debug\net6.0\SumOfIntegers.genruntimeconfig.cache
+D:\CSharp-Advanced\OOP\Exception_Handling\SumOfIntegers\obj\Debug\net6.0\ref\SumOfIntegers.dll

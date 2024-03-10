@@ -1,0 +1,15 @@
+D:\CSharp-Advanced\OOP\Exception_Handling\PlayCatch\bin\Debug\net6.0\PlayCatch.exe
+D:\CSharp-Advanced\OOP\Exception_Handling\PlayCatch\bin\Debug\net6.0\PlayCatch.deps.json
+D:\CSharp-Advanced\OOP\Exception_Handling\PlayCatch\bin\Debug\net6.0\PlayCatch.runtimeconfig.json
+D:\CSharp-Advanced\OOP\Exception_Handling\PlayCatch\bin\Debug\net6.0\PlayCatch.dll
+D:\CSharp-Advanced\OOP\Exception_Handling\PlayCatch\bin\Debug\net6.0\PlayCatch.pdb
+D:\CSharp-Advanced\OOP\Exception_Handling\PlayCatch\obj\Debug\net6.0\PlayCatch.csproj.AssemblyReference.cache
+D:\CSharp-Advanced\OOP\Exception_Handling\PlayCatch\obj\Debug\net6.0\PlayCatch.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp-Advanced\OOP\Exception_Handling\PlayCatch\obj\Debug\net6.0\PlayCatch.AssemblyInfoInputs.cache
+D:\CSharp-Advanced\OOP\Exception_Handling\PlayCatch\obj\Debug\net6.0\PlayCatch.AssemblyInfo.cs
+D:\CSharp-Advanced\OOP\Exception_Handling\PlayCatch\obj\Debug\net6.0\PlayCatch.csproj.CoreCompileInputs.cache
+D:\CSharp-Advanced\OOP\Exception_Handling\PlayCatch\obj\Debug\net6.0\PlayCatch.dll
+D:\CSharp-Advanced\OOP\Exception_Handling\PlayCatch\obj\Debug\net6.0\refint\PlayCatch.dll
+D:\CSharp-Advanced\OOP\Exception_Handling\PlayCatch\obj\Debug\net6.0\PlayCatch.pdb
+D:\CSharp-Advanced\OOP\Exception_Handling\PlayCatch\obj\Debug\net6.0\PlayCatch.genruntimeconfig.cache
+D:\CSharp-Advanced\OOP\Exception_Handling\PlayCatch\obj\Debug\net6.0\ref\PlayCatch.dll

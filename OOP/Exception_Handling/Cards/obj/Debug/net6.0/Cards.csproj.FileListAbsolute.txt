@@ -1,0 +1,15 @@
+D:\CSharp-Advanced\OOP\Exception_Handling\Cards\bin\Debug\net6.0\Cards.exe
+D:\CSharp-Advanced\OOP\Exception_Handling\Cards\bin\Debug\net6.0\Cards.deps.json
+D:\CSharp-Advanced\OOP\Exception_Handling\Cards\bin\Debug\net6.0\Cards.runtimeconfig.json
+D:\CSharp-Advanced\OOP\Exception_Handling\Cards\bin\Debug\net6.0\Cards.dll
+D:\CSharp-Advanced\OOP\Exception_Handling\Cards\bin\Debug\net6.0\Cards.pdb
+D:\CSharp-Advanced\OOP\Exception_Handling\Cards\obj\Debug\net6.0\Cards.csproj.AssemblyReference.cache
+D:\CSharp-Advanced\OOP\Exception_Handling\Cards\obj\Debug\net6.0\Cards.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp-Advanced\OOP\Exception_Handling\Cards\obj\Debug\net6.0\Cards.AssemblyInfoInputs.cache
+D:\CSharp-Advanced\OOP\Exception_Handling\Cards\obj\Debug\net6.0\Cards.AssemblyInfo.cs
+D:\CSharp-Advanced\OOP\Exception_Handling\Cards\obj\Debug\net6.0\Cards.csproj.CoreCompileInputs.cache
+D:\CSharp-Advanced\OOP\Exception_Handling\Cards\obj\Debug\net6.0\Cards.dll
+D:\CSharp-Advanced\OOP\Exception_Handling\Cards\obj\Debug\net6.0\refint\Cards.dll
+D:\CSharp-Advanced\OOP\Exception_Handling\Cards\obj\Debug\net6.0\Cards.pdb
+D:\CSharp-Advanced\OOP\Exception_Handling\Cards\obj\Debug\net6.0\Cards.genruntimeconfig.cache
+D:\CSharp-Advanced\OOP\Exception_Handling\Cards\obj\Debug\net6.0\ref\Cards.dll

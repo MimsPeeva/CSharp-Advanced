@@ -1,0 +1,15 @@
+D:\CSharp-Advanced\OOP\Exception_Handling\SquareRoot\bin\Debug\net6.0\SquareRoot.exe
+D:\CSharp-Advanced\OOP\Exception_Handling\SquareRoot\bin\Debug\net6.0\SquareRoot.deps.json
+D:\CSharp-Advanced\OOP\Exception_Handling\SquareRoot\bin\Debug\net6.0\SquareRoot.runtimeconfig.json
+D:\CSharp-Advanced\OOP\Exception_Handling\SquareRoot\bin\Debug\net6.0\SquareRoot.dll
+D:\CSharp-Advanced\OOP\Exception_Handling\SquareRoot\bin\Debug\net6.0\SquareRoot.pdb
+D:\CSharp-Advanced\OOP\Exception_Handling\SquareRoot\obj\Debug\net6.0\SquareRoot.csproj.AssemblyReference.cache
+D:\CSharp-Advanced\OOP\Exception_Handling\SquareRoot\obj\Debug\net6.0\SquareRoot.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp-Advanced\OOP\Exception_Handling\SquareRoot\obj\Debug\net6.0\SquareRoot.AssemblyInfoInputs.cache
+D:\CSharp-Advanced\OOP\Exception_Handling\SquareRoot\obj\Debug\net6.0\SquareRoot.AssemblyInfo.cs
+D:\CSharp-Advanced\OOP\Exception_Handling\SquareRoot\obj\Debug\net6.0\SquareRoot.csproj.CoreCompileInputs.cache
+D:\CSharp-Advanced\OOP\Exception_Handling\SquareRoot\obj\Debug\net6.0\SquareRoot.dll
+D:\CSharp-Advanced\OOP\Exception_Handling\SquareRoot\obj\Debug\net6.0\refint\SquareRoot.dll
+D:\CSharp-Advanced\OOP\Exception_Handling\SquareRoot\obj\Debug\net6.0\SquareRoot.pdb
+D:\CSharp-Advanced\OOP\Exception_Handling\SquareRoot\obj\Debug\net6.0\SquareRoot.genruntimeconfig.cache
+D:\CSharp-Advanced\OOP\Exception_Handling\SquareRoot\obj\Debug\net6.0\ref\SquareRoot.dll
