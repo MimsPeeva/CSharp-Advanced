@@ -1,0 +1,15 @@
+D:\CSharp-Advanced\OOP\SOLID\P04.Recharge\bin\Debug\net6.0\P04.Recharge.exe
+D:\CSharp-Advanced\OOP\SOLID\P04.Recharge\bin\Debug\net6.0\P04.Recharge.deps.json
+D:\CSharp-Advanced\OOP\SOLID\P04.Recharge\bin\Debug\net6.0\P04.Recharge.runtimeconfig.json
+D:\CSharp-Advanced\OOP\SOLID\P04.Recharge\bin\Debug\net6.0\P04.Recharge.dll
+D:\CSharp-Advanced\OOP\SOLID\P04.Recharge\bin\Debug\net6.0\P04.Recharge.pdb
+D:\CSharp-Advanced\OOP\SOLID\P04.Recharge\obj\Debug\net6.0\P04.Recharge.csproj.AssemblyReference.cache
+D:\CSharp-Advanced\OOP\SOLID\P04.Recharge\obj\Debug\net6.0\P04.Recharge.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp-Advanced\OOP\SOLID\P04.Recharge\obj\Debug\net6.0\P04.Recharge.AssemblyInfoInputs.cache
+D:\CSharp-Advanced\OOP\SOLID\P04.Recharge\obj\Debug\net6.0\P04.Recharge.AssemblyInfo.cs
+D:\CSharp-Advanced\OOP\SOLID\P04.Recharge\obj\Debug\net6.0\P04.Recharge.csproj.CoreCompileInputs.cache
+D:\CSharp-Advanced\OOP\SOLID\P04.Recharge\obj\Debug\net6.0\P04.Recharge.dll
+D:\CSharp-Advanced\OOP\SOLID\P04.Recharge\obj\Debug\net6.0\refint\P04.Recharge.dll
+D:\CSharp-Advanced\OOP\SOLID\P04.Recharge\obj\Debug\net6.0\P04.Recharge.pdb
+D:\CSharp-Advanced\OOP\SOLID\P04.Recharge\obj\Debug\net6.0\P04.Recharge.genruntimeconfig.cache
+D:\CSharp-Advanced\OOP\SOLID\P04.Recharge\obj\Debug\net6.0\ref\P04.Recharge.dll
