@@ -1,0 +1,15 @@
+D:\CSharp-Advanced\OOP\Reflection and Attributes\HighQualityMistakes\bin\Debug\net6.0\HighQualityMistakes.exe
+D:\CSharp-Advanced\OOP\Reflection and Attributes\HighQualityMistakes\bin\Debug\net6.0\HighQualityMistakes.deps.json
+D:\CSharp-Advanced\OOP\Reflection and Attributes\HighQualityMistakes\bin\Debug\net6.0\HighQualityMistakes.runtimeconfig.json
+D:\CSharp-Advanced\OOP\Reflection and Attributes\HighQualityMistakes\bin\Debug\net6.0\HighQualityMistakes.dll
+D:\CSharp-Advanced\OOP\Reflection and Attributes\HighQualityMistakes\bin\Debug\net6.0\HighQualityMistakes.pdb
+D:\CSharp-Advanced\OOP\Reflection and Attributes\HighQualityMistakes\obj\Debug\net6.0\HighQualityMistakes.csproj.AssemblyReference.cache
+D:\CSharp-Advanced\OOP\Reflection and Attributes\HighQualityMistakes\obj\Debug\net6.0\HighQualityMistakes.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp-Advanced\OOP\Reflection and Attributes\HighQualityMistakes\obj\Debug\net6.0\HighQualityMistakes.AssemblyInfoInputs.cache
+D:\CSharp-Advanced\OOP\Reflection and Attributes\HighQualityMistakes\obj\Debug\net6.0\HighQualityMistakes.AssemblyInfo.cs
+D:\CSharp-Advanced\OOP\Reflection and Attributes\HighQualityMistakes\obj\Debug\net6.0\HighQualityMistakes.csproj.CoreCompileInputs.cache
+D:\CSharp-Advanced\OOP\Reflection and Attributes\HighQualityMistakes\obj\Debug\net6.0\HighQualityMistakes.dll
+D:\CSharp-Advanced\OOP\Reflection and Attributes\HighQualityMistakes\obj\Debug\net6.0\refint\HighQualityMistakes.dll
+D:\CSharp-Advanced\OOP\Reflection and Attributes\HighQualityMistakes\obj\Debug\net6.0\HighQualityMistakes.pdb
+D:\CSharp-Advanced\OOP\Reflection and Attributes\HighQualityMistakes\obj\Debug\net6.0\HighQualityMistakes.genruntimeconfig.cache
+D:\CSharp-Advanced\OOP\Reflection and Attributes\HighQualityMistakes\obj\Debug\net6.0\ref\HighQualityMistakes.dll

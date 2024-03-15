@@ -1,0 +1,15 @@
+D:\CSharp-Advanced\OOP\Reflection and Attributes\Collector\bin\Debug\net6.0\Collector.exe
+D:\CSharp-Advanced\OOP\Reflection and Attributes\Collector\bin\Debug\net6.0\Collector.deps.json
+D:\CSharp-Advanced\OOP\Reflection and Attributes\Collector\bin\Debug\net6.0\Collector.runtimeconfig.json
+D:\CSharp-Advanced\OOP\Reflection and Attributes\Collector\bin\Debug\net6.0\Collector.dll
+D:\CSharp-Advanced\OOP\Reflection and Attributes\Collector\bin\Debug\net6.0\Collector.pdb
+D:\CSharp-Advanced\OOP\Reflection and Attributes\Collector\obj\Debug\net6.0\Collector.csproj.AssemblyReference.cache
+D:\CSharp-Advanced\OOP\Reflection and Attributes\Collector\obj\Debug\net6.0\Collector.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp-Advanced\OOP\Reflection and Attributes\Collector\obj\Debug\net6.0\Collector.AssemblyInfoInputs.cache
+D:\CSharp-Advanced\OOP\Reflection and Attributes\Collector\obj\Debug\net6.0\Collector.AssemblyInfo.cs
+D:\CSharp-Advanced\OOP\Reflection and Attributes\Collector\obj\Debug\net6.0\Collector.csproj.CoreCompileInputs.cache
+D:\CSharp-Advanced\OOP\Reflection and Attributes\Collector\obj\Debug\net6.0\Collector.dll
+D:\CSharp-Advanced\OOP\Reflection and Attributes\Collector\obj\Debug\net6.0\refint\Collector.dll
+D:\CSharp-Advanced\OOP\Reflection and Attributes\Collector\obj\Debug\net6.0\Collector.pdb
+D:\CSharp-Advanced\OOP\Reflection and Attributes\Collector\obj\Debug\net6.0\Collector.genruntimeconfig.cache
+D:\CSharp-Advanced\OOP\Reflection and Attributes\Collector\obj\Debug\net6.0\ref\Collector.dll

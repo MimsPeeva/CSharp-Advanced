@@ -1,0 +1,15 @@
+D:\CSharp-Advanced\OOP\Reflection and Attributes\CreateAttribute\bin\Debug\net6.0\CreateAttribute.exe
+D:\CSharp-Advanced\OOP\Reflection and Attributes\CreateAttribute\bin\Debug\net6.0\CreateAttribute.deps.json
+D:\CSharp-Advanced\OOP\Reflection and Attributes\CreateAttribute\bin\Debug\net6.0\CreateAttribute.runtimeconfig.json
+D:\CSharp-Advanced\OOP\Reflection and Attributes\CreateAttribute\bin\Debug\net6.0\CreateAttribute.dll
+D:\CSharp-Advanced\OOP\Reflection and Attributes\CreateAttribute\bin\Debug\net6.0\CreateAttribute.pdb
+D:\CSharp-Advanced\OOP\Reflection and Attributes\CreateAttribute\obj\Debug\net6.0\CreateAttribute.csproj.AssemblyReference.cache
+D:\CSharp-Advanced\OOP\Reflection and Attributes\CreateAttribute\obj\Debug\net6.0\CreateAttribute.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp-Advanced\OOP\Reflection and Attributes\CreateAttribute\obj\Debug\net6.0\CreateAttribute.AssemblyInfoInputs.cache
+D:\CSharp-Advanced\OOP\Reflection and Attributes\CreateAttribute\obj\Debug\net6.0\CreateAttribute.AssemblyInfo.cs
+D:\CSharp-Advanced\OOP\Reflection and Attributes\CreateAttribute\obj\Debug\net6.0\CreateAttribute.csproj.CoreCompileInputs.cache
+D:\CSharp-Advanced\OOP\Reflection and Attributes\CreateAttribute\obj\Debug\net6.0\CreateAttribute.dll
+D:\CSharp-Advanced\OOP\Reflection and Attributes\CreateAttribute\obj\Debug\net6.0\refint\CreateAttribute.dll
+D:\CSharp-Advanced\OOP\Reflection and Attributes\CreateAttribute\obj\Debug\net6.0\CreateAttribute.pdb
+D:\CSharp-Advanced\OOP\Reflection and Attributes\CreateAttribute\obj\Debug\net6.0\CreateAttribute.genruntimeconfig.cache
+D:\CSharp-Advanced\OOP\Reflection and Attributes\CreateAttribute\obj\Debug\net6.0\ref\CreateAttribute.dll

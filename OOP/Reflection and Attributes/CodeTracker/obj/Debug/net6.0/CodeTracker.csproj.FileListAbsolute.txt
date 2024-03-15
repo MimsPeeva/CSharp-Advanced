@@ -1,0 +1,15 @@
+D:\CSharp-Advanced\OOP\Reflection and Attributes\CodeTracker\bin\Debug\net6.0\CodeTracker.exe
+D:\CSharp-Advanced\OOP\Reflection and Attributes\CodeTracker\bin\Debug\net6.0\CodeTracker.deps.json
+D:\CSharp-Advanced\OOP\Reflection and Attributes\CodeTracker\bin\Debug\net6.0\CodeTracker.runtimeconfig.json
+D:\CSharp-Advanced\OOP\Reflection and Attributes\CodeTracker\bin\Debug\net6.0\CodeTracker.dll
+D:\CSharp-Advanced\OOP\Reflection and Attributes\CodeTracker\bin\Debug\net6.0\CodeTracker.pdb
+D:\CSharp-Advanced\OOP\Reflection and Attributes\CodeTracker\obj\Debug\net6.0\CodeTracker.csproj.AssemblyReference.cache
+D:\CSharp-Advanced\OOP\Reflection and Attributes\CodeTracker\obj\Debug\net6.0\CodeTracker.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp-Advanced\OOP\Reflection and Attributes\CodeTracker\obj\Debug\net6.0\CodeTracker.AssemblyInfoInputs.cache
+D:\CSharp-Advanced\OOP\Reflection and Attributes\CodeTracker\obj\Debug\net6.0\CodeTracker.AssemblyInfo.cs
+D:\CSharp-Advanced\OOP\Reflection and Attributes\CodeTracker\obj\Debug\net6.0\CodeTracker.csproj.CoreCompileInputs.cache
+D:\CSharp-Advanced\OOP\Reflection and Attributes\CodeTracker\obj\Debug\net6.0\CodeTracker.dll
+D:\CSharp-Advanced\OOP\Reflection and Attributes\CodeTracker\obj\Debug\net6.0\refint\CodeTracker.dll
+D:\CSharp-Advanced\OOP\Reflection and Attributes\CodeTracker\obj\Debug\net6.0\CodeTracker.pdb
+D:\CSharp-Advanced\OOP\Reflection and Attributes\CodeTracker\obj\Debug\net6.0\CodeTracker.genruntimeconfig.cache
+D:\CSharp-Advanced\OOP\Reflection and Attributes\CodeTracker\obj\Debug\net6.0\ref\CodeTracker.dll

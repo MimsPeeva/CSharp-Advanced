@@ -1,0 +1,15 @@
+D:\CSharp-Advanced\OOP\Reflection and Attributes\MissionPrivateImpossible\bin\Debug\net6.0\MissionPrivateImpossible.exe
+D:\CSharp-Advanced\OOP\Reflection and Attributes\MissionPrivateImpossible\bin\Debug\net6.0\MissionPrivateImpossible.deps.json
+D:\CSharp-Advanced\OOP\Reflection and Attributes\MissionPrivateImpossible\bin\Debug\net6.0\MissionPrivateImpossible.runtimeconfig.json
+D:\CSharp-Advanced\OOP\Reflection and Attributes\MissionPrivateImpossible\bin\Debug\net6.0\MissionPrivateImpossible.dll
+D:\CSharp-Advanced\OOP\Reflection and Attributes\MissionPrivateImpossible\bin\Debug\net6.0\MissionPrivateImpossible.pdb
+D:\CSharp-Advanced\OOP\Reflection and Attributes\MissionPrivateImpossible\obj\Debug\net6.0\MissionPrivateImpossible.csproj.AssemblyReference.cache
+D:\CSharp-Advanced\OOP\Reflection and Attributes\MissionPrivateImpossible\obj\Debug\net6.0\MissionPrivateImpossible.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp-Advanced\OOP\Reflection and Attributes\MissionPrivateImpossible\obj\Debug\net6.0\MissionPrivateImpossible.AssemblyInfoInputs.cache
+D:\CSharp-Advanced\OOP\Reflection and Attributes\MissionPrivateImpossible\obj\Debug\net6.0\MissionPrivateImpossible.AssemblyInfo.cs
+D:\CSharp-Advanced\OOP\Reflection and Attributes\MissionPrivateImpossible\obj\Debug\net6.0\MissionPrivateImpossible.csproj.CoreCompileInputs.cache
+D:\CSharp-Advanced\OOP\Reflection and Attributes\MissionPrivateImpossible\obj\Debug\net6.0\MissionPrivateImpossible.dll
+D:\CSharp-Advanced\OOP\Reflection and Attributes\MissionPrivateImpossible\obj\Debug\net6.0\refint\MissionPrivateImpossible.dll
+D:\CSharp-Advanced\OOP\Reflection and Attributes\MissionPrivateImpossible\obj\Debug\net6.0\MissionPrivateImpossible.pdb
+D:\CSharp-Advanced\OOP\Reflection and Attributes\MissionPrivateImpossible\obj\Debug\net6.0\MissionPrivateImpossible.genruntimeconfig.cache
+D:\CSharp-Advanced\OOP\Reflection and Attributes\MissionPrivateImpossible\obj\Debug\net6.0\ref\MissionPrivateImpossible.dll
