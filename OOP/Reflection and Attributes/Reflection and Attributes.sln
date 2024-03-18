@@ -13,7 +13,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Collector", "Collector\Coll
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CodeTracker", "CodeTracker\CodeTracker.csproj", "{6C855B96-3AD3-4D84-AEB8-D25DDD6DEBBB}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CreateAttribute", "CreateAttribute\CreateAttribute.csproj", "{8DE352CF-71E2-44B2-A87D-B86CB01BD87C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AuthorProblem", "CreateAttribute\AuthorProblem.csproj", "{8DE352CF-71E2-44B2-A87D-B86CB01BD87C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

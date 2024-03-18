@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\CSharp-Advanced\\OOP\\Reflection and Attributes\\CreateAttribute\\CreateAttribute.csproj",
-      "projectName": "CreateAttribute",
-      "projectPath": "D:\\CSharp-Advanced\\OOP\\Reflection and Attributes\\CreateAttribute\\CreateAttribute.csproj",
+      "projectUniqueName": "D:\\CSharp-Advanced\\OOP\\Reflection and Attributes\\CreateAttribute\\AuthorProblem.csproj",
+      "projectName": "AuthorProblem",
+      "projectPath": "D:\\CSharp-Advanced\\OOP\\Reflection and Attributes\\CreateAttribute\\AuthorProblem.csproj",
       "packagesPath": "C:\\Users\\Acer\\.nuget\\packages\\",
       "outputPath": "D:\\CSharp-Advanced\\OOP\\Reflection and Attributes\\CreateAttribute\\obj\\",
       "projectStyle": "PackageReference",

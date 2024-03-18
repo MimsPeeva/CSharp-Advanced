@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "U52Sh1BkePj5VqcgxkmFUnRwYuhZqjM/jhOpdfOswtuDC9ZS1rp5n3UeGU1D+HkRedMPijURogAcIUP8fbQSvA==",
+  "dgSpecHash": "QUuzUmISm6Bm74NcWKe3OHplsRaYGWHsMkOd1Q64IC5WbRPo3RlKVfpzWPyeW6aUq0JjB6HHHo4o2pKAAWPzeQ==",
   "success": true,
-  "projectFilePath": "D:\\CSharp-Advanced\\OOP\\Reflection and Attributes\\CreateAttribute\\CreateAttribute.csproj",
+  "projectFilePath": "D:\\CSharp-Advanced\\OOP\\Reflection and Attributes\\CreateAttribute\\AuthorProblem.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
