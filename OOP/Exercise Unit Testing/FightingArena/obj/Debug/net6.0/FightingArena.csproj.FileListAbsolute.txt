@@ -1,0 +1,12 @@
+D:\CSharp-Advanced\OOP\Exercise Unit Testing\FightingArena\bin\Debug\net6.0\FightingArena.deps.json
+D:\CSharp-Advanced\OOP\Exercise Unit Testing\FightingArena\bin\Debug\net6.0\FightingArena.dll
+D:\CSharp-Advanced\OOP\Exercise Unit Testing\FightingArena\bin\Debug\net6.0\FightingArena.pdb
+D:\CSharp-Advanced\OOP\Exercise Unit Testing\FightingArena\obj\Debug\net6.0\FightingArena.csproj.AssemblyReference.cache
+D:\CSharp-Advanced\OOP\Exercise Unit Testing\FightingArena\obj\Debug\net6.0\FightingArena.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp-Advanced\OOP\Exercise Unit Testing\FightingArena\obj\Debug\net6.0\FightingArena.AssemblyInfoInputs.cache
+D:\CSharp-Advanced\OOP\Exercise Unit Testing\FightingArena\obj\Debug\net6.0\FightingArena.AssemblyInfo.cs
+D:\CSharp-Advanced\OOP\Exercise Unit Testing\FightingArena\obj\Debug\net6.0\FightingArena.csproj.CoreCompileInputs.cache
+D:\CSharp-Advanced\OOP\Exercise Unit Testing\FightingArena\obj\Debug\net6.0\FightingArena.dll
+D:\CSharp-Advanced\OOP\Exercise Unit Testing\FightingArena\obj\Debug\net6.0\refint\FightingArena.dll
+D:\CSharp-Advanced\OOP\Exercise Unit Testing\FightingArena\obj\Debug\net6.0\FightingArena.pdb
+D:\CSharp-Advanced\OOP\Exercise Unit Testing\FightingArena\obj\Debug\net6.0\ref\FightingArena.dll

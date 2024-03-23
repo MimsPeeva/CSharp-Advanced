@@ -1,0 +1,12 @@
+D:\CSharp-Advanced\OOP\Exercise Unit Testing\CarManager\bin\Debug\net6.0\CarManager.deps.json
+D:\CSharp-Advanced\OOP\Exercise Unit Testing\CarManager\bin\Debug\net6.0\CarManager.dll
+D:\CSharp-Advanced\OOP\Exercise Unit Testing\CarManager\bin\Debug\net6.0\CarManager.pdb
+D:\CSharp-Advanced\OOP\Exercise Unit Testing\CarManager\obj\Debug\net6.0\CarManager.csproj.AssemblyReference.cache
+D:\CSharp-Advanced\OOP\Exercise Unit Testing\CarManager\obj\Debug\net6.0\CarManager.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp-Advanced\OOP\Exercise Unit Testing\CarManager\obj\Debug\net6.0\CarManager.AssemblyInfoInputs.cache
+D:\CSharp-Advanced\OOP\Exercise Unit Testing\CarManager\obj\Debug\net6.0\CarManager.AssemblyInfo.cs
+D:\CSharp-Advanced\OOP\Exercise Unit Testing\CarManager\obj\Debug\net6.0\CarManager.csproj.CoreCompileInputs.cache
+D:\CSharp-Advanced\OOP\Exercise Unit Testing\CarManager\obj\Debug\net6.0\CarManager.dll
+D:\CSharp-Advanced\OOP\Exercise Unit Testing\CarManager\obj\Debug\net6.0\refint\CarManager.dll
+D:\CSharp-Advanced\OOP\Exercise Unit Testing\CarManager\obj\Debug\net6.0\CarManager.pdb
+D:\CSharp-Advanced\OOP\Exercise Unit Testing\CarManager\obj\Debug\net6.0\ref\CarManager.dll

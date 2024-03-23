@@ -1,0 +1,12 @@
+D:\CSharp-Advanced\OOP\Exercise Unit Testing\DatabaseExtended\bin\Debug\net6.0\DatabaseExtended.deps.json
+D:\CSharp-Advanced\OOP\Exercise Unit Testing\DatabaseExtended\bin\Debug\net6.0\DatabaseExtended.dll
+D:\CSharp-Advanced\OOP\Exercise Unit Testing\DatabaseExtended\bin\Debug\net6.0\DatabaseExtended.pdb
+D:\CSharp-Advanced\OOP\Exercise Unit Testing\DatabaseExtended\obj\Debug\net6.0\DatabaseExtended.csproj.AssemblyReference.cache
+D:\CSharp-Advanced\OOP\Exercise Unit Testing\DatabaseExtended\obj\Debug\net6.0\DatabaseExtended.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp-Advanced\OOP\Exercise Unit Testing\DatabaseExtended\obj\Debug\net6.0\DatabaseExtended.AssemblyInfoInputs.cache
+D:\CSharp-Advanced\OOP\Exercise Unit Testing\DatabaseExtended\obj\Debug\net6.0\DatabaseExtended.AssemblyInfo.cs
+D:\CSharp-Advanced\OOP\Exercise Unit Testing\DatabaseExtended\obj\Debug\net6.0\DatabaseExtended.csproj.CoreCompileInputs.cache
+D:\CSharp-Advanced\OOP\Exercise Unit Testing\DatabaseExtended\obj\Debug\net6.0\DatabaseExtended.dll
+D:\CSharp-Advanced\OOP\Exercise Unit Testing\DatabaseExtended\obj\Debug\net6.0\refint\DatabaseExtended.dll
+D:\CSharp-Advanced\OOP\Exercise Unit Testing\DatabaseExtended\obj\Debug\net6.0\DatabaseExtended.pdb
+D:\CSharp-Advanced\OOP\Exercise Unit Testing\DatabaseExtended\obj\Debug\net6.0\ref\DatabaseExtended.dll

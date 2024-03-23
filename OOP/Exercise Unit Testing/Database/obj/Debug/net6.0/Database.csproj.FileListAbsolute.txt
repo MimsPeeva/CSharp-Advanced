@@ -1,0 +1,12 @@
+D:\CSharp-Advanced\OOP\Exercise Unit Testing\Database\bin\Debug\net6.0\Database.deps.json
+D:\CSharp-Advanced\OOP\Exercise Unit Testing\Database\bin\Debug\net6.0\Database.dll
+D:\CSharp-Advanced\OOP\Exercise Unit Testing\Database\bin\Debug\net6.0\Database.pdb
+D:\CSharp-Advanced\OOP\Exercise Unit Testing\Database\obj\Debug\net6.0\Database.csproj.AssemblyReference.cache
+D:\CSharp-Advanced\OOP\Exercise Unit Testing\Database\obj\Debug\net6.0\Database.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp-Advanced\OOP\Exercise Unit Testing\Database\obj\Debug\net6.0\Database.AssemblyInfoInputs.cache
+D:\CSharp-Advanced\OOP\Exercise Unit Testing\Database\obj\Debug\net6.0\Database.AssemblyInfo.cs
+D:\CSharp-Advanced\OOP\Exercise Unit Testing\Database\obj\Debug\net6.0\Database.csproj.CoreCompileInputs.cache
+D:\CSharp-Advanced\OOP\Exercise Unit Testing\Database\obj\Debug\net6.0\Database.dll
+D:\CSharp-Advanced\OOP\Exercise Unit Testing\Database\obj\Debug\net6.0\refint\Database.dll
+D:\CSharp-Advanced\OOP\Exercise Unit Testing\Database\obj\Debug\net6.0\Database.pdb
+D:\CSharp-Advanced\OOP\Exercise Unit Testing\Database\obj\Debug\net6.0\ref\Database.dll

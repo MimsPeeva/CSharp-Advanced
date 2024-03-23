@@ -1,0 +1,15 @@
+D:\CSharp-Advanced\OOP\UnitTesting\Skeleton\bin\Debug\net6.0\Skeleton.exe
+D:\CSharp-Advanced\OOP\UnitTesting\Skeleton\bin\Debug\net6.0\Skeleton.deps.json
+D:\CSharp-Advanced\OOP\UnitTesting\Skeleton\bin\Debug\net6.0\Skeleton.runtimeconfig.json
+D:\CSharp-Advanced\OOP\UnitTesting\Skeleton\bin\Debug\net6.0\Skeleton.dll
+D:\CSharp-Advanced\OOP\UnitTesting\Skeleton\bin\Debug\net6.0\Skeleton.pdb
+D:\CSharp-Advanced\OOP\UnitTesting\Skeleton\obj\Debug\net6.0\Skeleton.csproj.AssemblyReference.cache
+D:\CSharp-Advanced\OOP\UnitTesting\Skeleton\obj\Debug\net6.0\Skeleton.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp-Advanced\OOP\UnitTesting\Skeleton\obj\Debug\net6.0\Skeleton.AssemblyInfoInputs.cache
+D:\CSharp-Advanced\OOP\UnitTesting\Skeleton\obj\Debug\net6.0\Skeleton.AssemblyInfo.cs
+D:\CSharp-Advanced\OOP\UnitTesting\Skeleton\obj\Debug\net6.0\Skeleton.csproj.CoreCompileInputs.cache
+D:\CSharp-Advanced\OOP\UnitTesting\Skeleton\obj\Debug\net6.0\Skeleton.dll
+D:\CSharp-Advanced\OOP\UnitTesting\Skeleton\obj\Debug\net6.0\refint\Skeleton.dll
+D:\CSharp-Advanced\OOP\UnitTesting\Skeleton\obj\Debug\net6.0\Skeleton.pdb
+D:\CSharp-Advanced\OOP\UnitTesting\Skeleton\obj\Debug\net6.0\Skeleton.genruntimeconfig.cache
+D:\CSharp-Advanced\OOP\UnitTesting\Skeleton\obj\Debug\net6.0\ref\Skeleton.dll
