@@ -8,16 +8,15 @@ namespace InfluencerManagerApp.Models
 {
     public class BusinessInfluencer : Influencer
     {
-        private const double engagement = 3.0;
-        public BusinessInfluencer(string username, int followers) : base(username, followers, engagement)
+        private double factor = 0.15;
+        public BusinessInfluencer(string username, int followers) : base(username, followers, 3)
         {
         }
 
         public override int CalculateCampaignPrice()
         {
-            double result = Followers * EngagementRate * 0.15;
-            int rounded = (int)Math.Floor(result);
-            return rounded;
+            int result = (int)Math.Floor(Followers * EngagementRate * factor);
+            return result;
         }
     }
 }

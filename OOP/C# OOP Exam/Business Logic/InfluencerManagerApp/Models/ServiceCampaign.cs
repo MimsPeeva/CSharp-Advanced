@@ -6,11 +6,9 @@ using System.Threading.Tasks;
 
 namespace InfluencerManagerApp.Models
 {
-    public class ServiceCampaign:Campaign
+    public class ServiceCampaign : Campaign
     {
-        private const double budget = 30000;
-
-        public ServiceCampaign(string brand) : base(brand, budget)
+        public ServiceCampaign(string brand) : base(brand, 30000)
         {
         }
     }

@@ -8,8 +8,12 @@ using InfluencerManagerApp.Utilities.Messages;
 
 namespace InfluencerManagerApp.Models
 {
-    public class Campaign : ICampaign
+    public abstract class Campaign : ICampaign
     {
+        private string brand;
+        private double budget;
+        private List<string> contributors;
+
         public Campaign(string brand, double budget)
         {
             Brand = brand;
@@ -17,13 +21,9 @@ namespace InfluencerManagerApp.Models
             contributors = new List<string>();
         }
 
-        private string brand;
-        private double budget;
-        private List<string> contributors;
-
         public string Brand
         {
-            get => brand;
+            get { return brand; }
             private set
             {
                 if (string.IsNullOrWhiteSpace(value))
@@ -36,10 +36,14 @@ namespace InfluencerManagerApp.Models
 
         public double Budget
         {
-            get => budget;
+            get { return budget; }
             private set { budget = value; }
         }
-        public IReadOnlyCollection<string> Contributors => contributors;
+
+        public IReadOnlyCollection<string> Contributors
+        {
+            get { return contributors.AsReadOnly(); }
+        }
         public void Gain(double amount)
         {
             Budget += amount;
@@ -47,14 +51,15 @@ namespace InfluencerManagerApp.Models
 
         public void Engage(IInfluencer influencer)
         {
+           
+
             contributors.Add(influencer.Username);
-            int amount = influencer.CalculateCampaignPrice();
-            Budget -= amount;
+            Budget -= influencer.CalculateCampaignPrice();
         }
 
         public override string ToString()
         {
-            return $"{GetType().Name} - Brand: {Brand}, Budget: {Budget}, Contributors: {Contributors.Count}";
+            return $"{this.GetType().Name} - Brand: {Brand}, Budget: {Budget}, Contributors: {Contributors.Count}";
         }
     }
 }

@@ -10,39 +10,115 @@ namespace InfluencerManagerApp.Models
 {
     public abstract class Influencer:IInfluencer
     {
-        public Influencer(string username, int followers, double engagementRate)
-        {
-            this.username = username;
-            this.followers = followers;
-            this.engagementRate = engagementRate;
-            Income = 0;
-            participations = new List<string>();
-        }
+        //public Influencer(string username, int followers, double engagementRate)
+        //{
+        //    Username = username;
+        //    Followers = followers;
+        //    EngagementRate = engagementRate;
+        //    Income = 0;
+        //    participations = new List<string>();
+        //}
+
+        //private string username;
+        //private int followers;
+        //private double engagementRate;
+        //private double income;
+        //private List<string> participations;
+        //public string Username
+        //{
+        //    get => username;
+        //    private set
+        //    {
+        //        if (string.IsNullOrWhiteSpace(value))
+        //        {
+        //            throw new ArgumentException(ExceptionMessages.UsernameIsRequired);
+        //        }
+        //        username = value;
+        //    }
+        //}
+
+        //public int Followers
+        //{
+        //    get => followers;
+        //    private set
+        //    {
+        //        if (value < 0)
+        //        {
+        //            throw new ArgumentException(ExceptionMessages.FollowersCountNegative);
+        //        }
+        //        followers = value;
+        //    }
+        //}
+
+        //public double EngagementRate
+        //{
+        //    get => engagementRate;
+        //    private set { engagementRate = value; }
+        //}
+
+        //public double Income
+        //{
+        //    get => income;
+        //    private set { income = value; }
+        //}
+        //public IReadOnlyCollection<string> Participations => participations;
+
+        //public override string ToString()
+        //{
+        //    return $"{Username} - Followers: {Followers}, Total Income: {Income}";
+        //}
+
+        //public void EarnFee(double amount)
+        //{
+        //    Income += amount;
+        //}
+
+        //public void EnrollCampaign(string brand)
+        //{
+        //    participations.Add(brand);
+        //}
+
+        //public void EndParticipation(string brand)
+        //{
+        //    participations.Remove(brand);
+        //}
+
+        //public abstract int CalculateCampaignPrice();
 
         private string username;
         private int followers;
         private double engagementRate;
         private double income;
         private List<string> participations;
+
+        public Influencer(string username, int followers, double engagementRate)
+        {
+            Username = username;
+            Followers = followers;
+            EngagementRate = engagementRate;
+            Income = 0;
+            participations = new List<string>();
+        }
         public string Username
-        { 
-            get=>username;
+        {
+            get { return username; }
             private set
             {
                 if (string.IsNullOrWhiteSpace(value))
                 {
                     throw new ArgumentException(ExceptionMessages.UsernameIsRequired);
                 }
+
                 username = value;
             }
         }
 
         public int Followers
         {
-            get=>followers;
+            get { return followers; }
             private set
             {
-                if (value<0)
+                if (value < 0)
                 {
                     throw new ArgumentException(ExceptionMessages.FollowersCountNegative);
                 }
@@ -52,16 +128,19 @@ namespace InfluencerManagerApp.Models
 
         public double EngagementRate
         {
-            get=>engagementRate;
+            get { return engagementRate; }
             private set { engagementRate = value; }
         }
 
         public double Income
         {
-            get=>income;
+            get { return income; }
             private set { income = value; }
         }
-        public IReadOnlyCollection<string> Participations => participations;
+        public IReadOnlyCollection<string> Participations
+        {
+            get { return participations.AsReadOnly(); }
+        }
 
         public override string ToString()
         {
@@ -70,7 +149,7 @@ namespace InfluencerManagerApp.Models
 
         public void EarnFee(double amount)
         {
-           Income+=amount;
+            Income += amount;
         }
 
         public void EnrollCampaign(string brand)
@@ -84,6 +163,5 @@ namespace InfluencerManagerApp.Models
         }
 
         public abstract int CalculateCampaignPrice();
-      
     }
 }
