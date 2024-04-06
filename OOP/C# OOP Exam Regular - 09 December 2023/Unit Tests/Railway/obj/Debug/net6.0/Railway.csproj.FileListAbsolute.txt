@@ -1,0 +1,15 @@
+D:\CSharp-Advanced\OOP\C# OOP Exam Regular - 09 December 2023\Unit Tests\Railway\bin\Debug\net6.0\Railway.exe
+D:\CSharp-Advanced\OOP\C# OOP Exam Regular - 09 December 2023\Unit Tests\Railway\bin\Debug\net6.0\Railway.deps.json
+D:\CSharp-Advanced\OOP\C# OOP Exam Regular - 09 December 2023\Unit Tests\Railway\bin\Debug\net6.0\Railway.runtimeconfig.json
+D:\CSharp-Advanced\OOP\C# OOP Exam Regular - 09 December 2023\Unit Tests\Railway\bin\Debug\net6.0\Railway.dll
+D:\CSharp-Advanced\OOP\C# OOP Exam Regular - 09 December 2023\Unit Tests\Railway\bin\Debug\net6.0\Railway.pdb
+D:\CSharp-Advanced\OOP\C# OOP Exam Regular - 09 December 2023\Unit Tests\Railway\obj\Debug\net6.0\Railway.csproj.AssemblyReference.cache
+D:\CSharp-Advanced\OOP\C# OOP Exam Regular - 09 December 2023\Unit Tests\Railway\obj\Debug\net6.0\Railway.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp-Advanced\OOP\C# OOP Exam Regular - 09 December 2023\Unit Tests\Railway\obj\Debug\net6.0\Railway.AssemblyInfoInputs.cache
+D:\CSharp-Advanced\OOP\C# OOP Exam Regular - 09 December 2023\Unit Tests\Railway\obj\Debug\net6.0\Railway.AssemblyInfo.cs
+D:\CSharp-Advanced\OOP\C# OOP Exam Regular - 09 December 2023\Unit Tests\Railway\obj\Debug\net6.0\Railway.csproj.CoreCompileInputs.cache
+D:\CSharp-Advanced\OOP\C# OOP Exam Regular - 09 December 2023\Unit Tests\Railway\obj\Debug\net6.0\Railway.dll
+D:\CSharp-Advanced\OOP\C# OOP Exam Regular - 09 December 2023\Unit Tests\Railway\obj\Debug\net6.0\refint\Railway.dll
+D:\CSharp-Advanced\OOP\C# OOP Exam Regular - 09 December 2023\Unit Tests\Railway\obj\Debug\net6.0\Railway.pdb
+D:\CSharp-Advanced\OOP\C# OOP Exam Regular - 09 December 2023\Unit Tests\Railway\obj\Debug\net6.0\Railway.genruntimeconfig.cache
+D:\CSharp-Advanced\OOP\C# OOP Exam Regular - 09 December 2023\Unit Tests\Railway\obj\Debug\net6.0\ref\Railway.dll

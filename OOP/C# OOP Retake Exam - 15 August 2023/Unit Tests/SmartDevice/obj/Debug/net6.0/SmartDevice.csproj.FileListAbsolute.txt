@@ -1,0 +1,15 @@
+D:\CSharp-Advanced\OOP\C# OOP Retake Exam - 15 August 2023\Unit Tests\SmartDevice\bin\Debug\net6.0\SmartDevice.exe
+D:\CSharp-Advanced\OOP\C# OOP Retake Exam - 15 August 2023\Unit Tests\SmartDevice\bin\Debug\net6.0\SmartDevice.deps.json
+D:\CSharp-Advanced\OOP\C# OOP Retake Exam - 15 August 2023\Unit Tests\SmartDevice\bin\Debug\net6.0\SmartDevice.runtimeconfig.json
+D:\CSharp-Advanced\OOP\C# OOP Retake Exam - 15 August 2023\Unit Tests\SmartDevice\bin\Debug\net6.0\SmartDevice.dll
+D:\CSharp-Advanced\OOP\C# OOP Retake Exam - 15 August 2023\Unit Tests\SmartDevice\bin\Debug\net6.0\SmartDevice.pdb
+D:\CSharp-Advanced\OOP\C# OOP Retake Exam - 15 August 2023\Unit Tests\SmartDevice\obj\Debug\net6.0\SmartDevice.csproj.AssemblyReference.cache
+D:\CSharp-Advanced\OOP\C# OOP Retake Exam - 15 August 2023\Unit Tests\SmartDevice\obj\Debug\net6.0\SmartDevice.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp-Advanced\OOP\C# OOP Retake Exam - 15 August 2023\Unit Tests\SmartDevice\obj\Debug\net6.0\SmartDevice.AssemblyInfoInputs.cache
+D:\CSharp-Advanced\OOP\C# OOP Retake Exam - 15 August 2023\Unit Tests\SmartDevice\obj\Debug\net6.0\SmartDevice.AssemblyInfo.cs
+D:\CSharp-Advanced\OOP\C# OOP Retake Exam - 15 August 2023\Unit Tests\SmartDevice\obj\Debug\net6.0\SmartDevice.csproj.CoreCompileInputs.cache
+D:\CSharp-Advanced\OOP\C# OOP Retake Exam - 15 August 2023\Unit Tests\SmartDevice\obj\Debug\net6.0\SmartDevice.dll
+D:\CSharp-Advanced\OOP\C# OOP Retake Exam - 15 August 2023\Unit Tests\SmartDevice\obj\Debug\net6.0\refint\SmartDevice.dll
+D:\CSharp-Advanced\OOP\C# OOP Retake Exam - 15 August 2023\Unit Tests\SmartDevice\obj\Debug\net6.0\SmartDevice.pdb
+D:\CSharp-Advanced\OOP\C# OOP Retake Exam - 15 August 2023\Unit Tests\SmartDevice\obj\Debug\net6.0\SmartDevice.genruntimeconfig.cache
+D:\CSharp-Advanced\OOP\C# OOP Retake Exam - 15 August 2023\Unit Tests\SmartDevice\obj\Debug\net6.0\ref\SmartDevice.dll

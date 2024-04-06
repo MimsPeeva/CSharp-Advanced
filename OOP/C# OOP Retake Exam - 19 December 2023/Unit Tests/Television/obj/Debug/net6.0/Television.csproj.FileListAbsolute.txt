@@ -1,0 +1,15 @@
+D:\CSharp-Advanced\OOP\C# OOP Retake Exam - 19 December 2023\Unit Tests\Television\bin\Debug\net6.0\Television.exe
+D:\CSharp-Advanced\OOP\C# OOP Retake Exam - 19 December 2023\Unit Tests\Television\bin\Debug\net6.0\Television.deps.json
+D:\CSharp-Advanced\OOP\C# OOP Retake Exam - 19 December 2023\Unit Tests\Television\bin\Debug\net6.0\Television.runtimeconfig.json
+D:\CSharp-Advanced\OOP\C# OOP Retake Exam - 19 December 2023\Unit Tests\Television\bin\Debug\net6.0\Television.dll
+D:\CSharp-Advanced\OOP\C# OOP Retake Exam - 19 December 2023\Unit Tests\Television\bin\Debug\net6.0\Television.pdb
+D:\CSharp-Advanced\OOP\C# OOP Retake Exam - 19 December 2023\Unit Tests\Television\obj\Debug\net6.0\Television.csproj.AssemblyReference.cache
+D:\CSharp-Advanced\OOP\C# OOP Retake Exam - 19 December 2023\Unit Tests\Television\obj\Debug\net6.0\Television.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp-Advanced\OOP\C# OOP Retake Exam - 19 December 2023\Unit Tests\Television\obj\Debug\net6.0\Television.AssemblyInfoInputs.cache
+D:\CSharp-Advanced\OOP\C# OOP Retake Exam - 19 December 2023\Unit Tests\Television\obj\Debug\net6.0\Television.AssemblyInfo.cs
+D:\CSharp-Advanced\OOP\C# OOP Retake Exam - 19 December 2023\Unit Tests\Television\obj\Debug\net6.0\Television.csproj.CoreCompileInputs.cache
+D:\CSharp-Advanced\OOP\C# OOP Retake Exam - 19 December 2023\Unit Tests\Television\obj\Debug\net6.0\Television.dll
+D:\CSharp-Advanced\OOP\C# OOP Retake Exam - 19 December 2023\Unit Tests\Television\obj\Debug\net6.0\refint\Television.dll
+D:\CSharp-Advanced\OOP\C# OOP Retake Exam - 19 December 2023\Unit Tests\Television\obj\Debug\net6.0\Television.pdb
+D:\CSharp-Advanced\OOP\C# OOP Retake Exam - 19 December 2023\Unit Tests\Television\obj\Debug\net6.0\Television.genruntimeconfig.cache
+D:\CSharp-Advanced\OOP\C# OOP Retake Exam - 19 December 2023\Unit Tests\Television\obj\Debug\net6.0\ref\Television.dll

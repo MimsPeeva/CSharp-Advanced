@@ -8,21 +8,26 @@ namespace Vehicles
 {
     public class Truck : Vehicle
     {
-        private const double increasedConsumation = 1.6;
-        private const double truckerFactor = 0.95;
+        private const double AddConsumption = 1.6;
+        private const double TruckFuelLeak = 0.05;
 
-        public Truck(double fuelQuantity, double fuelConsumptionInLPerKm, double tankCapacity) :
-            base(fuelQuantity, fuelConsumptionInLPerKm+increasedConsumation, tankCapacity)
+        public Truck(double fuelQuantity, double fuelConsumptionInLitersPerKm, double tankCapacity)
+            : base(fuelQuantity, fuelConsumptionInLitersPerKm, tankCapacity, AddConsumption)
         {
+
         }
 
-        public override void Refuel(double fuelAmount)
+        public override void Refuel(double fuel)
         {
-            if (fuelAmount + FuelQuantity > TankCapacity)
+            if (fuel <= 0)
             {
-                throw new ArgumentException($"Cannot fit {fuelAmount} fuel in the tank");
+                Console.WriteLine("Fuel must be a positive number");
+                return;
             }
-            base.Refuel(fuelAmount* truckerFactor);
+
+            if (FuelQuantity + fuel > TankCapacity) 
+                Console.WriteLine($"Cannot fit {fuel} fuel in the tank");
+            else FuelQuantity += fuel * (1 - TruckFuelLeak);
         }
     }
 }

@@ -8,15 +8,11 @@ namespace Vehicles
 {
     public class Car : Vehicle
     {
-        private const double increasedConsumation = 0.9;
-     
-        public Car(double fuelQuantity, double fuelConsumptionInLPerKm, double tankCapacity) :
-            base(fuelQuantity, fuelConsumptionInLPerKm+increasedConsumation,tankCapacity)
+        private const double AddConsumption = 0.9;
+        public Car(double fuelQuantity, double fuelConsumption, double tankCapacity)
+            : base(fuelQuantity, fuelConsumption, tankCapacity, AddConsumption)
         {
-        }
-        public override void Refuel(double fuelAmount)
-        {
-            base.Refuel(fuelAmount);
+
         }
     }
 }

@@ -1,0 +1,15 @@
+D:\CSharp-Advanced\OOP\C# OOP Retake Exam - 15 August 2023\Business Logic\Handball\obj\Debug\net6.0\Handball.csproj.AssemblyReference.cache
+D:\CSharp-Advanced\OOP\C# OOP Retake Exam - 15 August 2023\Business Logic\Handball\obj\Debug\net6.0\Handball.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp-Advanced\OOP\C# OOP Retake Exam - 15 August 2023\Business Logic\Handball\obj\Debug\net6.0\Handball.AssemblyInfoInputs.cache
+D:\CSharp-Advanced\OOP\C# OOP Retake Exam - 15 August 2023\Business Logic\Handball\obj\Debug\net6.0\Handball.AssemblyInfo.cs
+D:\CSharp-Advanced\OOP\C# OOP Retake Exam - 15 August 2023\Business Logic\Handball\obj\Debug\net6.0\Handball.csproj.CoreCompileInputs.cache
+D:\CSharp-Advanced\OOP\C# OOP Retake Exam - 15 August 2023\Business Logic\Handball\bin\Debug\net6.0\Handball.exe
+D:\CSharp-Advanced\OOP\C# OOP Retake Exam - 15 August 2023\Business Logic\Handball\bin\Debug\net6.0\Handball.deps.json
+D:\CSharp-Advanced\OOP\C# OOP Retake Exam - 15 August 2023\Business Logic\Handball\bin\Debug\net6.0\Handball.runtimeconfig.json
+D:\CSharp-Advanced\OOP\C# OOP Retake Exam - 15 August 2023\Business Logic\Handball\bin\Debug\net6.0\Handball.dll
+D:\CSharp-Advanced\OOP\C# OOP Retake Exam - 15 August 2023\Business Logic\Handball\bin\Debug\net6.0\Handball.pdb
+D:\CSharp-Advanced\OOP\C# OOP Retake Exam - 15 August 2023\Business Logic\Handball\obj\Debug\net6.0\Handball.dll
+D:\CSharp-Advanced\OOP\C# OOP Retake Exam - 15 August 2023\Business Logic\Handball\obj\Debug\net6.0\refint\Handball.dll
+D:\CSharp-Advanced\OOP\C# OOP Retake Exam - 15 August 2023\Business Logic\Handball\obj\Debug\net6.0\Handball.pdb
+D:\CSharp-Advanced\OOP\C# OOP Retake Exam - 15 August 2023\Business Logic\Handball\obj\Debug\net6.0\Handball.genruntimeconfig.cache
+D:\CSharp-Advanced\OOP\C# OOP Retake Exam - 15 August 2023\Business Logic\Handball\obj\Debug\net6.0\ref\Handball.dll

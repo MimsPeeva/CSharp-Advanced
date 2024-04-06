@@ -1,0 +1,15 @@
+D:\CSharp-Advanced\OOP\C# OOP Exam Regular - 09 December 2023\Business Logic\obj\Debug\net6.0\NauticalCatchChallenge.csproj.AssemblyReference.cache
+D:\CSharp-Advanced\OOP\C# OOP Exam Regular - 09 December 2023\Business Logic\obj\Debug\net6.0\NauticalCatchChallenge.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp-Advanced\OOP\C# OOP Exam Regular - 09 December 2023\Business Logic\obj\Debug\net6.0\NauticalCatchChallenge.AssemblyInfoInputs.cache
+D:\CSharp-Advanced\OOP\C# OOP Exam Regular - 09 December 2023\Business Logic\obj\Debug\net6.0\NauticalCatchChallenge.AssemblyInfo.cs
+D:\CSharp-Advanced\OOP\C# OOP Exam Regular - 09 December 2023\Business Logic\obj\Debug\net6.0\NauticalCatchChallenge.csproj.CoreCompileInputs.cache
+D:\CSharp-Advanced\OOP\C# OOP Exam Regular - 09 December 2023\Business Logic\bin\Debug\net6.0\NauticalCatchChallenge.exe
+D:\CSharp-Advanced\OOP\C# OOP Exam Regular - 09 December 2023\Business Logic\bin\Debug\net6.0\NauticalCatchChallenge.deps.json
+D:\CSharp-Advanced\OOP\C# OOP Exam Regular - 09 December 2023\Business Logic\bin\Debug\net6.0\NauticalCatchChallenge.runtimeconfig.json
+D:\CSharp-Advanced\OOP\C# OOP Exam Regular - 09 December 2023\Business Logic\bin\Debug\net6.0\NauticalCatchChallenge.dll
+D:\CSharp-Advanced\OOP\C# OOP Exam Regular - 09 December 2023\Business Logic\bin\Debug\net6.0\NauticalCatchChallenge.pdb
+D:\CSharp-Advanced\OOP\C# OOP Exam Regular - 09 December 2023\Business Logic\obj\Debug\net6.0\NauticalCatchChallenge.dll
+D:\CSharp-Advanced\OOP\C# OOP Exam Regular - 09 December 2023\Business Logic\obj\Debug\net6.0\refint\NauticalCatchChallenge.dll
+D:\CSharp-Advanced\OOP\C# OOP Exam Regular - 09 December 2023\Business Logic\obj\Debug\net6.0\NauticalCatchChallenge.pdb
+D:\CSharp-Advanced\OOP\C# OOP Exam Regular - 09 December 2023\Business Logic\obj\Debug\net6.0\NauticalCatchChallenge.genruntimeconfig.cache
+D:\CSharp-Advanced\OOP\C# OOP Exam Regular - 09 December 2023\Business Logic\obj\Debug\net6.0\ref\NauticalCatchChallenge.dll
