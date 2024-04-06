@@ -3,11 +3,12 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using InfluencerManagerApp.Models.Contracts;
 using InfluencerManagerApp.Utilities.Messages;
 
-namespace InfluencerManagerApp.Models.Contracts
+namespace InfluencerManagerApp.Models
 {
-    public class Campaign:ICampaign
+    public class Campaign : ICampaign
     {
         public Campaign(string brand, double budget)
         {
@@ -22,7 +23,7 @@ namespace InfluencerManagerApp.Models.Contracts
 
         public string Brand
         {
-            get=>brand;
+            get => brand;
             private set
             {
                 if (string.IsNullOrWhiteSpace(value))
@@ -35,20 +36,20 @@ namespace InfluencerManagerApp.Models.Contracts
 
         public double Budget
         {
-            get=>budget;
+            get => budget;
             private set { budget = value; }
         }
         public IReadOnlyCollection<string> Contributors => contributors;
         public void Gain(double amount)
         {
-           Budget+=amount;
+            Budget += amount;
         }
 
         public void Engage(IInfluencer influencer)
         {
             contributors.Add(influencer.Username);
-           int amount =  influencer.CalculateCampaignPrice();
-           Budget -= amount;
+            int amount = influencer.CalculateCampaignPrice();
+            Budget -= amount;
         }
 
         public override string ToString()

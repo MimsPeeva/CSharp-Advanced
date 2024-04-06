@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace InfluencerManagerApp.Models.Contracts
+namespace InfluencerManagerApp.Models
 {
-    public class BloggerInfluencer:Influencer
+    public class BloggerInfluencer : Influencer
     {
         private const double engagement = 2.0;
 

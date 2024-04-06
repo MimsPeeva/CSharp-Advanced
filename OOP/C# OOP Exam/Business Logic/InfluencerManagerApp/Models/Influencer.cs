@@ -10,7 +10,7 @@ namespace InfluencerManagerApp.Models
 {
     public abstract class Influencer:IInfluencer
     {
-        protected Influencer(string username, int followers, double engagementRate)
+        public Influencer(string username, int followers, double engagementRate)
         {
             this.username = username;
             this.followers = followers;

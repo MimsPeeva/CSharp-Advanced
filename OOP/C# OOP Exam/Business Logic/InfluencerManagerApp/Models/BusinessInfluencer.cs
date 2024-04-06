@@ -4,19 +4,18 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace InfluencerManagerApp.Models.Contracts
+namespace InfluencerManagerApp.Models
 {
-    public class FashionInfluencer:Influencer
+    public class BusinessInfluencer : Influencer
     {
-
-        private const double engagement = 4.0;
-        public FashionInfluencer(string username, int followers) : base(username, followers, engagement)
+        private const double engagement = 3.0;
+        public BusinessInfluencer(string username, int followers) : base(username, followers, engagement)
         {
         }
 
         public override int CalculateCampaignPrice()
         {
-            double result = Followers * EngagementRate * 0.1;
+            double result = Followers * EngagementRate * 0.15;
             int rounded = (int)Math.Floor(result);
             return rounded;
         }
