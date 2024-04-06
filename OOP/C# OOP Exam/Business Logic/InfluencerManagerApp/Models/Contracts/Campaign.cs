@@ -11,8 +11,8 @@ namespace InfluencerManagerApp.Models.Contracts
     {
         public Campaign(string brand, double budget)
         {
-            this.brand = brand;
-            this.budget = budget;
+            Brand = brand;
+            Budget = budget;
             contributors = new List<string>();
         }
 
@@ -41,7 +41,7 @@ namespace InfluencerManagerApp.Models.Contracts
         public IReadOnlyCollection<string> Contributors => contributors;
         public void Gain(double amount)
         {
-           budget+=amount;
+           Budget+=amount;
         }
 
         public void Engage(IInfluencer influencer)

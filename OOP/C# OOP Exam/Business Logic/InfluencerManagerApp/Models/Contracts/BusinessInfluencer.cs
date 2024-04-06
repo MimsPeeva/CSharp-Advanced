@@ -16,7 +16,7 @@ namespace InfluencerManagerApp.Models.Contracts
         public override int CalculateCampaignPrice()
         {
           double result =  Followers * EngagementRate * 0.15;
-           int rounded = (int)Math.Round(result);
+           int rounded = (int)Math.Floor(result);
            return rounded;
         }
     }

@@ -15,6 +15,7 @@ namespace InfluencerManagerApp.Models
             this.username = username;
             this.followers = followers;
             this.engagementRate = engagementRate;
+            Income = 0;
             participations = new List<string>();
         }
 
@@ -41,19 +42,24 @@ namespace InfluencerManagerApp.Models
             get=>followers;
             private set
             {
-                if (value>=0)
+                if (value<0)
                 {
                     throw new ArgumentException(ExceptionMessages.FollowersCountNegative);
                 }
                 followers = value;
             }
         }
-        public double EngagementRate { get=>engagementRate; }
+
+        public double EngagementRate
+        {
+            get=>engagementRate;
+            private set { engagementRate = value; }
+        }
 
         public double Income
         {
             get=>income;
-            private set { income = 0; }
+            private set { income = value; }
         }
         public IReadOnlyCollection<string> Participations => participations;
 

@@ -10,39 +10,120 @@ namespace SocialMediaManager.Tests
         private string name="Asq";
         private int followers=20000;
         private Influencer influencer;
-        private List<Influencer> influencersList;
-        private InfluencerRepository influenInfluencerRepository;
+        private List<Influencer> influencersData;
+        private InfluencerRepository influencerRepository;
         [SetUp]
         public void Setup()
         {
-            influencersList = new List<Influencer>();
+            influencersData = new List<Influencer>();
+            influencer = new Influencer(name, followers);
+            influencerRepository = new InfluencerRepository();
         }
 
         [Test]
         public void Constructor_Works_HappyPath()
         {
             influencer = new Influencer(name, followers);
+            Assert.IsNotNull(influencer);
             Assert.AreEqual(influencer.Followers,followers);
             Assert.AreEqual(influencer.Username,name);
         }
-
-        //[Test]
-        //public void Influensers_ReturnCorrectly_NewList()
-        //{
-        //    influenInfluencerRepository = new InfluencerRepository();
-        //    Assert.AreEqual(influenInfluencerRepository,0);
-        //}
+        [Test]
+        public void RegisterInfluencer_ThrowsEx()
+        {
+            Influencer nullInfluencer = null;
+            Assert.AreEqual(influencerRepository.Influencers.Count, 0);
+         Assert.Throws<ArgumentNullException>(() => {influencerRepository.RegisterInfluencer(nullInfluencer); });
+        }
 
         [Test]
-        public void RegisterInfluencer_HappyPath()
+        public void AlreadyAddedInfluencer_ThrosEx()
         {
-            string expected = $"Successfully added influencer {name} with {followers}";
-            influencer = new Influencer(name, followers);
+           // influencerRepository = new InfluencerRepository();
+            influencerRepository.RegisterInfluencer(influencer);
+            Assert.AreEqual(influencerRepository.Influencers.Count, 1);
+            Assert.AreEqual(influencerRepository.Influencers.Count, 1);
+            Assert.Throws<InvalidOperationException>(() =>
+            {
+                influencerRepository.RegisterInfluencer(influencer);
+            });
+        }
+        [Test]
+        public void Register_HappyPath()
+        {
+            string expected = $"Successfully added influencer Asq with 20000";
+            string actual = influencerRepository.RegisterInfluencer(influencer);
+            Assert.AreEqual(expected, actual);
+            Assert.AreEqual(influencerRepository.Influencers.Count, 1);
+        }
+        [Test]
+        public void RemoveMethod_NullInfluencer_ThrowsEx()
+        {
+            string nullUsername = null;
+            influencerRepository.RegisterInfluencer(influencer);
+            Assert.AreEqual(influencerRepository.Influencers.Count, 1);
+            Assert.Throws<ArgumentNullException>(() => influencerRepository.RemoveInfluencer(nullUsername));
+            Assert.AreEqual(influencerRepository.Influencers.Count, 1);
+        }
+        [Test]
+        public void RemoveInfluencer_ThrowsEx()
+        {
+            string username = " ";
+            influencerRepository.RegisterInfluencer(influencer);
+            Assert.AreEqual(influencerRepository.Influencers.Count,1);
+            Assert.Throws<ArgumentNullException>(() => influencerRepository.RemoveInfluencer(username));
+            Assert.AreEqual(influencerRepository.Influencers.Count, 1);
+        }
+        [Test]
+        public void RemoveReturnsTrue_HappyPath()
+        {
+            string usernameExisting = "Asq";
+            influencerRepository.RegisterInfluencer(influencer);
+            bool result = influencerRepository.RemoveInfluencer(usernameExisting);
+            Assert.IsTrue(result);
+            Assert.AreEqual(influencerRepository.Influencers.Count, 0);
+        }
+        [Test]
+        public void RemoveReturnsFalse_HappyPath()
+        {
+            string noExistUsername = "Goshoo";
+            influencerRepository.RegisterInfluencer(influencer);
+            bool result = influencerRepository.RemoveInfluencer(noExistUsername);
+            Assert.IsFalse(result);
+            Assert.AreEqual(influencerRepository.Influencers.Count, 1);
+        }
+        [Test]
+        public void InfluencerTheMostFollowers_HappyPath()
+        {
+            Influencer SmallestFollowersinfluencer = new Influencer("Sonq", 3);
+            Influencer MiddestFollowersinfluencer = new Influencer("Didi", 450);
+            Influencer BiggestFollowersinfluencer = new Influencer("Xixi", 300000);
+            influencerRepository.RegisterInfluencer(SmallestFollowersinfluencer);
+            influencerRepository.RegisterInfluencer(MiddestFollowersinfluencer);
+            influencerRepository.RegisterInfluencer(BiggestFollowersinfluencer);
 
-           string acctual = influenInfluencerRepository.RegisterInfluencer(influencer);
-            influencersList.Add(influencer);
-            Assert.AreEqual(expected, acctual);
-                
+            Influencer returnedInfluencer = influencerRepository.GetInfluencerWithMostFollowers();
+            Assert.That(returnedInfluencer, Is.Not.Null);
+            Assert.AreEqual(returnedInfluencer.Username, "Xixi");
+            Assert.AreEqual(returnedInfluencer.Followers, 300000);
+            Assert.AreEqual(returnedInfluencer, BiggestFollowersinfluencer);
+        }
+        [Test]
+        public void GetInfluencer_ByName_HappyPath()
+        {
+            Influencer firstInfluencer = new Influencer("Gosho", 20);
+            Influencer secondInfluencer = new Influencer("Petya", 50);
+            Influencer thirdInfluencer = new Influencer("Asq", 300);
+            influencerRepository.RegisterInfluencer(firstInfluencer);
+            influencerRepository.RegisterInfluencer(secondInfluencer);
+            influencerRepository.RegisterInfluencer(thirdInfluencer);
+            string validName = "Gosho";
+
+            Influencer returnedInfluencer = influencerRepository.GetInfluencer(validName);
+            Assert.That(returnedInfluencer, Is.Not.Null);
+            Assert.AreEqual(returnedInfluencer.Username, "Gosho");
+            Assert.AreEqual(returnedInfluencer.Followers, 20);
+            Assert.AreEqual(returnedInfluencer, firstInfluencer);
         }
     }
 }
